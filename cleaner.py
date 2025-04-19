@@ -51,7 +51,7 @@ def format_data(record: dict) -> dict:
     return cleaned
 
 
-def title_deduplication(cleaned_records):
+def title_deduplication(cleaned_records, log=False):
     """
     去除具有重复标题的数据，只留下第一个
     """
@@ -65,9 +65,8 @@ def title_deduplication(cleaned_records):
         else:
             # print(title)
             pass
-
-    print("去重前记录数：", len(cleaned_records))
-    print("去重后记录数：", len(deduped_records))
+    if(log):
+        print(f"去重前记录数：{len(cleaned_records)},去重后记录数：{len(deduped_records)}")
 
     return deduped_records
 
@@ -151,7 +150,7 @@ def rename_files_by_samples(data_dir: str):
             current_start += sample_count
 
 
-def cleaner(data_dir):
+def cleaner(data_dir, log=False):
     """
     主要函数，从整个文件夹下的所有文件提取并整理数据，在其他代码里调用这个就行
     """
@@ -173,11 +172,16 @@ def cleaner(data_dir):
 
     # 3. 进一步执行数据清洗，标准化数据格式，准备构建知识图库
     fully_cleaned = data_cleaning(area_data)
-    print(f"{len(fully_cleaned)} data has been accepted in total!")
+    if log:
+        print(f"{len(fully_cleaned)} data has been accepted in total!",end="\r")
     return fully_cleaned
 
 
 def cleaner_all(root_dir):
+    """
+    其实有一个bug是这个root_dir在第一次循环就已经覆盖掉了，实际上目录已经在第一个os.listdir硬编码进去了
+    刚刚review发现的，改不改都行qwq ---HaMmer4.19
+    """
     all_data = []
     for root_dir in os.listdir("data/src_data"):
         paper_dir = os.path.join("data/src_data", root_dir, "论文")
