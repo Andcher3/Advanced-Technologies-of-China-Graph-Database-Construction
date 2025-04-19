@@ -26,7 +26,8 @@
 
 ### 2. TODO List
 
-- ⏳ 找到 API，编写 prompt，将每篇文献（至少包括其 `title` 和 `keyword`）输入大模型
+- ⏳ 将合并后的关键词、作者地址、出版机构（还有后面会有的topic）都保存在本地（修改keyword_merging函数，加入输入参数是否保存，再加个新函数用来读取并写入data里）
+- ⏳ 找到 API，编写 prompt，将每篇文献（ `Title` , `Keywords` , `Subject`）输入大模型
 - ⏳ 获取每篇文献对应的多个 topic
 - ⏳ 收集所有 topic，并合并后添加为文献的属性（是的先放入文献下的属性）
 - ⏳ 修改配置文件，将 topic 属性抽出作为单独的节点
