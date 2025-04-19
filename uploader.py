@@ -18,7 +18,6 @@ if __name__ == "__main__":
 
     try:
         driver.verify_connectivity()
-        raise Exception("连接成功，但请注意：\n如果你在使用Neo4j Desktop，可能会出现连接成功但无法执行查询的情况。\n")
     except Exception as e:
         print(f"Connection error:\n{e}")
         exit(1)

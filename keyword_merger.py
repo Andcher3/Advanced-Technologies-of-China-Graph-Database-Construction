@@ -270,7 +270,7 @@ if __name__ == '__main__':
 
     from cleaner import cleaner, cleaner_all
     save_path = "data/merged_publisher.json"
-    deduped_records = cleaner_all(root_dir='data/src_data/')
+    deduped_records = cleaner_all(main_dir='data/src_data/')
     fully_cleaned = keyword_merging(deduped_records, ['Place Published', 'Publisher'], 0.96,
                                     mapping_file_path=save_path, force_recompute=True)
 

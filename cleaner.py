@@ -65,7 +65,7 @@ def title_deduplication(cleaned_records, log=False):
         else:
             # print(title)
             pass
-    if(log):
+    if (log):
         print(f"去重前记录数：{len(cleaned_records)},去重后记录数：{len(deduped_records)}")
 
     return deduped_records
@@ -77,7 +77,6 @@ def data_cleaning(records: list) -> list:
     对各记录进行标准化调整：
       - 去除多余空白（将多个空格替换为一个空格）
       - 去重（去除具有同样标题的）
-      - 关键词合并
     返回进一步清洗后的记录列表。
     """
     cleaned_records = []
@@ -173,7 +172,7 @@ def cleaner(data_dir, log=False):
     # 3. 进一步执行数据清洗，标准化数据格式，准备构建知识图库
     fully_cleaned = data_cleaning(area_data)
     if log:
-        print(f"{len(fully_cleaned)} data has been accepted in total!",end="\r")
+        print(f"{len(fully_cleaned)} data has been accepted in total!", end="\r")
     return fully_cleaned
 
 

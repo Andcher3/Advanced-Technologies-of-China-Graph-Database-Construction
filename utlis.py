@@ -58,7 +58,7 @@ def generate_paper_patent_node_queries(record: dict, keys_to_ignore: set) -> lis
 
     title_safe = _escape_cypher_string(title)
     # 根据 'Reference Type' 判断节点类型是 Paper 还是 Patent
-    node_type = record.get("Reference Type")
+    node_type = record.get("Reference Type").replace(" ", "_")
 
     # 构建节点属性字典，排除那些将作为独立节点处理的键或显式忽略的键
     node_props = {}

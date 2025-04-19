@@ -38,7 +38,7 @@ def generate_neo4j_graph_queries(records: list, link_config: list = NODE_LINK_CO
         processed_titles.add(title)  # 记录已处理的标题
         title_safe = _escape_cypher_string(title)
         # 判断是 Paper 还是 Patent
-        paper_node_type = record.get("Reference Type")
+        paper_node_type = record.get("Reference Type").replace(" ", "_")
         # 定义用于匹配文献节点的 Cypher 片段
         paper_match_clause = f"(p:{paper_node_type} {{title: '{title_safe}'}})"
 
