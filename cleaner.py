@@ -177,15 +177,17 @@ def cleaner(data_dir, log=False):
     return fully_cleaned
 
 
-def cleaner_all(root_dir):
+def cleaner_all(main_dir='data/src_data'):
     """
     其实有一个bug是这个root_dir在第一次循环就已经覆盖掉了，实际上目录已经在第一个os.listdir硬编码进去了
     刚刚review发现的，改不改都行qwq ---HaMmer4.19
+
+    Ohh shit I'll fix that ;) ---Andxher4.19.2
     """
     all_data = []
-    for root_dir in os.listdir("data/src_data"):
-        paper_dir = os.path.join("data/src_data", root_dir, "论文")
-        patent_dir = os.path.join("data/src_data", root_dir, "专利")
+    for root_dir in os.listdir(main_dir):
+        paper_dir = os.path.join(main_dir, root_dir, "论文")
+        patent_dir = os.path.join(main_dir, root_dir, "专利")
         # data_dir = "data/src_data/Medicine/论文"
         cleaned_paper = cleaner(paper_dir)
         cleaned_patent = cleaner(patent_dir)
