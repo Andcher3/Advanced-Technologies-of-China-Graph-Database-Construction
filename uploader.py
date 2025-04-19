@@ -3,12 +3,12 @@ from neo4j import GraphDatabase
 import re
 
 # 请根据你的实际情况修改下面的连接信息
-uri = "neo4j+s://10.9.116.110:7474"  # Neo4j Bolt 协议地址
+url = "bolt://10.9.116.110:7687"  # Neo4j Bolt 协议地址
 username = "neo4j"  # 数据库用户名
 password = "123456788"
 
 # 连接数据库
-driver = GraphDatabase.driver(uri, auth=(username, password))
+driver = GraphDatabase.driver(url, auth=(username, password))
 
 if __name__ == "__main__":
     from cleaner import cleaner_all
@@ -18,6 +18,7 @@ if __name__ == "__main__":
 
     try:
         driver.verify_connectivity()
+        raise Exception("连接成功，但请注意：\n如果你在使用Neo4j Desktop，可能会出现连接成功但无法执行查询的情况。\n")
     except Exception as e:
         print(f"Connection error:\n{e}")
         exit(1)
