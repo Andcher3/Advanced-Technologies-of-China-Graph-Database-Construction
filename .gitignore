@@ -57,3 +57,5 @@ __pycache__/
 
 # HaMmer
 /HaMmer/
+HaMmer*
+/HaMmer*/
