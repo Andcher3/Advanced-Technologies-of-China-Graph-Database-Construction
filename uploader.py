@@ -3,7 +3,7 @@ from neo4j import GraphDatabase
 import re
 
 # 请根据你的实际情况修改下面的连接信息
-uri = "neo4j://10.5.156.106:7687"  # Neo4j Bolt 协议地址
+uri = "neo4j://10.9.116.11:7687"  # Neo4j Bolt 协议地址
 username = "neo4j"  # 数据库用户名
 password = "123456788"
 
