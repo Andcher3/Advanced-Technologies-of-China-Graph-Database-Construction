@@ -78,8 +78,8 @@ if __name__ == '__main__':
     # merged_data = keyword_merging(merged_data, key_names=['Author Address'], similarity_threshold=0.95,
     #                               mapping_file_path=MERGED_SAVED_PATH["Author Address"], force_recompute=False)
     #
-    # merged_data = keyword_merging(merged_data, key_names=['Place Published', 'Publisher'], similarity_threshold=0.96,
-    #                               mapping_file_path=MERGED_SAVED_PATH["Publisher"], force_recompute=False)
+    merged_data = keyword_merging(merged_data, key_names=['Place Published', 'Publisher'], similarity_threshold=0.96,
+                                  mapping_file_path=MERGED_SAVED_PATH["Publisher"], force_recompute=False)
     print(f"数据准备完毕，共 {len(merged_data)} 条记录用于提取 Cypher 查询。")
 
     with open("data/merged_data.json", "w", encoding="utf-8") as f:

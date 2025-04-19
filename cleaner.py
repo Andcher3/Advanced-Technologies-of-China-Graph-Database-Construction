@@ -52,11 +52,12 @@ def format_data(record: dict) -> dict:
     for key, value in record.items():
         # 去除两端空格和末尾分号
         value = value.strip().strip(';')
-        if key.lower() in ["author", "author address", "keywords"]:
+        if key.lower() in ["author", "keywords", "tertiary author", "subsidiary author"]:
             # 按分号分隔，并剔除空内容
             cleaned[key] = [item.strip() for item in value.split(';') if item.strip()]
-        if key.lower() == "author address":
-            # print(cleaned[key])
+            # print(cleaned[key] if key == 'Keywords' else None)
+        elif key.lower() == "author address":
+            cleaned[key] = [item.strip() for item in value.split(';') if item.strip()]
             cleaned[key] = [item for part in cleaned[key] for item in part.split('.')]
             cleaned[key] = [item for part in cleaned[key] for item in part.split(',')]
             cleaned[key] = [item for part in cleaned[key] for item in part.split('/')]
@@ -106,16 +107,17 @@ def data_cleaning(records: list) -> list:
         new_rec = {}
         for k, v in rec.items():
             if isinstance(v, str):
-                # 去除多余空格
+                # 清理字符串值中的多余空格
                 v = re.sub(r"\s+", " ", v).strip()
             elif isinstance(v, list):
-                v = [re.sub(r"\s+", " ", item).strip() for item in v]
-            new_rec[k] = v
+                # 清理列表值中每个字符串元素的多余空格
+                # 确保 item 是字符串再处理
+                v = [re.sub(r"\s+", " ", item).strip() if isinstance(item, str) else item for item in v]
+            new_rec[k] = v  # 将清理后的值（字符串或列表）赋给新记录
         cleaned_records.append(new_rec)
 
     # 去重：以 Title 属性为依据（仅保留第一次出现的记录）
     deduped_records = title_deduplication(cleaned_records)
-
 
     return deduped_records
 
@@ -217,11 +219,11 @@ def cleaner_all(main_dir='data/src_data'):
 
 if __name__ == "__main__":
     data = cleaner_all()
-    with open("cleaned_data.json", "w", encoding="utf-8") as f:
-        json.dump(data, f, ensure_ascii=False, indent=4)
-
-    with open("address.json", "w", encoding="utf-8") as f:
-        json.dump(list(sample["Author Address"] if "Author Address" in sample.keys() else None for sample in data), f, ensure_ascii=False, indent=4)
+    # with open("cleaned_data.json", "w", encoding="utf-8") as f:
+    #     json.dump(data, f, ensure_ascii=False, indent=4)
+    print(data[1]['Keywords'])
+    # with open("address.json", "w", encoding="utf-8") as f:
+    #     json.dump(list(sample["Author Address"] if "Author Address" in sample.keys() else None for sample in data), f, ensure_ascii=False, indent=4)
     # ========================= 检查各个类型的文献的属性==========================
     # paper_type = []
     # for data in all_data:
@@ -236,13 +238,3 @@ if __name__ == "__main__":
     #         print("Author:", data['Author'])
     #         print('Tertiary Author:', data['Tertiary Author'])
 
-    # all_keys = set()
-    # for data in all_data:
-    #     keys = data.keys()
-    #     for key in keys:
-    #         all_keys.add(key)
-    #
-    # print(all_keys)
-
-    # all_data = keyword_merging(all_data, similarity_threshold=0.9, key_name="Keywords")
-    # all_data = keyword_merging(all_data, similarity_threshold=0.95, key_name="Author Address")
