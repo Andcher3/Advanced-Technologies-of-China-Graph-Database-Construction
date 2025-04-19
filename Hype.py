@@ -42,6 +42,13 @@ NODE_LINK_CONFIG = [
         'rel_type': 'PUBLISHED_BY',  # 关系类型为 PUBLISHED_BY (由...出版/发表)
         'rel_direction': 'to_new'  # 方向： (Paper/Patent)-[:PUBLISHED_BY]->(Organization)
     },
+    {
+        'record_keys': ['Author Address'],
+        'node_label': 'Author_Address',
+        'node_id_prop': 'name',
+        'rel_type': 'AUTHOR_ADDRESS',
+        'rel_direction': 'to_new'
+    }
     # --- 在这里添加更多属性到节点的映射配置 ---
     # 示例：如果你想把 'Journal' 也作为一个节点：
     # {
@@ -52,3 +59,28 @@ NODE_LINK_CONFIG = [
     #     'rel_direction': 'to_new'         # 方向：(Paper)-[:PUBLISHED_IN]->(Journal)
     # },
 ]
+
+
+if __name__ == '__main__':
+    import json
+    from cleaner import cleaner_all
+    from keyword_merger import keyword_merging
+
+    data = cleaner_all("data/src_data")
+
+    with open("data/cleaned_data.json", "w", encoding="utf-8") as f:
+        json.dump(data, f, ensure_ascii=False, indent=4)
+
+
+    merged_data = keyword_merging(data, key_names=['Keywords'], similarity_threshold=0.95,
+                                  mapping_file_path=MERGED_SAVED_PATH["Keywords"], force_recompute=False)
+    # 合并 Publishers 和 Places Published
+    # merged_data = keyword_merging(merged_data, key_names=['Author Address'], similarity_threshold=0.95,
+    #                               mapping_file_path=MERGED_SAVED_PATH["Author Address"], force_recompute=False)
+    #
+    # merged_data = keyword_merging(merged_data, key_names=['Place Published', 'Publisher'], similarity_threshold=0.96,
+    #                               mapping_file_path=MERGED_SAVED_PATH["Publisher"], force_recompute=False)
+    print(f"数据准备完毕，共 {len(merged_data)} 条记录用于提取 Cypher 查询。")
+
+    with open("data/merged_data.json", "w", encoding="utf-8") as f:
+        json.dump(merged_data, f, ensure_ascii=False, indent=4)

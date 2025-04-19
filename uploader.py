@@ -30,11 +30,12 @@ if __name__ == "__main__":
     merged_data = keyword_merging(all_data, key_names=['Keywords'], similarity_threshold=0.95,
                                   mapping_file_path=MERGED_SAVED_PATH["Keywords"], force_recompute=False)
     # 合并 Publishers 和 Places Published
-    merged_data = keyword_merging(merged_data, key_names=['Author Address'], similarity_threshold=0.95,
-                                  mapping_file_path=MERGED_SAVED_PATH["Author Address"], force_recompute=False)
-
-    merged_data = keyword_merging(merged_data, key_names=['Place Published', 'Publisher'], similarity_threshold=0.96,
-                                  mapping_file_path=MERGED_SAVED_PATH["Publisher"], force_recompute=False)
+    # 此处暂不启用（效果不佳）
+    # merged_data = keyword_merging(merged_data, key_names=['Author Address'], similarity_threshold=0.95,
+    #                               mapping_file_path=MERGED_SAVED_PATH["Author Address"], force_recompute=False)
+    #
+    # merged_data = keyword_merging(merged_data, key_names=['Place Published', 'Publisher'], similarity_threshold=0.96,
+    #                               mapping_file_path=MERGED_SAVED_PATH["Publisher"], force_recompute=False)
     print(f"数据准备完毕，共 {len(merged_data)} 条记录用于提取 Cypher 查询。")
 
     # --- Cypher 生成 (使用本文件中的 extractor) ---

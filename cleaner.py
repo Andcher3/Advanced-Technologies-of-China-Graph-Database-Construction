@@ -2,7 +2,7 @@ import os
 import re
 from collections import defaultdict
 from keyword_merger import keyword_merging
-
+import json
 
 def parse_entries(text: str) -> list:
     """
@@ -26,6 +26,19 @@ def parse_entries(text: str) -> list:
     return records
 
 
+def delete_post_numbers(records: list) -> list:
+    pattern = re.compile(r'(?:(?<=\D)|(?<=^))\s*\d{6}\s*(?=(?:\D)|$)')
+
+    cleaned = []
+    for s in records:
+        # 第一步：移除数字及其左右空白，替换成单个空格
+        temp = pattern.sub(' ', s)
+        # 第二步：合并多余空格，去除首尾空格
+        temp = re.sub(r'\s+', ' ', temp).strip()
+        cleaned.append(temp)
+    return cleaned
+
+
 def format_data(record: dict) -> dict:
     """
     对单个论文条目的数据进行清洗。
@@ -35,12 +48,21 @@ def format_data(record: dict) -> dict:
     返回清洗后的字典。
     """
     cleaned = {}
+
     for key, value in record.items():
         # 去除两端空格和末尾分号
         value = value.strip().strip(';')
         if key.lower() in ["author", "author address", "keywords"]:
             # 按分号分隔，并剔除空内容
             cleaned[key] = [item.strip() for item in value.split(';') if item.strip()]
+        if key.lower() == "author address":
+            # print(cleaned[key])
+            cleaned[key] = [item for part in cleaned[key] for item in part.split('.')]
+            cleaned[key] = [item for part in cleaned[key] for item in part.split(',')]
+            cleaned[key] = [item for part in cleaned[key] for item in part.split('/')]
+            cleaned[key] = [item for part in cleaned[key] for item in part.split('·')]
+            cleaned[key] = delete_post_numbers(cleaned[key])
+
         elif key.lower() in ["year", "volume", "issue"]:
             try:
                 cleaned[key] = int(value)
@@ -94,11 +116,6 @@ def data_cleaning(records: list) -> list:
     # 去重：以 Title 属性为依据（仅保留第一次出现的记录）
     deduped_records = title_deduplication(cleaned_records)
 
-    # 关键词合并：将语义相近的关键词合并
-    # 已改，这一部分需要加载完所有数据再进行，因此移至cleaner外单独进行
-    # merged_records = keyword_merging(deduped_records, similarity_threshold=similarity_threshold, key_name='Keywords')
-    # merged_records = keyword_merging(merged_records, similarity_threshold=0.95, key_name='Author Address')
-    # merged_records = deduped_records
 
     return deduped_records
 
@@ -199,8 +216,12 @@ def cleaner_all(main_dir='data/src_data'):
 
 
 if __name__ == "__main__":
-    all_data = cleaner_all("data/src_data")
+    data = cleaner_all()
+    with open("cleaned_data.json", "w", encoding="utf-8") as f:
+        json.dump(data, f, ensure_ascii=False, indent=4)
 
+    with open("address.json", "w", encoding="utf-8") as f:
+        json.dump(list(sample["Author Address"] if "Author Address" in sample.keys() else None for sample in data), f, ensure_ascii=False, indent=4)
     # ========================= 检查各个类型的文献的属性==========================
     # paper_type = []
     # for data in all_data:
@@ -215,13 +236,13 @@ if __name__ == "__main__":
     #         print("Author:", data['Author'])
     #         print('Tertiary Author:', data['Tertiary Author'])
 
-    all_keys = set()
-    for data in all_data:
-        keys = data.keys()
-        for key in keys:
-            all_keys.add(key)
-
-    print(all_keys)
+    # all_keys = set()
+    # for data in all_data:
+    #     keys = data.keys()
+    #     for key in keys:
+    #         all_keys.add(key)
+    #
+    # print(all_keys)
 
     # all_data = keyword_merging(all_data, similarity_threshold=0.9, key_name="Keywords")
     # all_data = keyword_merging(all_data, similarity_threshold=0.95, key_name="Author Address")
