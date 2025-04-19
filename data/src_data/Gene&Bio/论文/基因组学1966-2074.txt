@@ -1,0 +1,1755 @@
+{Reference Type}: Journal Article
+{Title}: 组学技术在中耳炎领域的应用
+{Author}: 张凯;吴远程;唐丽欢;胡娟;都梦贤;李博
+{Author Address}: 滨州医学院特殊教育与康复学院听觉言语康复科学研究院;西安交通大学第二附属医院耳鼻咽喉头颈外科;
+{Journal}: 中华耳科学杂志
+{Year}: 2025
+{Volume}: 23
+{Issue}: 02
+{Pages}: 305-309
+{Keywords}: 中耳炎;基因组学;蛋白质组学;代谢组学;转录组学;微生物组学
+{Abstract}: 中耳炎是指由细菌或病毒引起中耳结构的炎性病变，为临床耳鼻喉科中的常见疾病，好发于儿童，以耳痛、听力减退和耳内流脓为常见的症状。目前，临床上常使用抗菌药物与手术等手段对中耳炎进行治疗，但存在用药后不良反应和并发症等问题。因此，迫切需要对中耳炎的病理生理机制进行研究，以探寻更好的治疗方法。高通量技术的迅速发展使组学技术能够同时全面分析大量相似生物分子或单一分子。利用组学技术发现的新生物标志物使研究者加深对疾病病理生理机制的理解，为疾病诊断、治疗和预防提供新的思路。我们将从基因组学、蛋白质组学、代谢组学、转录组学和微生物组学5个方面综述组学技术应用于中耳炎领域的最新进展。
+{ISBN/ISSN}: 1672-2922
+{Notes}: 11-4882/R
+{URL}: https://kns.cnki.net/kcms2/article/abstract?v=lwcs1eIaudg_2ix03wlNda5Rdb2J7l8jD55yg_L_pGhY_QPMMsgTw-EMtEOdVfAcpubT083kU1pLsk8v4Oywgn0zeMUmmBskssWeYzlk98sEvBXFAcsY-sznk03NvYWRvp-gffLWdAu_P4ZpLfsnOhmUffGzZZsWM9wr1vaiB-DlYJZ3llGQ6z2fEMM9asoML8y-8jbFhF0=&uniplatform=NZKPT&language=CHS
+{Database Provider}: CNKI
+
+{Reference Type}: Journal Article
+{Title}: 影像组学在放射治疗中的研究现状
+{Author}: 张恒;宋林涛;曹德政;倪昕晔
+{Author Address}: 南京医科大学附属常州第二人民医院放疗科;江苏省医学物理工程研究中心;南京医科大学医学物理研究中心;常州市医学物理重点实验室;
+{Journal}: 临床放射学杂志
+{Year}: 2025
+{Volume}: 44
+{Issue}: 04
+{Pages}: 767-773
+{Abstract}: <正>放射治疗(放疗)是癌症治疗的关键手段，通过使用高能射线杀死或抑制肿瘤细胞的生长[1]。然而，在传统的放疗过程中，由于无法精确感知和识别病变组织，往往需要较大的边界和余量来确保肿瘤得到足够的照射剂量，但这也增加了对周围正常组织的损伤风险。为了改善放疗的精确性和疗效，逐渐开始出现了以图像引导放疗(image guided radiation therapy, IGRT)的方法。
+{ISBN/ISSN}: 1001-9324
+{Notes}: 42-1187/R
+{URL}: https://link.cnki.net/doi/10.13437/j.cnki.jcr.2025.04.016
+{DOI}: 10.13437/j.cnki.jcr.2025.04.016
+{Database Provider}: CNKI
+
+{Reference Type}: Journal Article
+{Title}: 灵芝基因组学及其功能基因研究进展
+{Author}: 谢欣;贺黎铭;蔡凌;刘林秋;罗霞
+{Author Address}: 四川省中医药科学院菌类药材研究所菌类药材系统研究与开发实验室;中药新药创制川渝共建重点实验室;
+{Journal}: 农业生物技术学报
+{Year}: 2025
+{Volume}: 33
+{Issue}: 04
+{Pages}: 898-910
+{Keywords}: 灵芝;基因组学;功能基因
+{Abstract}: 灵芝(Ganoderma lingzhi)是一种名贵的食、药用真菌，目前，从其各种组织中分离得到的次级代谢产物种类有200多种，其中灵芝三萜类化合物和灵芝多糖是其主要活性成分；药理学作用主要包括：抗高血压、抗肿瘤、抗衰老、免疫调节作用和对心血管系统疾病的缓解作用等；随着灵芝基因组测序的完成和遗传转化体系的建立，使其逐渐成为研究药用真菌次级代谢产物合成和调控的模式真菌；对灵芝的分子生物学研究涉及种质资源鉴定、遗传多样性、品种育种和功能基因克隆等方面，本文从灵芝的基因组学研究、参与调控灵芝生长发育、代谢产物合成、非生物胁迫以及信号转导的功能基因研究进展等方面进行了总结，为灵芝的进一步开发应用提供参考，也为阐明灵芝疗效的分子机理提供科学依据。
+{ISBN/ISSN}: 1674-7968
+{Notes}: 11-3342/S
+{URL}: https://kns.cnki.net/kcms2/article/abstract?v=lwcs1eIaudh60o1vX8gBGOuTpYnCz98k4XvtD3PBf23tRY7duFi5XCaZunoubqFMj3GDpHAVo8IUBni-ueke4e52652GCEkCa-D3MrvpcsFFOq5JGX_OBDkc3FDteuXBW18QCMvkHtTEYBkT_AgtQBh8Ir85PmRROJjpI2X9Lh0tGFAMEziVKJHue8prKZSgDJMljihXGMY=&uniplatform=NZKPT&language=CHS
+{Database Provider}: CNKI
+
+{Reference Type}: Journal Article
+{Title}: ML210通过调控GPX4介导的铁死亡通路抑制脑胶质瘤细胞的作用
+{Author}: 田宁;蒋艳林;牙东姗;李晓霞;郭冰;廖儒佳
+{Author Address}: 桂林医学院附属医院神经科学实验室;桂林医学院附属医院广西神经系统疾病临床医学研究中心;桂林医学院附属医院药学部;桂林医学院附属医院神经内科;
+{Journal}: 中国药理学通报
+{Year}: 2025
+{Issue}: 04
+{Pages}: 686-694
+{Keywords}: 脑胶质瘤;ML210;GPX4;铁死亡;U87细胞;分子对接;基因组学
+{Abstract}: 目的 研究ML210在脑胶质瘤中的作用及机制。方法CCK-8检测细胞活力;SYTOX法检测死细胞比例;基因组学筛选胶质瘤的铁死亡通路;EdU和克隆形成实验检测增殖;划痕检测迁移;流式细胞术检测凋亡;JC-1检测线粒体功能;分子对接结合免疫印记检测机制;ELISA检测ROS、MDA水平。结果 ML210剂量依赖性降低胶质瘤细胞活力、抑制增殖、迁移,增加凋亡与线粒体功能障碍,而铁死亡拮抗剂可逆转上述作用。基因组学发现胶质瘤中铁死亡通路688个基因异常,10条信号通路改变,分子对接结果表明ML210结合GPX4,抑制其表达、促进ROS、MDA水平升高。结论ML210通过GPX4介导的铁死亡通路产生抗脑胶质瘤细胞的作用。
+{ISBN/ISSN}: 1001-1978
+{Notes}: 34-1086/R
+{URL}: https://link.cnki.net/urlid/34.1086.R.20250324.1003.020
+{Database Provider}: CNKI
+
+{Reference Type}: Journal Article
+{Title}: 2024年泌尿系结石诊治进展
+{Author}: 洪扬;许清泉
+{Author Address}: 北京大学人民医院泌尿外科;
+{Journal}: 泌尿外科杂志(电子版)
+{Year}: 2025
+{Volume}: 17
+{Issue}: 01
+{Pages}: 3-10
+{Keywords}: 泌尿系结石;基因组学;人工智能;药物预防;结石复发
+{Abstract}: 泌尿系结石是常见泌尿系统疾病之一,2024年泌尿系结石诊治取得了重要进展,包括新一代基因组学研究揭示了更多与结石形成相关的遗传变异;人工智能、机器深度学习、大数据等技术在泌尿系结石诊治方面得到广泛应用,显著提高了临床诊治水平;新型一次性电子输尿管软镜、肾镜及配套智能控温控压技术使得结石微创手术更加安全有效;更多机器人辅助结石手术平台开展临床应用;药物预防结石复发取得新的成果。这些进展将有助于为患者提供个体化的管理方案,显著提高治疗效果,改善患者的生活质量。
+{ISBN/ISSN}: 1674-7410
+{Notes}: 11-9302/R
+{URL}: https://link.cnki.net/doi/10.20020/j.CNKI.1674-7410.2025.01.01
+{DOI}: 10.20020/j.CNKI.1674-7410.2025.01.01
+{Database Provider}: CNKI
+
+{Reference Type}: Journal Article
+{Title}: 金黄色葡萄球菌临床小菌落变异体的基因组学分析
+{Author}: 匡慧慧;丛琳;胡红焱;李松;刘玥
+{Author Address}: 解放军总医院海南医院检验科;广州中医药大学第二临床医学院广东省中医院检验科;广州中医药大学第一附属医院检验科;
+{Journal}: 中华医院感染学杂志
+{Year}: 2025
+{Issue}: 09
+{Pages}: 1287-1292
+{Keywords}: 金黄色葡萄球菌;小菌落变异体;生物被膜;全基因组测序;men B基因
+{Abstract}: 目的 研究和探讨金黄色葡萄球菌小菌落变异体(SCVs)的分子结构特征,为临床控制SC Vs造成的持续、反复感染提供理论基础与依据。方法 收集广州中医药大学第一附属医院临床血液样本培养分离获得的1株小菌落变异体金黄色葡萄球菌S2,观察该菌的菌落形态、生长速度、触酶、血浆凝固酶、生物被膜产生能力、抗菌药物敏感性、绘制生长曲线和自溶曲线、对菌株S2全基因组测序并基因组进化分析和单核苷酸多态性分析。结果 菌株S2经鉴定为金黄色葡萄球菌,触酶阳性,血浆凝固酶阳性,对红霉素、阿奇霉素等大环内酯类和左氧氟沙星、环丙沙星等氟喹诺酮类以及青霉素等多种抗菌药物耐药,该菌色素形成减少,溶血环形成缓慢,溶血能力降低,生长速度慢于ATCC 25923(质控菌株)及ZC1(正常对照菌株),自溶活性高于ATCC 25923及ZC1,生物被膜产量明显少于ATCC 29213(P<0.05)。全基因组测序证明菌株S2的分子分型为ST239-t030克隆型,含有多种耐药基因和毒力因子,并且menB基因发生了错义突变。结论 SCVs的形成可能与menB基因的错义突变阻断了甲萘醌的合成有关。
+{ISBN/ISSN}: 1005-4529
+{Notes}: 11-3436/R
+{URL}: https://link.cnki.net/urlid/11.3436.R.20250318.1004.054
+{Database Provider}: CNKI
+
+{Reference Type}: Journal Article
+{Title}: ICU一起疑似耐碳青霉烯类鲍曼不动杆菌医院感染暴发调查及全基因组学溯源
+{Author}: 刘可可;武坷鑫;曹恒;张桂;刘玉庆;李卫光
+{Author Address}: 山东省农业科学院畜牧兽医研究所中英噬菌体工程联合实验室;山东第一医科大学附属省立医院医院感染管理办公室;菏泽市牡丹人民医院医院感染管理办公室;山东第一医科大学附属省立医院医院重症医学科;
+{Journal}: 中华医院感染学杂志
+{Year}: 2025
+{Issue}: 09
+{Pages}: 1412-1416
+{Keywords}: 耐碳青霉烯类鲍曼不动杆菌;医院感染暴发;基因组二代测序
+{Abstract}: 目的 通过对重症监护病区(ICU)短期内集中出现的4例耐碳青霉烯类鲍曼不动杆菌(CRAB)患者进行流行病学调查,分析疑似CRAB暴发的来源。方法 回顾性分析2023年3月31日—4月7日山东第一医科大学附属省立医院收治的4例CRAB感染患者的临床资料及流行病学史,并对患者及其环境CRAB菌株进行了全基因组二代测序分析,通过全基因组测序的方法溯源了CRAB的菌株来源情况。结果 通过流行病学调查显示病例1、2、3、4空间位置较近,具有相似的耐药谱,可能存在交叉感染;结合基因组分析结果发现,病例1菌株从社区带入,与院内感染的其他CRAB菌株为不同的进化分支,病例2、病例3和病例4及环境分离的CRAB菌株具有相近的祖先来源。结论 病例1社区带入的CRAB与3例院内CRAB感染为不同的进化分支,该起疑似医院感染暴发的CRAB传播为多点来源。早期识别院内感染暴发并采取针对性的防控措施,是控制医院感染暴发的有效手段。
+{ISBN/ISSN}: 1005-4529
+{Notes}: 11-3436/R
+{URL}: https://link.cnki.net/urlid/11.3436.R.20250318.0937.044
+{Database Provider}: CNKI
+
+{Reference Type}: Journal Article
+{Title}: 宫颈癌相关分子标记的多组学研究现状
+{Author}: 李慧;冯勤梅;乔锦阳
+{Author Address}: 山西医科大学第五临床学院,山西省人民医院;
+{Journal}: 肿瘤学杂志
+{Year}: 2025
+{Volume}: 31
+{Issue}: 03
+{Pages}: 196-201
+{Abstract}: 宫颈癌的早期诊断、精准治疗及预后评估是医学研究的核心挑战。全文基于多组学技术，总结了与宫颈癌相关的分子标志物。在基因组学层面，整合素β1作为低氧诱导因子1α的新下游靶点，其抗肿瘤潜力逐渐显现，而核受体相关蛋白1和三叶因子3高表达可能增加宫颈癌风险。此外，接触蛋白4也在多种恶性肿瘤的进展中扮演重要角色。蛋白组学中，桥粒斑蛋白、蛋白磷酸酶1调控亚基13样和钙磷脂结合蛋白A8与宫颈癌的转移息息相关，B细胞淋巴瘤/白血病-2蛋白、转录因子SMAD3和磷酸化位点T70则通过调控细胞凋亡影响着宫颈癌的进展，候选蛋白质生物标志物微染色体维持缺陷3和桥粒包斑蛋白基因可作为癌前筛查的潜在标志物。转录组学方面，CC基序趋化因子配体20和环粒蛋白激酶抑制剂2A在肿瘤中显著性上调，磷脂酰肌醇-4,5-二磷酸3-激酶催化亚基α突变和PI3K/AKT通路的异常激活在HPV阴性诱导型宫颈癌发生中扮演核心角色。代谢组学方面，2-甲基-1-丙胺与雌酮组合检测有助于宫颈癌的早期诊断，而葡萄糖-6-磷酸脱氢酶和三甲胺氧化物通过调节代谢途径影响宫颈癌进展。这些关键的分子标志物为疾病的早期诊断、精准治疗和预后评估奠定了坚实的基础。
+{ISBN/ISSN}: 1671-170X
+{Notes}: 33-1266/R
+{URL}: https://link.cnki.net/urlid/33.1266.R.20250317.1041.004
+{Database Provider}: CNKI
+
+{Reference Type}: Journal Article
+{Title}: 组学技术在中药防治子宫内膜异位症中的研究现状
+{Author}: 岳斌;褚翠君;万文文;陈元欢;黄灿灿;程渊;张小花;武权生;毛海燕;梁莉
+{Author Address}: 甘肃中医药大学中医临床学院;甘肃省人民医院中医科;
+{Journal}: 中国临床药理学杂志
+{Year}: 2025
+{Volume}: 41
+{Issue}: 05
+{Pages}: 737-741
+{Keywords}: 中药;子宫内膜异位症;多组学技术;作用机制;研究现状
+{Abstract}: 中药防治子宫内膜异位症(EMs)的临床疗效确切，可以通过多途径、多靶点发挥作用。但中药成分的复杂性以及单一的研究方法导致该领域研究进展缓慢。随着高通量技术的出现，通过确定与EMs病理生理学相关的基因，弥补了单个靶点或通路诠释中药“整体调控”的局限性。本综述就基因组学、转录组学、蛋白组学、代谢组学及其联用组学技术揭示中药防治EMs的分子机制等相关研究进行综述，为精准化、客观化揭示防治EMs提供参考思路，同时也为揭示复杂药物干预疾病的机制提供理论依据。
+{ISBN/ISSN}: 1001-6821
+{Notes}: 11-2220/R
+{URL}: https://link.cnki.net/doi/10.13699/j.cnki.1001-6821.2025.05.027
+{DOI}: 10.13699/j.cnki.1001-6821.2025.05.027
+{Database Provider}: CNKI
+
+{Reference Type}: Journal Article
+{Title}: 儿童炎症性肠病的精准治疗研究与应用
+{Author}: 贾双珍;孔琰;刘前超;朱艾琳;吴捷
+{Author Address}: 国家儿童医学中心首都医科大学附属北京儿童医院消化科;
+{Journal}: 临床儿科杂志
+{Year}: 2025
+{Volume}: 43
+{Issue}: 03
+{Pages}: 226-232
+{Keywords}: 炎症性肠病;精准医学;治疗策略;儿童
+{Abstract}: 儿童炎症性肠病（IBD）是一种慢性复发性肠道炎性疾病，其病因不明，发病机制复杂，目前在诊治方面仍然面临挑战。IBD严重影响患儿的生长发育和生活质量，并可能对患儿的心理和社会行为产生不良影响，给社会带来巨大的经济负担。近年来，我国儿童IBD的发病率呈上升趋势，引起了儿科医师的高度重视。建立儿童IBD的精准治疗新模式成为国内外儿科医师和学者的目标。精准医学已被证明在肿瘤、新生儿遗传病的早期筛查与诊断等领域中发挥了重要作用，同时也为儿童IBD的治疗提供了新的方法和视角。本文就当前精准治疗在儿童IBD中的应用情况，阐明精准治疗在儿童IBD治疗中的作用。
+{ISBN/ISSN}: 1000-3606
+{Notes}: 31-1377/R
+{URL}: https://kns.cnki.net/kcms2/article/abstract?v=lwcs1eIaudjOr_DQGkmrLk6UKovnpMfrwHUwHQ7B6DJOdis1AhBjViefhyhuvxgRaetFiQ6Z1IBSOeDfiP3fQTQ5radeo2KxGmvuMLG_Asopd4qaCthP9T0ysrArJE8fRp9snxFO4x1jHzAu7GKoUHqspzrBg4CH55t_LSFLmhu_0HQUEOkow0pMG11xSSdTsfRpc_NzCCk=&uniplatform=NZKPT&language=CHS
+{Database Provider}: CNKI
+
+{Reference Type}: Journal Article
+{Title}: 类风湿关节炎的多组学研究进展
+{Author}: 高健;曾林;史易晗;苏巴提江·帕尔哈提;孙荣鑫;姜侃
+{Author Address}: 新疆医科大学第六附属医院关节外科;
+{Journal}: 中华骨与关节外科杂志
+{Year}: 2025
+{Volume}: 18
+{Issue}: 03
+{Pages}: 275-280
+{Keywords}: 类风湿关节炎;基因组学;表观遗传学;蛋白质组学;代谢组学
+{Abstract}: 类风湿关节炎（RA）是一种病因未明的慢性全身性自身免疫性疾病，以关节滑膜炎症、软骨破坏及全身并发症为特征，显著增加致残率和死亡率。近年来，多组学技术的整合分析为解析RA的复杂发病机制提供了全新视角。多组学技术通过整合遗传变异、表观调控、蛋白质动态及代谢通路，系统性阐述了RA的分子特征，为发现潜在的生物标志物和开发靶向治疗策略提供了理论依据。本文系统综述了基因组学、表观遗传学、蛋白质组学及代谢组学在RA研究中的进展。未来需进一步融合多组学数据，建立基于分子特征的RA分型体系，并推动转化医学研究，以解决临床实践中的挑战。
+{ISBN/ISSN}: 2095-9958
+{Notes}: 10-1316/R
+{URL}: https://kns.cnki.net/kcms2/article/abstract?v=lwcs1eIaudh3tqzVgzpDWRxKJRir1IY8-Q8NgVCWg0MzmnmK0CNVn7e8l2LIEde7Je0h5wvSQgD8WFTeXgc57-LBMD7R13Ep_Q-NrX16xH-x7Nbc5EGc_FUYJnLwnrnEa1UNjjJpgJvgqKqO9YtNEySB49v4PwzNrIPF_GKwy3zBVFshncYb1zaUT0SXKiUqNByPB-8M0Bs=&uniplatform=NZKPT&language=CHS
+{Database Provider}: CNKI
+
+{Reference Type}: Journal Article
+{Title}: EBV相关性肝内胆管癌的病理学研究进展
+{Author}: 陈诗璐;李硕;黄雨华;云径平
+{Author Address}: 华南恶性肿瘤防治全国重点实验室,广东省鼻咽癌诊治研究重点实验室,广东省恶性肿瘤临床医学研究中心,中山大学肿瘤防治中心;
+{Journal}: 中国细胞生物学学报
+{Year}: 2025
+{Volume}: 47
+{Issue}: 03
+{Pages}: 680-685
+{Keywords}: EB病毒;肝内胆管癌;临床病理;肿瘤免疫微环境;基因组学
+{Abstract}: 肝内胆管癌(intrahepatic cholangiocarcinoma, ICC)是发生于肝内胆管系统的恶性肿瘤,也是肝脏中第二常见的恶性肿瘤,因其侵袭性强、手术可切除率低及目前的治疗方法有限,患者预后较差。近数十年,全球ICC的发病率呈逐年上升趋势,大约50%的病例发病危险因素尚不明了。近年越来越多的研究发现, EB病毒(Epstein-Barr virus, EBV)感染与肝内胆管癌的发生发展密切相关, EBV相关性肝内胆管癌(EBV-associated ICC, EBVaICC)在病因学、临床病理、分子遗传学及潜在治疗策略等方面均与非EBV相关性肝内胆管癌(non-EBVaICC)存在差异。该文将综述EBV相关性肝内胆管癌的病理学及治疗策略的研究进展。
+{ISBN/ISSN}: 1674-7666
+{Notes}: 31-2035/Q
+{URL}: https://kns.cnki.net/kcms2/article/abstract?v=lwcs1eIaudgrWrlpKLk-RWHC1U7DMBPv3U1IbwN7w1RDu25lL89byF7-d5Ncj0m2sdeud6rxo815WHaufsXGyhIS7UkzuHngq0R4RxyJrkJJeZIFkwTssA87Lwg78y6emVfXlnV-uD22X2OIcPJQc4haUblT8OiXnpSGl23NtD4yel8F7DHSGZGYXd47YaYllqpY1f9eu4U=&uniplatform=NZKPT&language=CHS
+{Database Provider}: CNKI
+
+{Reference Type}: Journal Article
+{Title}: 支持时空组学大科学计划推动生物经济高质量发展
+{Author}: 李学梅
+{Author Address}: 北京日报社;
+{Journal}: 北京观察
+{Year}: 2025
+{Volume}: 
+{Issue}: 03
+{Pages}: 26
+{Abstract}: <正>时空组学技术在2023年被世界经济论坛评为十大新兴技术，可直接获得反映生命原貌的分子图谱，是绘制高精度“生命地图”的基础工具。国际大科学计划和大科学工程是国家综合实力和科技创新竞争力的重要体现，因具有研究目标宏大、科学问题复杂、多学科交叉、实验设施昂贵、经费投入巨大等特点，往往需要通过国际合作来实施。我国亟需加大对由中国科学家牵头发起的时空组学大科学计划的支持，提升我国在国际上的科研影响力，
+{ISBN/ISSN}: 1008-1208
+{Notes}: 11-3949/D
+{URL}: https://kns.cnki.net/kcms2/article/abstract?v=lwcs1eIaudhCgvkRvEMQ_-S4QzmWn5xFYp5IfxiGssuDVEGbFmDEgX6Sxu6Y09UToAQU_MOVMT10dKXnWkVp9LRcDCCot7q1vf5y9PZ3CMsKbyGVIVU9fkMKyThFrujWSb1N5Aohdb0JFoOFvkdN0gQqvGzRMGgRt3ePaDJGi4i25auyo3nD90QtYTwCk1N2sVnj-1N51Ko=&uniplatform=NZKPT&language=CHS
+{Database Provider}: CNKI
+
+{Reference Type}: Journal Article
+{Title}: 肺结核患者与结核潜伏感染者的肠道菌群宏基因组学分析
+{Author}: 阿丽米热·阿不力米提;蒋远东;王雨薇;买日哈巴·卡米力;向阳
+{Author Address}: 新疆医科大学公共卫生学院;重庆市江北区疾病预防控制中心;
+{Journal}: 中国微生态学杂志
+{Year}: 2025
+{Volume}: 37
+{Issue}: 03
+{Pages}: 304-311+317
+{Keywords}: 肠道菌群;肺结核;潜伏性结核感染;宏基因组学
+{Abstract}: 目的 分析肺结核患者和结核潜伏感染者的肠道微生物组成、差异菌群和菌群功能的变化，筛选和评估特定菌种，寻找区分肺结核患者和结核潜伏感染者的生物标志物。方法 纳入新疆阿克苏地区新和县20例新发肺结核患者（PTB）、18例结核潜伏感染者（LTBI）和20例健康对照者（HC），收集各组新鲜粪便样本进行宏基因组测序。比较三组肠道菌群的组成、多样性和功能变化，采用受试者工作特征（ROC）曲线评估PTB和LTBI关键物种的鉴定效能。结果 PTB组和LTBI组与HC组相比，肠道菌群多样性发生显著变化，PTB组α-多样性显著低于LTBI组和HC组（均P<0.05），三组β-多样性存在差异（P<0.05）。3组肠道菌群组成存在显著差异。与HC相比，PTB组疣微菌门相对丰度显著升高（P<0.05），粪杆菌属、普雷沃菌属和链状杆菌属相对丰度降低（P<0.05）。LTBI组拟杆菌门、广古菌门和疣微菌门相对丰度升高（P<0.05），双歧杆菌属相对丰度降低（P<0.05）。在种水平上，嗜黏蛋白阿克曼菌对PTB组的鉴别效能为0.911,Prevotella copri对LTBI组的鉴别效能为0.855。KEGG分析显示，三组菌群代谢通路差异有统计学意义（P<0.05）。其中，差异功能相对丰度最高的两个通路分别为氨酰-tRNA生物合成通路和错配修复通路。结论 PTB和LTBI组肠道菌群组成和功能通路存在差异。通过种水平上筛选出来的差异微生物可能是PTB和LTBI诊断提供新思路。
+{ISBN/ISSN}: 1005-376X
+{Notes}: 21-1326/R
+{URL}: https://link.cnki.net/doi/10.13381/j.cnki.cjm.202503007
+{DOI}: 10.13381/j.cnki.cjm.202503007
+{Database Provider}: CNKI
+
+{Reference Type}: Journal Article
+{Title}: 硕士研究生植物基因组学课程教学改革模式探究与实践
+{Author}: 王森;李蕊;李玮瑜;郑轶
+{Author Address}: 北京农学院植物科学技术学院;
+{Journal}: 安徽农学通报
+{Year}: 2025
+{Volume}: 31
+{Issue}: 05
+{Pages}: 125-128
+{Keywords}: 科教融合;植物基因组学;现代农业发展;“三农”情怀
+{Abstract}: 为探索在科教融合理念下构建科研与教育深度融合的硕士研究生课程教学模式，对植物基因组学课程存在的部分学生知识基础薄弱、教学内容更新不及时、科研与教学存在脱节、思政元素融入不足以及考核评价体系不完善5个方面的问题进行分析，并提出相应的改革措施。具体包括以学生为主体，调查其选课的动机与诉求等基本情况，根据个体差异，有针对性地优化教学内容与授课方式；设计模块化授课内容，将理论部分教学划分为植物基因组研究现状与进展、植物群体基因组等6个模块，并以综述文献的方式授课，展现系统前沿的研究成果；开展以科研项目为导向的研讨式教学，通过分组研讨、教师点评等手段，培养学生的创新能力；将科学家精神等思政元素融入课堂教学，引入生动的案例和故事，培养学生的“三农”情怀；采用多元化评价体系，包括课题项目的评价、课堂讨论的表现、项目报告的评估和实践能力等，全面考核学生的能力。教学改革实践结果表明，在新的教学模式下，课程教学质量明显提高，不仅提升了学生的科研素质和创新能力，还培养了其科学精神和社会责任感，为现代农业发展培育高质量人才提供参考。
+{ISBN/ISSN}: 1007-7731
+{Notes}: 34-1148/S
+{URL}: https://link.cnki.net/doi/10.16377/j.cnki.issn1007-7731.2025.05.027
+{DOI}: 10.16377/j.cnki.issn1007-7731.2025.05.027
+{Database Provider}: CNKI
+
+{Reference Type}: Journal Article
+{Title}: CYP2C19基因多态性对奥美拉唑药代动力学影响
+{Author}: 朱琦涛;姜敏生;尹咸淼;宋欢;丁峰;甘方良
+{Author Address}: 湖北科技学院医学部药学院;湖北科技学院附属第一医院/咸宁市中心医院Ⅰ期临床研究中心;
+{Journal}: 湖北科技学院学报(医学版)
+{Year}: 2025
+{Volume}: 39
+{Issue}: 02
+{Pages}: 98-102+106
+{Keywords}: 奥美拉唑镁;CYP2C19;基因组学;药代动力学;肠溶片
+{Abstract}: 目的 研究中国成人受试者体内不同CYP2C19基因型对奥美拉唑镁肠溶片药代动力学影响。方法 招募32例中国健康成人受试者空腹单次服用奥美拉唑镁肠溶片参比制剂并进行基因检测，采用单中心、随机、开放、单剂量、两制剂、四周期、两序列完全重复交叉设计，受试者口服受试制剂20mg或参比制剂20 mg,抽取空腹组血样至给药后14h。用超高效液相色谱-串联质谱（UPLC-MS/MS）法测定血样中奥美拉唑镁的浓度，并采用Phoenix WinNonlin 8.2统计软件，以非房室模型（NCA模块）计算奥美拉唑镁主要PK参数并评价不同CYP2C19基因对于药物代谢的影响。结果 服用受试制剂正常代谢组、中间代谢组、慢代谢组的Cmax和AUC0-t分别为（286.2±75.7）μg/L,（511.9±198.5）μg·h/L;（542.8±123.6）μg/L,（1075.58±476.21）μg·h/L;（1209.1±165.6）μg/L,（4539.83±1064.55）μg·h/L;3组间差异均存在显著性（P<0.05）。服用参比制剂空腹条件下，正常代谢组、中间代谢组、慢代谢组的Cmax和AUC0-t分别为（264.1±84.7）μg/L,（545.11±229.8）μg·h/L;（538.7±183.1）μg/L,（1110.66±826.33）μg·h/L;（1234.4±182.1）μg/L,（4308.98±1500.34）μg·h/L;3组间差异均存在显著性（P<0.05）。两制剂主要药动学参数(Cmax、AUC0-t、AUC0-∞)的几何均值比90%置信区间均落于80.00%～125.00%。结论 不同个体内CYP2C19基因存在差异，从而导致CYP2C19酶活性的不同，并会影响奥美拉唑镁肠溶片在人体内的血药浓度以及药动学过程。
+{ISBN/ISSN}: 2095-4646
+{Notes}: 42-1839/R
+{URL}: https://link.cnki.net/doi/10.16751/j.cnki.2095-4646.2024102909
+{DOI}: 10.16751/j.cnki.2095-4646.2024102909
+{Database Provider}: CNKI
+
+{Reference Type}: Journal Article
+{Title}: 蔬菜作物育种研究进展
+{Author}: 王梦琪;任勇攀;冯丽环;庞中华
+{Author Address}: 喀什职业技术学院;泰山职业技术学院;
+{Journal}: 安徽农学通报
+{Year}: 2025
+{Volume}: 31
+{Issue}: 05
+{Pages}: 33-38
+{Keywords}: 蔬菜作物;育种;基因编辑;性状改良
+{Abstract}: 本文综述了当前用于蔬菜作物的传统育种和现代育种技术。传统育种包括广泛杂交、近亲繁殖等，能改良作物性状，存在效率较低、成本较高等局限性。引入诱变、基因编辑等现代育种技术可有效提高育种效率和精准度；基因组测序和功能基因组学的进步，为解析蔬菜基因组提供了可能，并促进性状精准改良；分子标记技术和转基因技术也为提高蔬菜产量、品质和耐逆性提供了新手段。通过这些技术进行蔬菜作物育种，能够提升作物的适应性和经济价值，确保食品安全和营养需求。未来将继续探索基因组辅助育种的潜力，将大数据和人工智能等技术应用于蔬菜育种，为开发高产、抗病害且耐胁迫的蔬菜品种提供参考。
+{ISBN/ISSN}: 1007-7731
+{Notes}: 34-1148/S
+{URL}: https://link.cnki.net/doi/10.16377/j.cnki.issn1007-7731.2025.05.008
+{DOI}: 10.16377/j.cnki.issn1007-7731.2025.05.008
+{Database Provider}: CNKI
+
+{Reference Type}: Journal Article
+{Title}: 儿童抽动障碍的遗传学研究进展
+{Author}: 张思;韩斐
+{Author Address}: 中国中医科学院广安门医院儿科;
+{Journal}: 中国妇幼保健
+{Year}: 2025
+{Volume}: 40
+{Issue}: 06
+{Pages}: 1157-1161
+{Keywords}: 抽动障碍;基因组学;儿童;遗传学;研究进展
+{Abstract}: <正>抽动障碍是儿童时期常见的神经发育障碍疾病，目前发病机制未明，诸多研究提示遗传因素在抽动障碍的发病中占据重要角色，且几乎可以肯定本病属于多基因影响的复杂疾病。近年来，全基因组关联研究方法使得众多常见变异得以识别，下一代测序技术的发展又辅助识别各种罕见变异，抽动障碍的遗传学研究日渐丰满。现有结果表明，抽动障碍遗传学上的常见变异数量多但效应较小，而分析得出的罕见变异则数量少，其效应相对较大。
+{ISBN/ISSN}: 1001-4411
+{Notes}: 22-1127/R
+{URL}: https://link.cnki.net/doi/10.19829/j.zgfybj.issn.1001-4411.2025.06.045
+{DOI}: 10.19829/j.zgfybj.issn.1001-4411.2025.06.045
+{Database Provider}: CNKI
+
+{Reference Type}: Journal Article
+{Title}: 基于多组学的脓毒症分型及精准治疗研究进展
+{Author}: 谢牧天;惠亮亮
+{Author Address}: 南京医科大学研究生院;南京医科大学附属淮安第一医院重症医学科;
+{Journal}: 中国急救医学
+{Year}: 2025
+{Volume}: 45
+{Issue}: 03
+{Pages}: 257-262
+{Keywords}: 脓毒症;分型;精准治疗;基因组学;转录组学;蛋白质组学;代谢组学
+{Abstract}: 脓毒症是一种严重的危及患者生命健康的疾病，其病死率高，临床表现具有高度异质性，因此救治仍存在诸多挑战，尤其在精准治疗方面。随着基因组学、转录组学、蛋白质组学和代谢组学的发展，对脓毒症的认识也不断加深。本研究通过归纳基于多组学的脓毒症分型研究进展，以期能够为今后脓毒症分型研究提供新视角，并为脓毒症的精准治疗提供新思路。
+{ISBN/ISSN}: 1002-1949
+{Notes}: 23-1201/R
+{URL}: https://kns.cnki.net/kcms2/article/abstract?v=lwcs1eIaudjFmVwnJKWMTJo-fb8aPOBEJZtA7r4TGX5csdM7wT6pWrHiy3YX4Lafk6HyY9sHamc6N56sfbkcIBe-QSfE3L4ekUx6fzNlrCwAAcq6pF1rZvFg9FoQYA6BYQe7U1-DDi24-9WvqQexIPHvgf6Z0Pd9gPBhKJOvTb_7-YCouxlqzVL69pH-BlCGJGPiGSxmJA4=&uniplatform=NZKPT&language=CHS
+{Database Provider}: CNKI
+
+{Reference Type}: Journal Article
+{Title}: 轮藻门植物基因组学研究进展
+{Author}: 夏琳凤;李瑞;王海政;冯大领;王春阳
+{Author Address}: 河北农业大学生命科学学院;
+{Journal}: 植物学报
+{Year}: 2025
+{Volume}: 60
+{Issue}: 02
+{Pages}: 271-282
+{Keywords}: 轮藻门植物;演化比较基因组学;基因组;陆地化
+{Abstract}: 轮藻门(Charophyta)植物与陆生植物组成单系的链形植物门,化石证据和分子证据支持陆生植物起源于轮藻门植物。该文总结了已完成全基因组测序的10种轮藻门植物的14个全基因组信息,综述了植物陆地化的分子机制,表明调控植物激素信号转导和编码关键转录因子的基因家族扩张和基因水平转移是轮藻产生预适应的潜在原因。文中阐述了轮藻门植物全基因组数据在转录组学和基因功能研究中的作用,提出端粒到端粒的基因组和泛基因组对于深入理解植物陆地化的重要性,以及整合基因组信息和生物学实验在解析轮藻门植物基因功能和起源方面的必要性。
+{ISBN/ISSN}: 1674-3466
+{Notes}: 11-5705/Q
+{URL}: https://kns.cnki.net/kcms2/article/abstract?v=lwcs1eIaudiEdeu8Azd9sakx0neGkyt9fYEJOEH_QFnSbjl9GIsml4t42tztLWtBsXgxHio9jOzMwWYPEUy2PCU23Y-F3azJWYb24QdDyACp56lPnOugJl5yn9by2HfBZ1XVG18zRMUPizAO_WOd2vYaLOKrq-y3h25ccabx7KyAT6RkZsS9SO_FehE7dz0XpgEENbeytF4=&uniplatform=NZKPT&language=CHS
+{Database Provider}: CNKI
+
+{Reference Type}: Journal Article
+{Title}: 2024年中国植物科学重要研究进展
+{Author}: 顾红雅;陈凡;林荣呈;漆小泉;杨淑华;陈之端;陈学伟;丁兆军;萧浪涛;左建儒;姜里文;白永飞;种康;王雷
+{Author Address}: 北京大学;崖州湾国家实验室;湘湖实验室;中国科学院植物研究所;中国农业大学;四川农业大学;山东大学;湖南农业大学;中国科学院遗传与发育生物学研究所;香港中文大学;
+{Journal}: 植物学报
+{Year}: 2025
+{Volume}: 60
+{Issue}: 02
+{Pages}: 151-171
+{Keywords}: 中国;植物科学;研究进展;2024年
+{Abstract}: 2024年中国科学家在植物科学主流期刊发表的论文数量相比2023年大幅提升,在植物激素调控、病理学、合成生物学、耐逆性机制、系统发育与基因组学等领域取得了重要研究进展。其中,“紫杉醇生物合成”和“实现一年生与多年生植物的自由转换”入选2024年度中国生命科学十大进展。该文总结了2024年度我国植物科学研究取得的成果,简要介绍了50项有代表性的重要进展,以帮助读者了解我国植物科学的发展态势,进而思考如何更好地开展下阶段研究工作和服务国家战略需求。
+{ISBN/ISSN}: 1674-3466
+{Notes}: 11-5705/Q
+{URL}: https://kns.cnki.net/kcms2/article/abstract?v=lwcs1eIaudgZdkJHMbF2or1MrMXUsrR-s9G2uZLF2M13Qv6tiyArvh9R3nK82VWD4u03Si3BCo47-sShzTrCG-6hPxDA2buw6eBqys0rkyqOKChvjwJT0g6Nh9nUJJ0YeBIFSbL8zz2uqY9e9AXswnZ-bnxgNhHOX5IJUthfn3dVqi9e288eOPVmshkxOWg6xOhhHFEME24=&uniplatform=NZKPT&language=CHS
+{Database Provider}: CNKI
+
+{Reference Type}: Journal Article
+{Title}: 宏基因组学在中药栽培学教学改革中的应用
+{Author}: 李道远;郝经文;郑少君;李姣;陈乃东
+{Author Address}: 皖西学院生物与制药工程学院;
+{Journal}: 智慧农业导刊
+{Year}: 2025
+{Volume}: 5
+{Issue}: 05
+{Pages}: 151-154
+{Keywords}: 宏基因组学;中药栽培学;教学改革;土壤微生物;信息化教学
+{Abstract}: 为满足中药行业对创新型人才的需求，该文从课程资源、教学模式和课程考核3个方面分析宏基因组学技术在中药栽培学教学中的应用。通过利用长江雨课堂教学平台与线下教学相结合，重构教学手段，整合核心内容并引入前沿知识，并采用多元化的考核模式来评估教学效果。鉴于大多数中药专业学生有继续深造的需求，将宏基因组学研究成果转化为课堂内容，在培养具备科研素养的高质量中药专业人才方面奠定坚实基础，提升中药专业毕业生就业竞争力，并为相关课程及其改革提供有益参考。
+{ISBN/ISSN}: 2096-9902
+{Notes}: 23-1613/S
+{URL}: https://link.cnki.net/doi/10.20028/j.zhnydk.2025.05.034
+{DOI}: 10.20028/j.zhnydk.2025.05.034
+{Database Provider}: CNKI
+
+{Reference Type}: Journal Article
+{Title}: 诱变高产菌株戊糖片球菌C282中差异基因的鉴定及代谢关键蛋白的鉴定
+{Author}: 林一;杨梓璐;王天铭;陆佳雯;汪立平
+{Author Address}: 上海海洋大学食品学院;海水产品加工及贮藏工程技术研究中心;农业部水产品贮藏保鲜质量安全风险评估实验室(上海);
+{Journal}: 青岛科技大学学报(自然科学版)
+{Year}: 2025
+{Volume}: 46
+{Issue}: 01
+{Pages}: 49-59
+{Keywords}: 细菌素;戊糖片球菌;紫外诱变;比较基因组学;全基因组测序
+{Abstract}: 为获得高产细菌素菌株，对高产突变菌株进行全基因组测序分析，以探究菌株高效产细菌素的分子机制。将原始菌株戊糖片球菌C-2-1进行多轮紫外诱变处理，突变菌株利用二代测序平台进行测序，然后进行组装和功能注释。组装得到的全基因组序列与原始菌株进行比较基因组学分析。结果表明，经过8轮紫外诱变获得一株正突变菌株C282，其抑菌效价1 371.50IU·mL-1，相较原始菌株(170.81 IU·mL-1)提高7.03倍。菌株C282的基因组是由一个1 976 069bp的染色体组成，GC含量为37.13%，共编码2 049个蛋白。全基因组的共线性分析说明菌株C282基因组与原始菌株C-2-1具有显著差异；与原始菌株相比，C282菌株新增了一种编码细菌素pediocin PA-1的次级代谢产物合成基因簇，推测是原始菌株对环境变化的响应；通过GO、KEGG、COG数据库比对C282和原始菌株的基因组，发现其两株菌的差异基因主要富集在碳水化合物代谢和氨基酸代谢等相关通路。该研究揭示了原始菌株与突变菌株的差异基因信息，为原始菌株的定点改良确定了基因靶点，为比较基因组学改良其他菌株提供了范式。
+{ISBN/ISSN}: 1672-6987
+{Notes}: 37-1419/N
+{URL}: https://link.cnki.net/doi/10.16351/j.1672-6987.2025.01.007
+{DOI}: 10.16351/j.1672-6987.2025.01.007
+{Database Provider}: CNKI
+
+{Reference Type}: Journal Article
+{Title}: JCVI:用于比较基因组学分析的多功能工具包
+{Author}: 张以星;王争光;谭月;吴婷婷;齐浥颖;王宇浩;黄育敏;张积森;唐海宝
+{Author Address}: 福建农林大学未来技术学院,海峡联合研究院,福建省海峡植物应用系统生物学重点实验室;福建农林大学农学院,海峡联合研究院,福建省海峡植物应用系统生物学重点实验室;广西大学农学院,亚热带农业生物资源保护与利用国家重点实验室;
+{Journal}: 基因组学与应用生物学
+{Year}: 2025
+{Volume}: 44
+{Issue}: 01
+{Pages}: 1-10
+{Keywords}: 共线性分析;表型提取;基因组质量控制;基因组挂载
+{Abstract}: 随着高通量测序技术的快速发展，越来越多物种的基因组组装、注释，以及比较基因组学研究得到开展。尽管已有各类工具可以分别处理这些步骤，但用户对能够整合这些不同工具的解决方案的需求日益增加。在此，本文介绍了JCVI库，这是一个功能多样的基于Python的库，其模块化设计能够处理格式解析、图形生成、基因组挂载和植物表型提取等多种任务。该库以BSD-2-Clause许可证发布，用户可在https://github.com/tanghaibao/jcvi免费获取。JCVI提供了简洁统一的解决方案，简化了这些任务，使研究人员能够流畅地开展全面的基因组分析。
+{ISBN/ISSN}: 1674-568X
+{Notes}: 45-1369/Q
+{URL}: https://link.cnki.net/doi/10.13417/j.gab.044.000001
+{DOI}: 10.13417/j.gab.044.000001
+{Database Provider}: CNKI
+
+{Reference Type}: Journal Article
+{Title}: 农业植物耐寒品种筛选及应用
+{Author}: 党丽霞
+{Author Address}: 朔州职业技术学院;
+{Journal}: 农业开发与装备
+{Year}: 2025
+{Volume}: 
+{Issue}: 02
+{Pages}: 43-45
+{Keywords}: 农业植物;耐寒品种;基因组学;分子标记
+{Abstract}: 寒冷是农业生产中的重要限制因素之一，尤其在气候变化加剧的背景下，低温对作物生长发育的影响愈加显著。耐寒性强的农业植物品种能够有效适应低温环境，保证在严寒季节的正常生长和高产稳产，具有重要的经济和生态价值。因此，筛选和培育适应低温的农作物品种，对于提升农业生产的稳定性和抗风险能力至关重要。近年来，随着分子生物学技术的快速发展，耐寒性基因的研究逐渐深入，为耐寒作物的遗传改良提供了新的思路和手段。这些耐寒品种能提高作物的抗寒能力，拓展农业种植的区域和季节范围。
+{ISBN/ISSN}: 1673-9205
+{Notes}: 32-1779/TH
+{URL}: https://kns.cnki.net/kcms2/article/abstract?v=lwcs1eIaudgFjqoHa3HtyHSpHyCHD6_P4iTb1DMJ2V9BBHkAXKVniNqf2ceFKXNpbLYJuKb_RGsRFMYehcjLXOJ-Y6zpPFDY69xfMmxT5KtCoJaW9e757EqdoYw0_JcMXZWb1gRo5WG3E-PLoMN0ZzQEj8EUf2yBbK5_n5cHsqaqJCMLKdOqxS-3MRNXiUbGzxDwssDtHyw=&uniplatform=NZKPT&language=CHS
+{Database Provider}: CNKI
+
+{Reference Type}: Journal Article
+{Title}: 全基因组测序技术在体检人群健康管理中的应用
+{Author}: 高姚怡;张丽;魏志英;沈敏娜;张华阳;张春燕;潘柏申;王蓓丽;郭玮
+{Author Address}: 复旦大学附属中山医院检验科;上海市老年医学中心检验科;
+{Journal}: 检验医学
+{Year}: 2025
+{Volume}: 40
+{Issue}: 02
+{Pages}: 148-153
+{Keywords}: 全基因组测序;单基因遗传病;体检;健康管理
+{Abstract}: 目的 探讨全基因组测序（WGS）在体检人群中的获益情况。方法 选取2023年3月—2024年7月于复旦大学附属中山医院行WGS的70名体检者。收集所有研究对象的一般资料，并对测序数据进行生物信息学分析，参考美国医学遗传学与基因组学学会（ACMG）相关指南对检出的变异进行致病性分析。结果70名体检者共检测出390个基因变异，其中致病变异69个（17.7%）、疑似致病变异76个（19.5%）；有16例（22.9%）检出了19个可引起单基因遗传病的变异；有60例（85.7%）检测到至少一种与隐性遗传病或X连锁遗传病相关的致病或疑似致病变异，检出率居前5位的基因分别为GJB2(6.67%)、HFE(4.17%)、DUOX2(3.33%)、SLC26A4(3.33%)和SERPINB7(2.50%)。70名体检者中有5例（7.14%）、2例（2.86%）、1例（1.43%）、1例（1.43%）、1例（1.43%）、1例（1.43%）分别检出阿尔茨海默病、强制性脊柱炎、干燥综合征、胆结石病、前列腺癌和多发性骨髓瘤高遗传风险，有2例（2.86%）、1例（1.43%）分别检出银屑病、白内障低遗传风险。100%的体检受检者会对至少一种药物不响应或产生不良反应。结论 体检者均能从WGS检测中不同程度获益。WGS在体检人群中的进一步推广或可助力全生命周期的疾病预防和健康管理。
+{ISBN/ISSN}: 1673-8640
+{Notes}: 31-1915/R
+{URL}: https://kns.cnki.net/kcms2/article/abstract?v=lwcs1eIaudh2gXiOEa0OZpTCrMpL5PQ3gVoEpPq2XGwsERMd4wrgBmTkRmY1hFsQkeGPD7YRcsB-99bMDKSl4Ww-MmNWmzmV0Ee60lprTX2HG2E8nNgsSS_h9xfR-H0VR5aFzZMxHHhMYau4PcswTUA2fDq2_3gkBchr9s5g0nJn-4vFH-sUUoZPbnGrSKeZ0JtX091fYOU=&uniplatform=NZKPT&language=CHS
+{Database Provider}: CNKI
+
+{Reference Type}: Journal Article
+{Title}: 组学技术在中医药防治肺纤维化研究中的应用现状
+{Author}: 连妮妮;骆亚莉;阮琳峰;罗晶;冯丽;邓心如
+{Author Address}: 甘肃中医药大学基础医学院;甘肃省高校重大疾病分子医学与中医药防治研究省级重点实验室;敦煌医学与转化教育部重点实验室;
+{Journal}: 中国临床药理学杂志
+{Year}: 2025
+{Volume}: 41
+{Issue}: 04
+{Pages}: 570-575
+{Keywords}: 中医药;肺纤维化;组学技术;作用机制
+{Abstract}: 肺纤维化(PF)是一种原因不明的间质性肺病，中医药防治PF的机制研究有待加强。中药及复方防治PF可从多靶点、多途径上发挥治疗作用，由于中药成分复杂和研究方法单一，使得研究进程缓慢。近年来组学技术(蛋白质组学、代谢组学、转录组学、基因组学)有助于探索并筛选PF的临床生物标志物及防治新靶点，为开展靶向中药研发提供思路和策略。本文将近年来不同组学技术在PF的研究的应用进行小结，同时分析其在揭示中医药疗效机制方面的进展，探讨组学技术的优势与局限，并对未来PF相关研究方向进行思考和展望。
+{ISBN/ISSN}: 1001-6821
+{Notes}: 11-2220/R
+{URL}: https://link.cnki.net/doi/10.13699/j.cnki.1001-6821.2025.04.025
+{DOI}: 10.13699/j.cnki.1001-6821.2025.04.025
+{Database Provider}: CNKI
+
+{Reference Type}: Journal Article
+{Title}: 新生血管性年龄相关性黄斑变性的分子组学研究进展
+{Author}: 庄雪楠;桂弥;文峰
+{Author Address}: 广东省人民医院,广东省眼病防治研究所,广东省医学科学院,南方医科大学;中山大学中山眼科中心,眼病防治全国重点实验室,广东省眼科视觉科学重点实验室;
+{Journal}: 眼科学报
+{Year}: 2025
+{Volume}: 40
+{Issue}: 02
+{Pages}: 215-222
+{Keywords}: 年龄相关性黄斑变性;新生血管性;分子组学;疾病机制;生物标志物
+{Abstract}: 年龄相关性黄斑变性(age-related macular degeneration, AMD)是老年人视力丧失的主要原因之一，其中新生血管性AMD (neovascular AMD, nAMD)以其进展迅速、严重损伤视力的特点，成为全球眼科研究的焦点。随着人口老龄化加剧，nAMD的疾病负担日益沉重，对其发病机制的深入研究和有效治疗策略的探索迫在眉睫。近年来，高通量组学技术的蓬勃发展为解析nAMD复杂的分子病理机制提供了前所未有的机遇。基因组学、转录组学、蛋白质组学、代谢组学以及多组学整合分析，不仅有助于深入挖掘疾病相关的关键分子、通路和网络，也为发现新的生物标志物和潜在治疗靶点提供了新的视角。文章系统综述了近年来分子组学技术在nAMD研究中的最新进展，重点关注不同组学方法在各类生物样本研究中的发现，分析多组学整合在揭示疾病机制和筛选生物标志物方面的优势，以期为该领域的未来研究提供参考。
+{ISBN/ISSN}: 1000-4432
+{Notes}: 44-1119/R
+{URL}: https://kns.cnki.net/kcms2/article/abstract?v=lwcs1eIaudjB0sXTej3GdWiDHHT7OAEvsRO7cI7rKmk9aSLIJm4OOeGnutaWfSXXIRx_L1s_u_2L30GOSfkOj0Br88Kws-vko99eG0fXZbhEVRZaFHs8FWJ11vmIw_wvzxW9hyiAfFmmjXgpJsdaKDGvR3Frinwvp7bGzUxWZzjKfzIPq8B0CIf6nogjtTrQnIsYkGeTAi4=&uniplatform=NZKPT&language=CHS
+{Database Provider}: CNKI
+
+{Reference Type}: Journal Article
+{Title}: 基于多组学解析传统奶酪菌群与代谢物特征
+{Author}: 姚建霞;王丹丹;夏亚男;陈永福
+{Author Address}: 内蒙古农业大学乳品生物技术与工程教育部重点实验室农业农村部奶制品加工重点实验室内蒙古自治区乳品生物技术与工程重点实验室;
+{Journal}: 中国食品学报
+{Year}: 2025
+{Volume}: 25
+{Issue}: 02
+{Pages}: 388-398
+{Keywords}: 传统奶酪;宏基因组学;代谢组学;相关性
+{Abstract}: 微生物是奶酪风味物质产生的驱动者，其群体组成、动态演替关系及产生的代谢产物均影响奶酪的风味和质量。本研究采用宏基因组与代谢组学技术分析内蒙古鄂尔多斯传统奶酪样品的微生物多样性与代谢物组成，解析微生物群落与奶酪代谢物形成的相关性。结果表明：从鄂尔多斯传统奶酪中共发现8个门、98个属、205个种。通过主成分分析可将奶酪样品分为2组，ERDS-1组奶酪主要优势菌种是瑞士乳杆菌和乳酸乳球菌，ERDS-2组奶酪主要优势菌种是德氏乳杆菌和嗜热链球菌。ERDS-1组奶酪微生物多样性高于ERDS-2组，且代谢通路糖酵解IV(PWY-1042)在两组中存在显著差异（P<0.05）。这可能是由于制作工艺、生产温度及奶源本身微生物的差异导致奶酪菌群结构不同，最终导致代谢物存在差异。在奶酪中共检出14类744种代谢物，筛选出26种具有显著差异的代谢物。相关性分析表明奶酪中德氏乳杆菌、嗜热链球菌等菌种丰度与骨化三醇、UDP葡萄糖、溶血磷脂酰胆碱等物质含量具有显著相关性。本试验结果为奶酪生产中核心菌种与关键代谢物的挖掘提供理论依据，并为传统奶酪的工业化生产提供参考。
+{ISBN/ISSN}: 1009-7848
+{Notes}: 11-4528/TS
+{URL}: https://link.cnki.net/doi/10.16429/j.1009-7848.2025.02.034
+{DOI}: 10.16429/j.1009-7848.2025.02.034
+{Database Provider}: CNKI
+
+{Reference Type}: Journal Article
+{Title}: 嗜线虫致病杆菌YZ011对鳞翅目昆虫杀虫活性及比较基因组学分析
+{Author}: 林曼曼;刘琴;韩光杰;黄立鑫;夏杨;李传明;张楠;陆玉荣;徐彬;徐健
+{Author Address}: 江苏里下河地区农业科学研究所/国家农业微生物扬州观测实验站;扬州大学植物保护学院;
+{Journal}: 江苏农业学报
+{Year}: 2025
+{Volume}: 41
+{Issue}: 02
+{Pages}: 258-267
+{Keywords}: 嗜线虫致病杆菌;杀虫活性;基因组;次级代谢产物;毒力因子
+{Abstract}: 昆虫病原线虫共生菌是一类重要的生物防治资源。为明确本单位分离自小卷蛾斯氏线虫共生菌YZ011对鳞翅目害虫的杀虫活性及机制，本研究在测定菌株YZ011对小菜蛾和草地贪夜蛾血腔注射毒性的基础上，进一步对其进行全基因组测序和比较基因组学分析。结果表明，血腔注射100 nL 1.0×10～6 CFU/mL菌株YZ011 24 h后，小菜蛾幼虫和草地贪夜蛾幼虫的死亡率分别为75.0%和56.7%,均显著高于血腔注射磷酸盐缓冲液(PBS)对照。全基因组测序结果显示菌株YZ011为嗜线虫致病杆菌，其基因组含有19个次级代谢产物基因簇；与其同源性最高的嗜线虫致病杆菌菌株YL001和菌株SⅡ相比，菌株YZ011含有29个特异基因簇。菌株YZ011基因组中共注释到586个毒力因子相关基因。本研究结果从基因组层面解析了嗜线虫致病杆菌YZ011的分子特征，对菌株YZ011的综合利用具有重要意义。
+{ISBN/ISSN}: 1000-4440
+{Notes}: 32-1213/S
+{URL}: https://kns.cnki.net/kcms2/article/abstract?v=lwcs1eIaudgqPeuazJ_QbwognRyD97bIZ59HlSl8lkdbQzxXZzJp76n7fW0v9DdKP5yF8t-aOjWHrTFaDuckWbMZIwcYudlMFGDecFbtkfO1RUjXEUUkbLPBHonUwqsrWOgceFQxx7_RIcfe-d-FztEOb33NWcqo1mOfPnLNxd3Ou309KXJYR0ccaq1QQf8MvLUSSzFOjLI=&uniplatform=NZKPT&language=CHS
+{Database Provider}: CNKI
+
+{Reference Type}: Journal Article
+{Title}: 肿瘤生物标志物高灵敏组学检测技术
+{Author}: 乔思圆;程林;韩达
+{Author Address}: 上海交通大学医学院分子医学研究院;中国科学院杭州医学研究所;
+{Journal}: 中国科学基金
+{Year}: 2025
+{Volume}: 39
+{Issue}: 01
+{Pages}: 162-173
+{Keywords}: 肿瘤生物标志物;高灵敏检测;组学技术;液体活检;精准诊疗
+{Abstract}: 肿瘤生物标志物是一类由肿瘤细胞或宿主对肿瘤反应产生的物质。与传统的组织活检等检测方法相比，基于肿瘤生物标志物的液体活检技术展现出低侵入性、高便利性等优势，在临床肿瘤诊断中起到了不可替代的作用。近年来，随着组学研究的快速发展和检测技术的不断完善，高灵敏的检测技术使得体液中的肿瘤生物标志物能够被静态检测和动态监测，这不仅深化了我们对肿瘤微环境变化的理解，也为癌症的早期诊断、进展监测和疗效评估提供了关键信息。本文旨在从组学视角对肿瘤生物标志物的高敏感检测技术进行综述，并探讨这些技术的原理、特点以及在癌症诊疗中的应用价值。
+{ISBN/ISSN}: 1000-8217
+{Notes}: 11-1730/N
+{URL}: https://link.cnki.net/doi/10.16262/j.cnki.1000-8217.20250227.001
+{DOI}: 10.16262/j.cnki.1000-8217.20250227.001
+{Database Provider}: CNKI
+
+{Reference Type}: Journal Article
+{Title}: 多组学助力肿瘤诊疗靶点发现
+{Author}: 邱辛瑶;杨帅;周涛;王红阳;陈磊
+{Author Address}: 复旦大学附属肿瘤医院肿瘤研究所;国家肝癌科学中心;东方肝胆外科医院细胞信号转导研究室;
+{Journal}: 中国科学基金
+{Year}: 2025
+{Volume}: 39
+{Issue}: 01
+{Pages}: 99-110
+{Keywords}: 多组学;空间组学;蛋白—基因组学;临床应用;靶点发现
+{Abstract}: 从基因组学、转录组学到蛋白质组学、代谢组学等，从以组织为单位的测序到以单细胞为单位的单细胞测序；从无空间信息的组学技术到空间组学技术，再到空间单细胞组学技术。肿瘤研究已经从单一层次的基因变异研究快速扩展到多层次、多维度数据的整合研究。每一种组学技术都揭示了肿瘤的不同方面特征，描绘了肿瘤及其微环境的复杂性。多组学联合分析不仅能提高肿瘤靶点发现的精准性，还为肿瘤的个性化诊疗提供了新的机遇。本综述旨在探讨多组学技术在肿瘤靶点发现中的应用。首先，我们将概述现阶段有代表性的多种组学技术；其次，归纳多组学联合的研究策略；之后，简述多组学整合的临床转化进展；最后，探讨未来多组学在肿瘤基础和临床研究中面临的关键问题与挑战。
+{ISBN/ISSN}: 1000-8217
+{Notes}: 11-1730/N
+{URL}: https://link.cnki.net/doi/10.16262/j.cnki.1000-8217.20250226.008
+{DOI}: 10.16262/j.cnki.1000-8217.20250226.008
+{Database Provider}: CNKI
+
+{Reference Type}: Journal Article
+{Title}: 组学技术在中药防治类风湿关节炎中的研究进展
+{Author}: 杜连云;潘志
+{Author Address}: 长春中医药大学/吉林省人参科学研究院;
+{Journal}: 中药材
+{Year}: 2025
+{Issue}: 02
+{Pages}: 517-523
+{Keywords}: 组学技术;类风湿关节炎;作用机制
+{Abstract}: 类风湿关节炎(Rheumatoid arthritis,RA)是一种以滑膜炎症为主要病理特征,最终可能导致关节畸形的慢性、自身免疫性疾病。中药因其多成分、多靶点和作用多通路的特点,在RA治疗中展现出独特的优势和显著疗效。然而,这些特点也使得中药的调控机制研究面临诸多挑战。近年来,基因组学、转录组学、蛋白质组学和代谢组学等组学技术的发展,为揭示中药多靶点作用机制提供了强有力的工具,其全面性、整体性和系统性特点,与中医药的“整体观念”高度契合,弥补了传统单一靶点或通路研究在解释中药“整体调控”方面的局限性。本文综述了基因组学、转录组学、蛋白质组学、代谢组学及其联合应用在中药防治RA中的应用,为RA的防治和诊疗提供更为丰富的理论依据和新的策略。
+{ISBN/ISSN}: 1001-4454
+{Notes}: 44-1286/R
+{URL}: https://link.cnki.net/doi/10.13863/j.issn1001-4454.2025.02.041
+{DOI}: 10.13863/j.issn1001-4454.2025.02.041
+{Database Provider}: CNKI
+
+{Reference Type}: Journal Article
+{Title}: 基于宏基因组测序的抗感染方案治疗重症肺炎的临床疗效观察
+{Author}: 陈伟光;魏彩萍;桂水清
+{Author Address}: 汕头大学医学院;深圳市坪山区人民医院重症医学科;深圳市第二人民医院重症医学科;
+{Journal}: 海南医学
+{Year}: 2025
+{Volume}: 36
+{Issue}: 04
+{Pages}: 462-465
+{Keywords}: 重症肺炎;肺部感染;宏基因组学;宏基因组二代测序;病原体;临床疗效
+{Abstract}: 目的 观察基于宏基因组测序的抗感染方案治疗重症肺炎的临床疗效。方法 回顾性分析2022年2月至2024年8月深圳市坪山区人民医院重症医学科及呼吸内科收治的60例重症肺炎患者的临床资料，根据不同检测方法及治疗方案分为观察组34例和对照组26例。对照组患者采用正规操作留取患者肺泡灌洗液，常规检测后进行抗感染治疗，观察组患者则基于宏基因组测序后进行抗生素方案调整并进行抗感染治疗。比较两组患者的临床治疗效果、治疗时间、住院费用及病死率。结果 观察组患者的临床治疗总有效率为94.12%，明显高于对照组的65.38%，差异具有统计学意义(P<0.05)；观察组患者的机械通气时间、抗生素使用时间、重症监护室停留时间、住院时间分别为(7.70±4.72) d、(14.44±2.70) d、(9.70±4.63) d、(16.47±2.63) d，明显短于对照组的(16.36±5.30) d、(25.47±3.52) d、(17.76±5.64) d、(28.94±4.35) d，住院费用和病死率分别为(4.62±1.04)万元、2.94%，明显低于对照组的(9.93±1.51)万元、19.23%，差异均有统计学意义(P<0.05)。结论 基于宏基因组测序的抗感染方案治疗重症肺炎能有效提高临床治疗效果，改善预后，具有临床应用价值。
+{ISBN/ISSN}: 1003-6350
+{Notes}: 46-1025/R
+{URL}: https://kns.cnki.net/kcms2/article/abstract?v=lwcs1eIaudgdkn-qVcavGf-0nQOj20ORE-Vsk8Nb1Ce0MFKb3xdfmqSx32zAPTjSzE3CwRIqdQG3P0ObbF-kMQqWueA8JgSymEzhL07hG0jl-zEwCAbOzidNS6d0dfRiDKjRXTAUwW5wUz4d75O1WQOmcgVo4rPVxmIpywbyd6EsiC2LMkzVrkeYr99TQT1kbBg3byfN0rQ=&uniplatform=NZKPT&language=CHS
+{Database Provider}: CNKI
+
+{Reference Type}: Journal Article
+{Title}: 从精准医疗看儿童青少年肥胖治疗的个体化干预策略
+{Author}: 李平;杨凡;刘瀚旻
+{Author Address}: 四川大学华西第二医院儿科、出生缺陷与相关妇儿疾病教育部重点实验室;四川大学国家卫生健康委员会时间生物学重点实验室;
+{Journal}: 中国中西医结合儿科学
+{Year}: 2025
+{Volume}: 17
+{Issue}: 01
+{Pages}: 1-7
+{Keywords}: 肥胖;精准医疗;表观遗传;肠道微生物;青少年;儿童
+{Abstract}: 儿童青少年肥胖已成为全球性公共卫生挑战，其高体质量反弹率与代谢并发症风险凸显传统干预策略的局限性。本文系统综述了精准医疗背景下儿童青少年肥胖的个体化干预策略，突破传统“一刀切”模式，整合多组学技术与智慧化管理手段，提出多维度精准干预框架。首先，基于基因组学、影像组学及肠道宏基因组学等多模态数据，构建精准诊断与评估体系，识别遗传易感性、代谢表型及微生物特征，为分层干预奠定基础。其次，结合遗传风险评分、表观遗传调控机制及肠道菌群靶向疗法，制定个性化干预方案：基因导向策略是通过多基因风险评估优化饮食结构；表观遗传干预是利用营养素(如甲基供体、短链脂肪酸)调控DNA甲基化与组蛋白修饰，逆转代谢紊乱；微生物群重塑则通过益生菌、合生元等改善能量代谢平衡。进一步，依托人工智能与可穿戴设备实现多场景动态监测，协同营养学、运动医学及心理学等多学科团队，形成“医院-家庭-社区”联动的智慧管理模式。尽管精准医疗为儿童肥胖治疗提供了突破性方向，仍需解决生物标志物验证、数据整合及长期疗效评估等挑战。本文为提升干预有效性与持久性提供了理论依据与实践路径，强调未来需融合跨学科创新技术，推动儿童肥胖管理向精准化、智能化转型。
+{ISBN/ISSN}: 1674-3865
+{Notes}: 21-1569/R
+{URL}: https://link.cnki.net/doi/10.20274/j.cnki.issn.1674-3865.2025.01.001
+{DOI}: 10.20274/j.cnki.issn.1674-3865.2025.01.001
+{Database Provider}: CNKI
+
+{Reference Type}: Journal Article
+{Title}: 基因组学与应用生物学论文撰写指南
+{Journal}: 基因组学与应用生物学
+{Year}: 2025
+{Volume}: 44
+{Issue}: 02
+{Pages}: 209-210
+{Abstract}: <正>一、栏目设置本刊设置固定栏目和随机栏目。固定栏目常设研究论文,发表最新的原始研究成果。随机栏目根据稿源设述评及其他栏目。二、论文写作的基本要求1题目与标题论文题目要紧扣主题,务求简明、新颖,有足够的信息,能引起读者的兴趣,不用副标题,一般不宜超过25个汉字或英文单词。应使用标准术语、学名全称、药物和化学品通用名称,不宜使用广义术语、夸张词语等,同时避免在题目中使用不常用的缩写词。
+{ISBN/ISSN}: 1674-568X
+{Notes}: 45-1369/Q
+{URL}: https://kns.cnki.net/kcms2/article/abstract?v=lwcs1eIaudgdF485z82xKf0SJqFe4E-zDD65bylMp5LYoA5YWfknzseQEf_LmXrByElvmSXQ_SU0ifmkXfugbDGH7gScK37-fksq3ItSfSuQzRY-OD2m5fEoiWSADmBWKY8TZWBv2RQTz6ThF_CkehI0rQZlyOdWrAqXlR2xHv1QOR2M3TMYgazzJrP7cKF_7BYFVtkoZWQ=&uniplatform=NZKPT&language=CHS
+{Database Provider}: CNKI
+
+{Reference Type}: Journal Article
+{Title}: 回族人群药物相关基因研究进展
+{Author}: 马继敏;王重惠;袁明聪;王学昌
+{Author Address}: 昆明医科大学药学院;昆明理工大学附属安宁市第一人民医院药学部;
+{Journal}: 中国药物经济学
+{Year}: 2025
+{Volume}: 20
+{Issue}: 02
+{Pages}: 116-119+124
+{Keywords}: 回族人群;基因变异;药物基因组学;个体化用药
+{Abstract}: 临床药物治疗反应个体差异显著，导致该现象的因素众多，基因层面的单核苷酸多态性对药物相关基因的编码是主要因素之一。药物基因组学致力于研究基因与药物相互作用的关系，基于其研究结果结合患者基因型，可为患者提供个性化的用药指导。种族和民族间的基因多样性差异对药物反应的影响已得到广泛认可，针对不同群体的药物相关基因研究显得尤为迫切。回族作为中国分布广泛且人口众多的少数民族，针对该民族药物相关基因的研究对理解回族人群药物代谢和反应模式至关重要，有助于提高该人群药物治疗有效性、安全性及经济性，同时为全球个体化用药发展做出贡献。
+{ISBN/ISSN}: 1673-5846
+{Notes}: 11-5482/R
+{URL}: https://kns.cnki.net/kcms2/article/abstract?v=lwcs1eIaudg-9608FjgNWDImGHgKK8IUyksS3-fdhkfyzFiu4_0T55DcJn59jvxD8fM_ncUPDR1f8JYu1LfZLJl6JORc9cujSw_2K4Bg8KQVSwJQ9P4ndB-rA-iBWRk2VyF40xnOMZ3IS09ApDGZI5TarmtpI9XmhbIcH8PdX5dakIMMM0Y-Kbq5pkA4zU8BitIH7kN3L7o=&uniplatform=NZKPT&language=CHS
+{Database Provider}: CNKI
+
+{Reference Type}: Journal Article
+{Title}: 可用于含能材料遗传毒性检测的新技术
+{Author}: 彭馨莹;李存治;吕小强;赵彬;邓辉;李欢;高婷;刘志永;高俊宏
+{Author Address}: 兵器工业卫生研究所毒理技术研究中心/西安市毒理与生物效应重点实验室;
+{Journal}: 中国工业医学杂志
+{Year}: 2025
+{Volume}: 38
+{Issue}: 01
+{Pages}: 47-53
+{Keywords}: 含能材料;遗传毒性;基因组学;缺失突变;毒性机制
+{Abstract}: 含能材料可用于火箭推进剂制造、粉末和高性能炸药加工等领域，在制造、运输、储存和处置的过程中均有可能对从业人员健康造成一定危害。本文拟着重介绍CD59基因突变、纠错第二代测序(ecNGS)、ToxTracker技术等遗传毒性检测方法，希望能为含能材料遗传毒性的研究提供新的思路，进一步保障从业人员的职业健康。
+{ISBN/ISSN}: 1002-221X
+{Notes}: 21-1267/R
+{URL}: https://link.cnki.net/doi/10.13631/j.cnki.zggyyx.2025.01.016
+{DOI}: 10.13631/j.cnki.zggyyx.2025.01.016
+{Database Provider}: CNKI
+
+{Reference Type}: Journal Article
+{Title}: 狒狒巴拉姆希阿米巴脑炎1例
+{Author}: 赵伟波;方雷;田臻;杨扬;孙慧芹;王允;赵培祥;罗菊;李洪凤
+{Author Address}: 江苏省淮安市扬州大学附属淮安医院(淮安市第五人民医院)神经内科;
+{Journal}: 临床神经病学杂志
+{Year}: 2025
+{Volume}: 38
+{Issue}: 01
+{Pages}: 57-59
+{Abstract}: <正>狒狒巴拉姆希阿米巴病原体于1986年首次在狒狒脑组织中被发现，是人类和动物致死性的潜在病原体[1]。狒狒巴拉姆希阿米巴脑炎（BAE）[1-3]是一种非常罕见且病情爆发式进展的CNS寄生虫感染，其临床症状及神经影像学检查不具有特异性，容易被误诊，且国内外鲜有报道。现报道1例通过全病原宏基因组学检测辅助诊断的BAE病例，旨在提高临床医师对本病的认识。1 病例患者，女，77岁，因“头晕呕吐伴发热3 d, 反应迟钝20 h”于2024年4月7日入院。
+{ISBN/ISSN}: 1004-1648
+{Notes}: 32-1337/R
+{URL}: https://kns.cnki.net/kcms2/article/abstract?v=lwcs1eIaudjNOFmhGbOis1MhK4MuoSNlaSZuCL8Q7sjX4w2DBPgts3eGJUkyOvOvYvHadDKUNLGpZN9X0-bOxNE2Obz4JOAegnlebmC6CBmnpCyophIsjg-A_QggQ6Tk1XdtrddfKvZA8AEr8GDmKpexvsMHu8xAJBQIrKagtJjsO05HAruvYDN8OCqNPsDbf99-AhrMJUI=&uniplatform=NZKPT&language=CHS
+{Database Provider}: CNKI
+
+{Reference Type}: Journal Article
+{Title}: 吉林省PCV3野毒株遗传进化分析及其Cap蛋白对巨噬细胞自噬的影响
+{Author}: 闫佳慧;韩建男;孙浩;李文龙;苗丽娟;刘东旭
+{Author Address}: 吉林农业科技学院;
+{Journal}: 中国动物检疫
+{Year}: 2025
+{Volume}: 42
+{Issue}: 02
+{Pages}: 114-119
+{Keywords}: PCV3;进化分析;自噬;Cap蛋白
+{Abstract}: 为了探究吉林省PCV3野毒株的起源及其衣壳蛋白(Cap蛋白)是否可以引起巨噬细胞自噬,对10株吉林省PCV3野毒株(JL-1～10)全基因组序列进行遗传进化分析,并通过Western blot和qPCR检测Cap蛋白转染巨噬细胞后其自噬相关基因和蛋白表达量的变化。结果显示:所有PCV3参考毒株与2018年在日本发现的蝙蝠圆环病毒株LC456718均在524～598 nt位置发生重组,但在JL-1～10中并未观察到该重组现象;JL-1～10与其他宿主来源圆环病毒在不同的分支中聚集;ORF1与其他圆环病毒基因组表现出明显的保守性,但ORF2没有表现出明显的保守性;JL-10和JL-5最近的共同祖先株起源时间为1978年,其他8株的共同祖先株起源时间为1979年;Cap蛋白转染巨噬细胞后,LC3-Ⅱ表达量增加,p62表达量减少;Beclin-1和LC3蛋白基因转录水平极显著升高(P <0.01),Atg7的转录水平显著升高(P <0.05)。结果表明:10株吉林省PCV3野毒株大约起源于40年前(依据参考毒株年份推断),与其他宿主来源圆环病毒的起源不同;Cap蛋白可以促进巨噬细胞自噬,引起自噬相关基因转录水平的升高。
+{ISBN/ISSN}: 1005-944X
+{Notes}: 37-1246/S
+{URL}: https://kns.cnki.net/kcms2/article/abstract?v=lwcs1eIaudh5BNpfaA8EEvYOdqIcBSXHwJadFzftN1tGjpok_Ccd_o7qRoc0Oo2z-kzbfZSQ-d5Qh9NIhophEDiA1D8nBxe_IVQFfa8TwL7E76dQvZ-jYn5SFiNh79JpfrM547RTigqNv7lT_sFoiQLYjs1LMrZBU2v9yhHo_IFlymS6T0Nm3faz6sqv-oHhlF0H2R5so-w=&uniplatform=NZKPT&language=CHS
+{Database Provider}: CNKI
+
+{Reference Type}: Journal Article
+{Title}: 新一代人工智能在前列腺癌临床诊断的研究进展
+{Author}: 王雪静;黄智;曾嘉宾;周楚芸;郑博文;吕世栋;魏强
+{Author Address}: 南方医科大学南方医院泌尿外科;南方医科大学附属广东省人民医院(广东省医学科学院)泌尿外科;
+{Journal}: 临床外科杂志
+{Year}: 2025
+{Volume}: 33
+{Issue}: 02
+{Pages}: 118-122
+{Keywords}: 前列腺癌;人工智能;诊断
+{Abstract}: <正>前列腺癌（prostate cancer, PCa）是导致男性死亡的主要原因之一。据估计，2022年全球有近146万例新发前列腺癌病例和高达39.7万例的前列腺癌死亡病例，在超过半数的国家中，前列腺癌发病率高居男性肿瘤首位[1]。在我国，随着人们生活方式和饮食结构的改变，人均寿命的延长和大规模筛查的普及，前列腺癌发病率及死亡率呈持续增长趋势[2]。
+{ISBN/ISSN}: 1005-6483
+{Notes}: 42-1334/R
+{URL}: https://kns.cnki.net/kcms2/article/abstract?v=lwcs1eIaudiMTDXT6f9GhDIXgnULmqDPey_3z4vt7-ol1gmGROFtrmLnQkmuYmpp2zVsUJ2F3fv9RFpmu_YBGZ3oQ34ghP8yFrvX21puX0oZCLdV1NPNemDUJwt1Q_qwTCuRrAYfIxQDvQZCs4PoLFtKGq86155VnpQHUP38p5Su7Z_GicsznO3t5lxiUCmv3wOnEXZJCWM=&uniplatform=NZKPT&language=CHS
+{Database Provider}: CNKI
+
+{Reference Type}: Journal Article
+{Title}: 组学技术在免疫检查点抑制剂疗效预测模型中的应用进展
+{Author}: 谷铮;邓而乐;余俊先
+{Author Address}: 首都医科大学附属北京友谊医院药学部;
+{Journal}: 中南药学
+{Year}: 2025
+{Volume}: 23
+{Issue}: 02
+{Pages}: 478-483
+{Keywords}: 组学;生物信息学;免疫治疗预测
+{Abstract}: 以程序性细胞死亡蛋白1(PD-1)/程序性细胞死亡蛋白1配体(PD-L1)抑制剂等为代表的免疫疗法在肿瘤治疗中起到了重要的作用，然而也引发一些不良反应，因此需精准医学支持个体化用药。近年来，高通量测序技术的发展推动了肿瘤免疫治疗进入多组学、多维度和人工智能时代。基因组、转录组和代谢组等技术显著改变了肿瘤治疗格局；新兴技术如空间转录组和时空组学为预测模型带来新前景。多组学联合分析可系统优化模型。本文总结了免疫检查点抑制剂疗效在组学预测模型的应用进展，研究现状、现存挑战及未来展望，助力临床个体化治疗和新药研发。
+{ISBN/ISSN}: 1672-2981
+{Notes}: 43-1408/R
+{URL}: https://kns.cnki.net/kcms2/article/abstract?v=lwcs1eIaudg9iSsKdENiJBL1Q0niJaCopYl5xVZYAUKQhp9dxGBPy_6CzxVLUbXlgyt7OFwL3hTIyWBtl6Zjhdxq5Ku1vlwLlcbPvzXtQKmehdpRIEE2_OX-mvDf5ZrjyaUTi719LP2gQLbmsBvHCBCQOySoASxNxGGG9FOTGZPxKIlYgaw02jDaojBWYOPLD7cr93TNZjo=&uniplatform=NZKPT&language=CHS
+{Database Provider}: CNKI
+
+{Reference Type}: Journal Article
+{Title}: 阻塞性睡眠呼吸暂停低通气综合征生物标志物的多重组学研究进展
+{Author}: 麦克丽亚·帕力哈提;祖丽胡马尔·努尔艾合买提;赛地热娅·阿不力米提;吾斯曼江·依明;妮呄热·西尔买买提;古力巴哈·买买提力
+{Author Address}: 新疆医科大学第二附属医院口腔科;
+{Journal}: 临床口腔医学杂志
+{Year}: 2025
+{Volume}: 41
+{Issue}: 02
+{Pages}: 112-116
+{Keywords}: 阻塞性睡眠呼吸暂停综合征;生物标志物;蛋白组学;代谢组学;基因组学;遗传;尿液;唾液
+{Abstract}: 阻塞性睡眠呼吸暂停低通气综合征(obstructive sleep apnea-hypopnea syndrome, OSAHS)是一种常见的睡眠障碍病。临床上主要表现为睡眠打鼾、呼吸暂停、嗜睡、记忆力下降等。目前，临床诊断OSAHS以多导睡眠(polysomnography, PSG)结果为金标准，但是PSG不舒适且本身可能导致睡眠干扰，无法满足大量临床诊断的需求。因此，研究用于筛查OSAHS的生物学标志物具有重要意义。本文就OSAHS相关生物标志物的研究进展作一综述。
+{ISBN/ISSN}: 1003-1634
+{Notes}: 42-1182/R
+{URL}: https://kns.cnki.net/kcms2/article/abstract?v=lwcs1eIaudjraBjI6kggIA9svPw946ba9yZAOAapW-ZoMmNUeEe2GJGsHkwbzM0k0RqT0zi0t28AN7pll5sR9CWk1SCPwtbohujS3hFDimGC0BY2quSOgg4zhfpJrUNX6ZP8cCEczAf3lO4xP9YpGKTzJkNLV3QFh98AfBf1tZ_nJAvxQ8Ut8WxOKuV0wFVAvlB5AiZjbOc=&uniplatform=NZKPT&language=CHS
+{Database Provider}: CNKI
+
+{Reference Type}: Journal Article
+{Title}: MRI影像组学在肺癌脑转移瘤中的应用及研究进展
+{Author}: 隋莲玉;孟欢;王佳宁;殷小平
+{Author Address}: 河北大学临床医学院/河北大学附属医院放射科;河北大学附属医院炎症相关肿瘤精细影像河北重点实验室放射科;
+{Journal}: 磁共振成像
+{Year}: 2025
+{Volume}: 16
+{Issue}: 02
+{Pages}: 185-192
+{Keywords}: 脑转移瘤;肺癌;磁共振成像;影像组学;深度学习;人工智能
+{Abstract}: 脑转移瘤（brain metastases, BMs）是发病率最高的颅内恶性肿瘤，其中肺癌BMs在临床中尤为常见，这与肺癌的不良预后和高死亡率紧密相关。因此，对肺癌BMs的精准诊疗对于其临床管理而言具有举足轻重的意义。磁共振成像（magnetic resonance imaging, MRI）因其高度的敏感性和特异性已被广泛视为BMs诊断及预后评估的影像学金标准。MRI影像组学能够通过高通量的特征提取方法，更为精细地刻画肿瘤的内部结构和异质性，从MRI中挖掘出的定量图像特征与肿瘤的生物学行为和临床预后密切相关，可为临床医生提供更为丰富的决策支持信息，从而提升诊断的精准度和治疗的个性化。近期的研究显示，MRI影像组学在提高临床医生对肺癌BMs的诊断、分类、治疗以及预后预测的准确性和高效性方面表现出巨大潜力。本文旨在从数据分割处理和模型建立方面广泛总结MRI影像组学在肺癌BMs中的最新应用，以期为这一新兴领域的研究提供启示。
+{ISBN/ISSN}: 1674-8034
+{Notes}: 11-5902/R
+{URL}: https://kns.cnki.net/kcms2/article/abstract?v=lwcs1eIaudgcBSZzIWz230B02HHzpEvz1Lmaou0p4pkN524WHF3DiFX47ktkZpBOH7ij8Elk34MusUaT8k7mWoXZVxUMPBET5vKtLcrf_pDI1QU3OFz0nZZJZXmQbnx9COCWvHRmMY7POV3HnYxfWF_MYr-1kuyF6BAndDDe58v3zk5Dao7xCOm8cYST-IIcTork0GcglMs=&uniplatform=NZKPT&language=CHS
+{Database Provider}: CNKI
+
+{Reference Type}: Journal Article
+{Title}: 代谢组学技术及其在动物生产中的应用
+{Author}: 马春芳;张金宝;张慧宁;陈海燕;杨奇;张巧娥
+{Author Address}: 宁夏大学;宁夏回族自治区兽药饲料监察所;宁夏银川市永宁县畜牧水产中心;
+{Journal}: 动物医学进展
+{Year}: 2025
+{Volume}: 46
+{Issue}: 02
+{Pages}: 120-124
+{Keywords}: 代谢组学;动物生产;分析技术
+{Abstract}: 代谢组学(Metabolomics)为系统生物学的重要分支学科，其基础是组群指标分析，手段是高通量检测和数据处理，目标是信息建模与系统整合，是生物体发育和生理状态在代谢水平的表现，是基因组与表型组之间的桥梁。代谢组学广泛应用于毒理学、环境学、疾病诊断、营养食品科学、医药研制开发、动植物学等相关领域。论文介绍了代谢组学流程，常用检测平台和数据库，以及与其他组学的关系等，在此基础上综述了代谢组学在动物育种、营养调控、疾病诊断、肉品分析和动物生长发育等5个方面的应用研究，为探讨其在动物生产中应用提供参考。
+{ISBN/ISSN}: 1007-5038
+{Notes}: 61-1306/S
+{URL}: https://link.cnki.net/doi/10.16437/j.cnki.1007-5038.2025.02.018
+{DOI}: 10.16437/j.cnki.1007-5038.2025.02.018
+{Database Provider}: CNKI
+
+{Reference Type}: Journal Article
+{Title}: 肺部寡育外瓶霉感染1例
+{Author}: 江浩;高艳艳;高增艳;安晨曦
+{Author Address}: 潍坊医学院临床医学院;潍坊医学院附属医院呼吸内科;
+{Journal}: 安徽医药
+{Year}: 2025
+{Volume}: 29
+{Issue}: 03
+{Pages}: 579-581
+{Keywords}: 肺疾病;真菌性;三唑类;支气管肺泡灌洗;宏基因组学
+{Abstract}: 目的 探索寡育外瓶霉肺部感染治疗经验。方法 总结潍坊医学院附属医院呼吸内科2022年5月收治的1例寡育外瓶霉肺部感染病人的诊疗方案。结果 病人主诉发现右肺病变4 d。入院后给予哌拉西林他唑巴坦、左氧氟沙星抗细菌及非典型病原体治疗1周后胸部CT发现未见好转，行气管镜及气管刷检物病理脱落细胞检查、肺泡灌洗液细胞分类计数及感染病原宏基因组学检测，最终检测出寡育外瓶霉疑似，嘱其口服伊曲康唑胶囊0.1 g，每12小时1次，1个月后复查胸部CT，病变较前明显好转。结论 伊曲康唑等三唑类抗真菌药物对寡育外瓶霉有很好的疗效。
+{ISBN/ISSN}: 1009-6469
+{Notes}: 34-1229/R
+{URL}: https://link.cnki.net/urlid/34.1229.R.20250218.1840.058
+{Database Provider}: CNKI
+
+{Reference Type}: Journal Article
+{Title}: AI视角下梨基因组学和表型组学联合分析思路探究
+{Author}: 潘荣光;俞乐;杜贞容;沙守峰;彭秀媛;白冰;姚磊;邹德君;郭合宇
+{Author Address}: 辽宁省农业科学院;清华大学地球系统科学系;大连理工大学信息与通信工程学院;大连航天北斗科技有限公司;深圳飞马机器人股份有限公司;
+{Journal}: 辽宁农业科学
+{Year}: 2025
+{Volume}: 
+{Issue}: 01
+{Pages}: 1-4
+{Keywords}: AI技术;梨;基因;表型;联合分析
+{Abstract}: AI技术的深入应用已显著提升作物育种效率和决策准确性。文中以梨为研究对象，系统探讨了AI技术在作物智慧育种中的研究思路。由于梨的自交不亲和性及复杂的数量性状遗传等特点，其育种过程面临周期长、效率低等难题。然而，高通量测序技术的发展为快速获取基因数据提供了可能，AI技术的兴起为表型数据的快速获取和上述数据的深入分析带来了新的契机。文中剖析了梨的基因数据和表型数据的组成和获取方式，并探讨了AI技术在提高基因测序精准度、辅助基因组组装、新基因挖掘，以及表型数据的精准获取和深度分析方面的应用潜力。基于此，提出了AI视角下梨基因组学和表型组学联合分析思路，旨在助力优良性状基因精准定位，基因与表型深层次关系的阐释，从而为梨等作物的智慧育种工作提供理论支撑。
+{ISBN/ISSN}: 1002-1728
+{Notes}: 21-1111/S
+{URL}: https://kns.cnki.net/kcms2/article/abstract?v=lwcs1eIaudjVCJz8yzHkwuEPbuxEBjL5MSDy7rFB3WXLxl1LMpO8wjIeQomAviiPourrpFiuHhIcbdlTNevfXDUrJNKdqHLwY7ckdfpxBioKXB_8jEtLQ1hIZJwpazmjMW5etQVI7VrXneuDXBRS7y7qTkmQWnmiSqBytuWGdGFc6sC4bU1Ti3I4eJydRj1Jw0weL1c1c5w=&uniplatform=NZKPT&language=CHS
+{Database Provider}: CNKI
+
+{Reference Type}: Journal Article
+{Title}: 卵巢储备功能下降的组学研究进展
+{Author}: 梁瑞宁;李欣;易瑶
+{Author Address}: 江西中医药大学;江西中医药大学第二附属医院;江西中医药大学中医妇产科学研究所;江西省中医妇产科疾病临床医学研究中心;
+{Journal}: 生殖医学杂志
+{Year}: 2025
+{Volume}: 34
+{Issue}: 02
+{Pages}: 261-268
+{Keywords}: 卵巢储备功能下降;基因组学;转录组学;蛋白质组学;代谢组学
+{Abstract}: 卵巢储备功能下降(DOR)是常见的妇科内分泌疾病，由卵巢内卵母细胞数量和质量下降所导致，其主要不良后果为生育障碍问题，严重危害全球女性生殖健康。基因组学、转录组学、蛋白质组学以及代谢组学等研究方法在卵泡液、颗粒细胞、尿液和血液等样本的研究中起着非常重要的作用，也为DOR的病因学和病理生理学研究提供了分子水平的研究基础，并为识别潜在的DOR生物标志物和开发新的治疗靶点提供了新的技术，拥有广泛的应用前景。本文对DOR的组学研究方法和结果进行综述，阐述了组学研究的优势及不足之处，并讨论了其在DOR研究中的应用前景。
+{ISBN/ISSN}: 1004-3845
+{Notes}: 11-4645/R
+{URL}: https://kns.cnki.net/kcms2/article/abstract?v=lwcs1eIaudjIjcISuIP-8wva_V2N6vuGKUfpzwSusY8BwQHnNst36D4wZ3qdAv-zj8BF0fC63rUuLoEvMxMUfelAMxN9FLE0uRhiUQ2DpbcaXJvXR026InwFAby2deqWkOJ-ExbiD0GM8zGP-LS11hAIIMWHootjde3WigXdM-6TNjfWIWPKuKCc7CvygqUsMXhrZfbCbX8=&uniplatform=NZKPT&language=CHS
+{Database Provider}: CNKI
+
+{Reference Type}: Journal Article
+{Title}: 温针灸法治疗脾胃虚弱证便秘型肠易激综合征后肠道菌群宏基因组学研究
+{Author}: 吴美英;宋希暖;王晓娟;徐春晓
+{Author Address}: 青岛市胶州中心医院消化内科;
+{Journal}: 中国中西医结合消化杂志
+{Year}: 2025
+{Volume}: 33
+{Issue}: 02
+{Pages}: 149-155+162
+{Keywords}: 宏基因组学;便秘型肠易激综合征;温针灸;肠道菌群
+{Abstract}: 目的:基于宏基因组学探讨疏肝解郁温针灸法治疗脾胃虚弱证便秘型肠易激综合征后肠道菌群的变化。方法:共纳入研究对象120例，随机将其分为西医治疗组(60例)和联合治疗组(60例)。西医治疗组使用奥替溴铵片，联合治疗组在西医药物治疗的基础上，增加温针灸治疗。收集2组患者的一般临床资料，采集血清，收集实验室指标及肠道粪便标本，进行宏基因组检测，分析肠道微生物代谢产物，进行生物信息学分析。结果:联合治疗组的肠道微生物多样性明显高于西医治疗组，使用RFE进一步对2组患者进行区分，AUC为79.5%,联合治疗组患者中梭菌科和瘤胃杆菌科等10种代谢物的水平升高。利用多组学整合对2组患者的粪便进行特定微生物群和粪便代谢物分析，AUC为83.6%,与仅使用微生物群或代谢物相比，两者的结合分析提供了更好的准确度，且差异有统计学意义(P<0.05)。利用支持向量机分类器和支持向量回归因子模型分析发现，肠易激综合征患者中肠道炎症与特定的微生物群落组成有关。基于KEGG数据库深入探索肠易激综合征患者肠道微生物群与相应代谢物之间的联系，以此为基础构建代谢反应网络图，结果表明在肠易激综合征患者中游离丙酸、天冬氨酸酰化酶、丙氨酸的水平较高，这可能与肠道微生物群的特定代谢活动有关。结论:本研究通过宏基因组学分析，证实了结合温针灸法的治疗方案对便秘型肠易激综合征患者肠道菌群的积极影响。
+{ISBN/ISSN}: 1671-038X
+{Notes}: 42-1612/R
+{URL}: https://kns.cnki.net/kcms2/article/abstract?v=lwcs1eIaudh3tf-q_tjK3FqEfbw8lw6RdL0Wm3kJIwbhxmgLy4OERCgj_5gcHqMroKFGqe5hLv_YuR7YlhvHz5JMfOAilN7b-q4PZ4SSBefXG2WeYtx4DMProWPNc66tneKOmxEgbNKUWQ5RCiRYr5gSWu9Kf8dwc2njOm9LKQtY3EDGY7aL930kS0UDfWo3WeJY2syLpug=&uniplatform=NZKPT&language=CHS
+{Database Provider}: CNKI
+
+{Reference Type}: Journal Article
+{Title}: 封面说明
+{Journal}: 遗传
+{Year}: 2025
+{Volume}: 47
+{Issue}: 02
+{Pages}: 145
+{Abstract}: <正>蝴蝶类群具有丰富的物种多样性，蝶翅结构相对简单但花纹复杂多样，是演化发育生物学研究的经典体系。本期倪嘉欣等“蝶翅花纹的演化发育生物学研究进展”一文聚焦蝶类的演化发育生物学研究历程，综述了早期的形态学研究和现阶段的整合遗传学、发育生物学、基因组学，描述了体现蝶翅花纹演化同源性与发育保守性的蛱蝶平面图，总结了在多个蝶类研究体系中重要的遗传工具包基因/基因座，展示了逐渐完善的蝶翅花纹演化发育学研究的理论框架。
+{ISBN/ISSN}: 0253-9772
+{Notes}: 11-1913/R
+{URL}: https://kns.cnki.net/kcms2/article/abstract?v=lwcs1eIaudjMB9rUkNSaDk8sQ-Q7SRm6UZh68M0XXkKJPy4Bls4y3WfIj18qSci25PfEdET2pdOEVafRCW4YiBwuSaIiZ--2AG-Acev6Qjs8h6cBF67RzaFcpqNAQU_9GQ6XTCxVjYcKwCNzARVVKhBsprYXvYkPkr8_GBCN9bUJuEdnLDfuZWIvTOf0o9joQp2dDapRKeU=&uniplatform=NZKPT&language=CHS
+{Database Provider}: CNKI
+
+{Reference Type}: Journal Article
+{Title}: 基因检测在精神药物治疗中的应用
+{Author}: 郭琦;张玲;冯媛;凌四海;阮灿军;果伟;李文标;刘辰庚;王刚
+{Author Address}: 首都医科大学附属北京安定医院/国家精神疾病医学中心/国家精神心理疾病临床医学研究中心/精神疾病诊断与治疗北京市重点实验室;首都医科大学人脑保护高精尖创新中心;
+{Journal}: 国际检验医学杂志
+{Year}: 2025
+{Volume}: 46
+{Issue}: 03
+{Pages}: 335-339+344
+{Keywords}: 精神药物;药物基因组学;临床应用
+{Abstract}: 精神药物治疗在精神疾病领域中至关重要，由于个体差异导致的药物疗效和安全性问题不容忽视。遗传因素，特别是与药物代谢酶、药物作用靶点和风险相关的基因多态性，对药物反应具有显著影响。药物基因组学通过检测基因多态性，能够获知患者对药物的药效、药代动力学特性和潜在毒性的遗传倾向，进而预测药物治疗效果和不良反应，为个体化治疗提供指导。因此，基于药物基因组学的个体化用药有助于提高治愈率、降低复发率，同时减少医疗成本，对精神疾病临床用药具有重大意义。
+{ISBN/ISSN}: 1673-4130
+{Notes}: 50-1176/R
+{URL}: https://kns.cnki.net/kcms2/article/abstract?v=lwcs1eIaudiE4R5v1g4Ty2HZhDp4so0QVwdEkoKUTBhiSmXAoVqmg9eM6EQbsC1lBCUMOHT-kJbwQC3fRPXyubefzy5Zesmm562IeufTLMrYhqmRZyi4Pl3xT_yZm0LO-B7ZdgxDrJzTQNp64bpfsiiyo2-tplca46oB3NvN7PcReoK_E0kdiNU0ScQiry40U7DoPtOw1Ts=&uniplatform=NZKPT&language=CHS
+{Database Provider}: CNKI
+
+{Reference Type}: Journal Article
+{Title}: 2型糖尿病治疗药物的药物基因组学研究进展
+{Author}: 马玉龙;李亚龙;胡晓霞;金更学;刘欣跃
+{Author Address}: 兰州大学第二医院检验医学中心;兰州大学第二医院老年病科;兰州大学第二医院内分泌科;
+{Journal}: 国际检验医学杂志
+{Year}: 2025
+{Volume}: 46
+{Issue}: 03
+{Pages}: 349-353
+{Keywords}: 2型糖尿病;药物基因组学;精准医学
+{Abstract}: 降糖药物是2型糖尿病患者治疗的重要手段，但在临床治疗中，效果不佳、无效乃至药物不良反应皆时有发生。随着药物基因组学的发展，对个体遗传变异和药物剂量与治疗反应之间的关联逐渐清晰，由此患者获得了更好的疗效并减少了不良反应。该文聚焦于降糖药物，综述其最新的药物基因组学研究进展，为个体化治疗2型糖尿病并预防相应并发症直至实现精准医学提供参考。
+{ISBN/ISSN}: 1673-4130
+{Notes}: 50-1176/R
+{URL}: https://kns.cnki.net/kcms2/article/abstract?v=lwcs1eIaudjlZlU0rlaL3GUNhR1GlXOLo0uG0hMd_uhXrKSdHLJGMZdLYumcLDxfH1m_2DqCd_g9BIHCDK5_2je08IFwMUEqTVjm5WWLQ72SvngN7KtcEdaAqf4NDvgxCfBI5A_d9ptKU8Y05NwTDM8LCZzlizMksXIWJsQdjveLjtCUycl__dtmRHlJLogidlbKwebDQVY=&uniplatform=NZKPT&language=CHS
+{Database Provider}: CNKI
+
+{Reference Type}: Journal Article
+{Title}: 典型冶金微生物Acidiphilium的比较基因组研究
+{Author}: 李星;娄伟;黎亮志;尹华群;徐习中;夏令;孟德龙
+{Author Address}: 湖南省和清环境科技有限公司;中南大学资源加工与生物工程学院;湖南桓耀环保科技有限责任公司;武汉理工大学资源与环境工程学院;
+{Journal}: 生物学杂志
+{Year}: 2025
+{Volume}: 42
+{Issue}: 01
+{Pages}: 48-54
+{Keywords}: 酸性矿山废水;Acidiphilium;环境适应机制;比较基因组学;基因水平转移
+{Abstract}: 酸性矿山废水(acid mine drainage, AMD)是一种寡营养、低pH以及富含重金属离子的极端酸性生境。该生境中含有大量的嗜酸、耐酸微生物，是系统中碳、氮和硫等物质循环的主要驱动者。Acidiphilium属菌株为兼性异养微生物，在AMD生境中丰度小于1%,但其与优势物种Acidibacillus经常表现出伴生关系，这说明Acidiphilium属在该系统中可能具有特殊的生态功能。为了探讨Acidiphilium属的生态功能和角色，从极端酸性环境中筛选到Acidiphilium属的菌1株，经16S rDNA和ANI比对，命名为Acidiphilium cryptum Acc2。Acidiphilium cryptum Acc2基因组含有1 066个蛋白编码基因，序列总长为4 917 178 bp,均高于该属其他菌的基因大小。Acidiphilium属泛基因组是开放的，共含有47 242个蛋白编码基因，699个蛋白编码基因(1.48%)被鉴定为核心基因，可变基因共有33 457个蛋白编码基因，占70.82%,2 705个蛋白编码基因是特有基因，占5.73%。其重金属抗性基因的Ka/Ks值95.5%以上均低于1,具有较强的纯化选择。Acidiphilium属基因组中基因之间的流动和交换频率相对其他物种更高，对菌株的进化和环境适应能力具有较大的正向影响。阐明了Acidiphilium属基因组进化和基因水平转移的规律，揭示了其环境适应性进化机制。
+{ISBN/ISSN}: 2095-1736
+{Notes}: 34-1081/Q
+{URL}: https://kns.cnki.net/kcms2/article/abstract?v=lwcs1eIaudgC-nXn_lJLLflo-ojkUV1fdiEg9oJjAaC_kuB0CZQ4hLlHXLAVv8IsBTbf0IWQSkyXvwljHw47LUTMqyyd1_3PIxu83XFlNtcMWZNEIkuZPuunyiDSuthD6Ej2JVhRCAcmddJlTdk8GfYQgM_RoOvmCRzm5-v8_EsyR9Wv6sQ105CxtjmgLQywbhAmMEHSyYQ=&uniplatform=NZKPT&language=CHS
+{Database Provider}: CNKI
+
+{Reference Type}: Journal Article
+{Title}: 基因组学术语的中英翻译策略研究与实践
+{Author}: 齐静静
+{Author Address}: 信阳职业技术学院;
+{Journal}: 分子植物育种
+{Year}: 2025
+{Volume}: 23
+{Issue}: 03
+{Pages}: 775-781
+{Keywords}: 基因组学术语;翻译策略;标准化翻译;跨语言交流;翻译实践
+{Abstract}: 本研究聚焦于基因组学术语的中英翻译策略及其实践，探讨如何实现术语翻译的准确性与规范性。作为生命科学领域的重要组成部分，基因组学术语的精准翻译对全球学术交流与科研合作具有深远影响。研究通过分析中英文基因组学术语的特点，揭示了翻译过程中面临的主要问题，包括文化差异、语言结构的差异性以及词汇使用的不统一等。针对这些问题，提出了直译、意译、音译和借词等多种翻译策略，并结合典型案例深入探讨了这些策略的适用范围及其潜在挑战。本研究为基因组学术语的标准化翻译提供了理论支持与实践指导，助力跨语言科学知识的传播与国际科研合作的深化。
+{ISBN/ISSN}: 1672-416X
+{Notes}: 46-1068/S
+{URL}: https://link.cnki.net/doi/10.13271/j.mpb.023.000775
+{DOI}: 10.13271/j.mpb.023.000775
+{Database Provider}: CNKI
+
+{Reference Type}: Journal Article
+{Title}: 沙蓬全基因组Survey测序分析
+{Author}: 杨文静;张丽;甘晓燕;聂峰杰;巩檑;刘璇;宋玉霞
+{Author Address}: 宁夏农林科学院农业生物技术研究中心;
+{Journal}: 分子植物育种
+{Year}: 2025
+{Volume}: 23
+{Issue}: 03
+{Pages}: 894-898
+{Keywords}: 沙蓬(Agriophyllum squarrosum);基因组;Survey测序
+{Abstract}: 沙蓬作为流动沙丘上的先锋植物群落，种子蛋白质含量高，具有重要的生态经济意义，对其基因组的研究有助于深入开展分子遗传学研究，并为绘制全基因组精细图谱提供依据。本研究运用二代高通量测序技术，获得137.75 Gb有效数据，总测序深度为89×，以K=17进行K-mer分析并修正后，拟南芥的基因组估计为1.02 Gb、杂合率为0.49%、70.18%和38.46%，属微杂合高度重复的基因组。经初步组装，获得了1 569 bp、605.2 Mb的ContigN50和3 453 bp、644.4 Mb的ScaffoldN50。本研究将在国际上率先对沙蓬属植物进行全面的基因组学分析，并在此基础上对其进行深入的基因组学分析。
+{ISBN/ISSN}: 1672-416X
+{Notes}: 46-1068/S
+{URL}: https://link.cnki.net/doi/10.13271/j.mpb.023.000894
+{DOI}: 10.13271/j.mpb.023.000894
+{Database Provider}: CNKI
+
+{Reference Type}: Journal Article
+{Title}: 基于糖苷水解酶家族基因的双歧杆菌比较基因组学分析及其在两歧双歧杆菌分离中的应用
+{Author}: 李岩;于航;陈思远;姜楠;赵鹏昊;孟祥晨
+{Author Address}: 东北农业大学乳品科学教育部重点实验室;
+{Journal}: 食品科学
+{Year}: 2025
+{Volume}: 46
+{Issue}: 05
+{Pages}: 114-123
+{Keywords}: 比较基因组学;糖苷水解酶;双歧杆菌属;分离鉴定
+{Abstract}: 本研究旨在比较分析双歧杆菌共有与特有的糖苷水解酶家族基因，在此基础上建立一种从婴儿粪便样本中快速分离目标双歧杆菌的方法。首先比较分析短双歧杆菌（Bifidobacterium breve）、长双歧杆菌长亚种（B. longum subsp. longum）、两歧双歧杆菌（B. bifidum）和长双歧杆菌婴儿亚种（B. longum subsp. infantis）4种双歧杆菌的糖苷水解酶家族基因，发现这些菌株在糖苷水解酶家族基因上存在共有及特有模式，可作为双歧杆菌分离和鉴定的分子标记。基于菌落聚合酶链式反应和核酸电泳技术，成功开发出一种快速分离和初步鉴定上述双歧杆菌的方法，并将其应用于B. bifidum的分离，该方法不仅提高了分离效率，而且降低了成本。本研究结果有利于加深对双歧杆菌属细菌多样性的认识，可为未来益生菌的研发奠定基础。
+{ISBN/ISSN}: 1002-6630
+{Notes}: 11-2206/TS
+{URL}: https://kns.cnki.net/kcms2/article/abstract?v=lwcs1eIaudguWXbyUjweY45EMcC4iWrYbiW0n33hA01KUIHZR4wsl5oSWXIzEqVH8S4ijFcho66dgb6ca_BSGFaL4RM08Y9j1TGaEXL-Wj8ERFV9NTFItl9yV8G-XeG3jwEhqiX4iAJwyNvWY9TTtu62qSc7sshPA5tyfiUrRsAxNzsWokBpkCCF0WE9S9QUN73DUECvCbA=&uniplatform=NZKPT&language=CHS
+{Database Provider}: CNKI
+
+{Reference Type}: Journal Article
+{Title}: “中国国际中医药（肉桂）论坛”在罗定举办
+{Author}: 范国才;陈美玲
+{Journal}: 源流
+{Year}: 2025
+{Volume}: 
+{Issue}: 03
+{Pages}: 37
+{Abstract}: <正>1月5日，由云浮市人民政府、广东药科大学、人民日报社中国城市报主办的“发展大南药推进中医药共享大健康”中国国际中医药（肉桂）论坛在云浮市罗定市举办。会上，围绕推进中医药现代化、产业化，中国工程院院士周宏灏，华南理工大学教授魏坤分别作《药物基因组学技术进展助力中医药基础与转化研究》等报告。大会还举行了“中国农业百强标志性品牌-罗定肉桂”亮牌仪式；广东药科大学“双百行动”罗定肉桂新品发布暨罗定市回赠广东药科大学老桂皮仪式。多位专家围绕“科技赋能，助力肉桂产业高质量发展”主题，从肉桂种质资源保护、种质创新利用、生态种植、大健康产品开发、市场拓展及品牌打造等方面展开圆桌研讨。
+{ISBN/ISSN}: 1009-5616
+{Notes}: 44-1494/D
+{URL}: https://kns.cnki.net/kcms2/article/abstract?v=lwcs1eIaudgPm9u2m51El-iq_GHz-La5fAfbP_jZz9suaVNgV2QGUFThrpcA83ykSJ3Im_ek8n9eAoRovexw9XK3qXWBRLGG1bKy-6bAEFWRQGehoDx5t_0XYzxrBYdm4biaHihnQWC1-pkGI90g-POWxpwyxi3Ww3SVw2F_nSf6jgOloX29TnO5_kjS6LdKQAXACQB8gH8=&uniplatform=NZKPT&language=CHS
+{Database Provider}: CNKI
+
+{Reference Type}: Journal Article
+{Title}: 卷烟烟气诱导慢性阻塞性肺疾病的评估模型和组学技术应用研究进展
+{Author}: 冯博洋;李翔;李泽之;谢复炜;张晓兵
+{Author Address}: 中国烟草总公司郑州烟草研究院;北京生命科技研究院;北京工商大学轻工科学技术学院;
+{Journal}: 癌变·畸变·突变
+{Year}: 2025
+{Volume}: 37
+{Issue}: 01
+{Pages}: 75-80
+{Keywords}: 卷烟烟气;慢性阻塞性肺疾病;评估模型;组学技术;生物标志物
+{Abstract}: 慢性阻塞性肺疾病(COPD)是一种普遍存在的慢性呼吸道疾病，在全球范围内，COPD的发病率和死亡率持续上升，已成为主要的疾病死亡原因之一。卷烟烟气被认为是COPD发生和进展的危险因素之一，其涉及的机制异常复杂，包括氧化应激、炎症、蛋白酶-抗蛋白酶平衡紊乱、细胞凋亡，甚至免疫衰老等多个方面。本文综述了常见的卷烟烟气诱导COPD的体内外模型，以及其在基因组学、转录组学、蛋白质组学以及代谢组学方面的研究进展，为进行卷烟烟气诱导COPD的实验研究提供参考依据。
+{ISBN/ISSN}: 1004-616X
+{Notes}: 44-1063/R
+{URL}: https://kns.cnki.net/kcms2/article/abstract?v=lwcs1eIaudibCoO2NsWn4iNe0loPwOFqn9Xtvu_6GvN11yOjU8umsYwYcnwPNW03OzC2jyAhAAhieaSu3-LBDCOhvi5rhIZUARBX82S44d5sIvKLim8GKwdTz6HVGSeRfzf3qRzwVIXWPoiMO4TJLpWiKKL9ZuEY7Pg64hlse0ULz3dhenhO4-SqY_Zrq0dZPc9RwTakN2M=&uniplatform=NZKPT&language=CHS
+{Database Provider}: CNKI
+
+{Reference Type}: Journal Article
+{Title}: 人类遗传资源保护和利用体系的建设实践
+{Author}: 杨璐;张力
+{Author Address}: 北京脑科学与类脑研究所;
+{Journal}: 中国科技资源导刊
+{Year}: 2025
+{Volume}: 57
+{Issue}: 01
+{Pages}: 20-29
+{Keywords}: 人类遗传资源;新型研发机构;样本库;基因组学;队列研究
+{Abstract}: 人类遗传资源是国家重要战略资源，其保护和利用面临一系列挑战和问题，涉及样本安全和合法利用、支撑产业链建设和社区运营等方面。以北京脑科学与类脑研究所为例，阐述在推进人类遗传资源保护和利用方面的探索性实践和思考，包括支撑平台建设、顶层设计、共享模式等方面。在遵守相关法律法规的前提下，只有尊重资源所有者的权益，并充分考虑伦理因素，才能推动人类遗传资源保护和利用的科学化、规范化和高效化。
+{ISBN/ISSN}: 1674-1544
+{Notes}: 11-5649/F
+{URL}: https://kns.cnki.net/kcms2/article/abstract?v=lwcs1eIaudgV5blGV8Jv-dFSnhsicsyJdnUt-DimaoDtYiyFpeFDoZiB7cbV9SNrTMhDc1wMdVp5YZWhQ_z6bW97D5y2y30h8yl-96JasWCZP_eTqQ2UiFZg3qENPEKu9-o2hESoLitu81FkNrKtGQJU5gMThiw60E3D2zl3d5wwmTR2By-dXNRC-5gd6cj0fZMgv8hX-tk=&uniplatform=NZKPT&language=CHS
+{Database Provider}: CNKI
+
+{Reference Type}: Journal Article
+{Title}: 腹泻猪群肠道微生物宏基因组分析
+{Author}: 张洁;贾骁晔;童泽宇;马岩;雷晨莹;原霖;田克恭
+{Author Address}: 河南农业大学动物医学院;北京中科基因技术股份有限公司;扬州大学兽医学院;国家兽用药品工程技术研究中心;
+{Journal}: 中国畜牧兽医
+{Year}: 2025
+{Volume}: 52
+{Issue}: 02
+{Pages}: 512-521
+{Keywords}: 猪;腹泻;混合感染;宏基因组学
+{Abstract}: 【目的】了解腹泻猪群病毒混合感染情况及病毒感染下肠道微生物群落结构变化。【方法】收集73份临床猪腹泻样品，使用单端100 bp读长(SE100)进行宏基因组测序。下机数据经FastQC工具质控获得clean data,利用BWA工具去除宿主序列获得unmapped data。使用Kraken 2工具将unmapped data比对到动物病原数据库进行物种分类注释并生成物种分类表。使用主成分分析(PCA)对数据降维处理，并使用每百万读数(RPM)进行数据归一化，利用Z-score统计方法生成热图进行差异分析可视化。使用MEGAHIT工具从头拼接病毒序列，使用BWA将unmapped data比对到contigs评估拼接效果，选择高质量contigs在NCBI上比对找到最相似序列，将ummapped data比对到该序列后提取一致序列，作为该病毒序列，使用IQ-TREE工具进行猪流行性腹泻病毒(PEDV)S基因和猪星状病毒(PAstV)ORF1a基因遗传进化分析。【结果】73份猪腹泻样品中检出多种病毒，阳性率分别为：PAstV 26.03%、猪嵴病毒(PKV)20.55%、猪轮状病毒(PoRV)19.18%、PEDV 19.18%、猪札幌病毒(PSaV)6.85%、猪德尔塔冠状病毒(PDCoV)4.11%。混合感染情况复杂，主要为PEDV+PAstV组合，在全部样品中占比为17.81%(13/73),在混合感染样品中占比为30.95%(13/42)。不同病毒感染下肠道微生物结构发生变化，PEDV阳性组样品乳杆菌属(Lactobacillus)相对丰度高于阴性组，PAstV阳性组样品梭菌属(Clostridium)和密螺旋体属(Treponema)相对丰度高于阴性组。拼接得到2条PEDV全基因组序列SE18和SE22,均属于GⅡa谱系，以及4条PAstV ORF1a基因组序列SE18、PE31、PE36和PE70,SE18为PAstV2型，其余3条序列与HAstV-HMO-B株亲缘关系较近。【结论】本研究通过宏基因组学技术揭示了临床腹泻猪群中PAstV和PEDV的高阳性率及混合感染情况，发现PEDV和PAstV感染显著改变了肠道微生物结构，为猪腹泻混合感染的防控提供了重要数据支持。
+{ISBN/ISSN}: 1671-7236
+{Notes}: 11-4843/S
+{URL}: https://link.cnki.net/doi/10.16431/j.cnki.1671-7236.2025.02.002
+{DOI}: 10.16431/j.cnki.1671-7236.2025.02.002
+{Database Provider}: CNKI
+
+{Reference Type}: Journal Article
+{Title}: 高通量自动化建库工作站性能检测标准化研究
+{Author}: 许俊;王萍萍
+{Author Address}: 上海国际人类表型组研究院;
+{Journal}: 质量与标准化
+{Year}: 2025
+{Volume}: 
+{Issue}: 01
+{Pages}: 51-55
+{Keywords}: 高通量基因测序;样品处理;标准化;性能检测
+{Abstract}: 本文综述了高通量自动化建库工作站的行业技术研究进展、标准化研究现状及其性能检测标准化研究。技术研究进展显示，自动化、高通量、集成化和临床应用的拓展是主要发展趋势。标准化研究强调提高实验效率和准确性，确保数据质量和一致性，优化样品处理流程，满足大规模测序需求以及推动生物技术和基因组学发展。性能检测标准化研究包括功能与组成、一般性能指标检测、测序性能指标与评价方法。展望未来，高通量基因测序技术将更加注重跨学科整合，开发更高效的数据处理和分析方法，以满足不断增长的科研和临床需求。
+{ISBN/ISSN}: 2095-0918
+{Notes}: 31-2058/G3
+{URL}: https://kns.cnki.net/kcms2/article/abstract?v=lwcs1eIaudgg5wg3l7-jpXUKHoH81buNHl8SVELMNUULAOnTFHxVQQrH_XXq-P4SCqBeFoktLfv1Wqey-NmJb0f_yabiafzyyEUsyrYUySOdbOxPWt_YtMIIN7yu5Y6d5-Ilxr-p2XygFC1MJ7iKMSBLAipXSxodEvP4Sf1a3Ogr0QtJHz2zwR3Sb9mtlFgxrMU2tlB0bVk=&uniplatform=NZKPT&language=CHS
+{Database Provider}: CNKI
+
+{Reference Type}: Journal Article
+{Title}: 基于宏基因组学探究碳氮联合激发Arthrobacter参与关键碳代谢促进植物生长的研究
+{Author}: 刘超;秦仕华;闫茹;李仕蓉;许巧玲;乔志伟
+{Author Address}: 安顺学院资源与环境工程学院;贵州省高校乡村振兴研究中心;安顺学院农学院;
+{Journal}: 中国土壤与肥料
+{Year}: 2025
+{Volume}: 
+{Issue}: 01
+{Pages}: 53-61
+{Keywords}: 外加碳氮;Arthrobacter;氮循环;碳循环;结构方程模型
+{Abstract}: 土壤碳、氮养分对植物生长具有重要作用。为探究碳、氮对作物生长的影响机制，在黔中黄壤区通过田间盆栽试验，设置空白（CK）、葡萄糖（G）、尿素（U）、葡萄糖+尿素（GU）4个处理，分析外加碳、氮对作物生长、土壤微生物群落和代谢的影响。GU处理油菜鲜重、干重、茎粗等指标均显著高于其他处理（P<0.05），油菜株高也以GU处理为最高。G、U、GU处理土壤pH含量均低于CK处理，土壤全氮、碱解氮和有机质含量均高于CK处理。GU处理中土壤微生物的主要标志物种为节杆菌属（Arthrobacter），表明Arthrobacter在GU处理中可能发挥潜在的重要作用。KEGG Pathway levels 2各类代谢中，氮代谢和碳水化合物代谢占主导，其中，在氮循环代谢路径中，G处理固氮代谢途径占据主导，U处理硝化作用代谢途径占主导；在碳循环代谢路径中，GU处理碳水化合物代谢与其他3个处理有显著差异的途径有18条，CK、G、U分别有6、11、3条；GU处理18条显著差异代谢途径中，代谢基因主要来自Arothrobacter的有葡萄糖激酶glk(K00845)、核糖-5磷酸异构酶B rpiB(K01808)、1,6二磷酸果糖激酶glpX(K02446)、6磷酸-3己糖异构酶hxlB(K08094)、磷酸果糖激酶pfk和pfp(K21071)。结构方程模型表明，碳循环代谢基因对油菜生长和产量产生直接和显著的影响（P<0.001）。以上研究结果为从微生物角度探究碳、氮对作物生长的影响提供了研究基础，也为作物增产研究提供了理论支撑。
+{ISBN/ISSN}: 1673-6257
+{Notes}: 11-5498/S
+{URL}: https://kns.cnki.net/kcms2/article/abstract?v=lwcs1eIaudhJlwbGWVBUuhP-T78pJPUmbHGwJz4ixu-UZElK87sR29QfLQUzM6GU2LVJ2oGX2aLbcpgRZQwmtjKHKA6STeal3ZYzshrJycoB5FMXxRKQHXeIekT84Szj0hyBfBoCnc5DDlBMoSQtex5W2qwF4v_jM7apCAmE8bgp7Jg8xH0UxTBUNKl7R5d9SUYXFU5fQcs=&uniplatform=NZKPT&language=CHS
+{Database Provider}: CNKI
+
+{Reference Type}: Journal Article
+{Title}: 基因组学与应用生物学论文撰写指南
+{Journal}: 基因组学与应用生物学
+{Year}: 2025
+{Volume}: 44
+{Issue}: 01
+{Pages}: 109-110
+{Abstract}: <正>一、栏目设置本刊设置固定栏目和随机栏目。固定栏目常设研究论文,发表最新的原始研究成果。随机栏目根据稿源设述评及其他栏目。二、论文写作的基本要求1题目与标题论文题目要紧扣主题,务求简明、新颖,有足够的信息,能引起读者的兴趣,不用副标题,一般不宜超过25个汉字或英文单词。应使用标准术语、学名全称、药物和化学品通用名称,不宜使用广义术语、夸张词语等,同时避免在题目中使用不常用的缩写词。
+{ISBN/ISSN}: 1674-568X
+{Notes}: 45-1369/Q
+{URL}: https://kns.cnki.net/kcms2/article/abstract?v=lwcs1eIaudiiJwCIEWyEwXrN8Wddmtel_rcxQDW8gvS8AE0TwURu7SrBKiVoK_CZjr01To8pMAfUcrysBNLfoVXNlLDNiR6Uzm4qtr0a1E5m_Ti2yNmLUDfW6L3wEfjUcAkMgX3ifwoaT075HNtCxO4DZTrDkqMHFQYh4KvDMnRcf8Cfp6WG_oOC5HiSQ_gqhAwMMMpMvsc=&uniplatform=NZKPT&language=CHS
+{Database Provider}: CNKI
+
+{Reference Type}: Journal Article
+{Title}: 纳米孔测序技术检测水环境中细菌抗生素耐药性的应用综述
+{Author}: 王羽洁;胡意凡;高欣然;施鹏
+{Author Address}: 污染控制与资源化国家重点实验室,南京大学环境学院;
+{Journal}: 净水技术
+{Year}: 2025
+{Volume}: 44
+{Issue}: 01
+{Pages}: 8-15+134
+{Keywords}: 纳米孔测序技术;水环境;细菌抗生素耐药性;药敏试验;分子生物学;宏基因组学
+{Abstract}: 【目的】抗生素抗性细菌(ARB)和抗生素抗性基因(ARGs)的传播和扩散已成为全球公共卫生领域的一大挑战，其中因水环境具有流动性和广泛性，成为抗生素耐药性(AMR)传播的重要媒介，因此对其中细菌AMR的检测显得尤为关键。文章旨在探讨水环境中细菌AMR的检测方法，以期为未来的研究方向提供指导。【方法】文章介绍了包括基于传统培养的药敏试验法、基于聚合酶链式反应(PCR)的分子生物学、基于高通量测序的宏基因组学3种检测水环境细菌AMR的主流方法，并阐述了它们的优缺点。还主要介绍了单分子纳米孔测序技术的原理与特点，综述了纳米孔测序技术凭借长读长优势在检测水环境细菌AMR的应用进展及存在的问题。【结果】药敏试验法、分子生物学检测复杂水环境中的ARB均存在一定的局限性，而宏基因组学可检测数百种ARGs,并能直接定位ARGs宿主。这其中使用纳米孔测序技术无需组装、分装便能直接得到ARGs宿主、遗传位置等丰富的抗生素ARGs组信息，但现主要面向生物量大的水环境样本，对饮用水等生物量少的水环境原位分析能力不足。【结论】可使用多种检测方法全面识别水环境中细菌AMR的表型和基因型，需要发展水环境细菌富集和DNA提取技术，这方便使用纳米孔测序对更多种类的环境进行抗生素抗性基因组深度识别。
+{ISBN/ISSN}: 1009-0177
+{Notes}: 31-1513/TQ
+{URL}: https://link.cnki.net/doi/10.15890/j.cnki.jsjs.2025.01.002
+{DOI}: 10.15890/j.cnki.jsjs.2025.01.002
+{Database Provider}: CNKI
+
+{Reference Type}: Journal Article
+{Title}: Journal of Hepatology|中国人群妊娠期肝内胆汁淤积症的基因组学研究揭示其与历史乙型肝炎流行的潜在关联
+{Author}: WEI YD;CHEN XH;刘斯洋;刘艳红
+{Author Address}: 中山大学公共卫生学院(深圳);
+{Journal}: 临床肝胆病杂志
+{Year}: 2025
+{Volume}: 41
+{Issue}: 01
+{Pages}: 182
+{Abstract}: <正>妊娠期肝内胆汁淤积症（ICP）是妊娠期常见且高风险的肝脏疾病，与多种严重的不良妊娠结局相关。深入理解ICP的发病机制是探索新型诊治方案、保障ICP患者母婴健康的关键。值得注意的是，ICP在东亚和东南亚地区的发病率显著高于欧洲地区，但具体原因尚不明确。针对上述问题，来自中山大学公共卫生学院（深圳）的Liu等开展了针对中国人群的大规模ICP遗传学研究，首次从遗传学、基因多效性和演化医学角度，系统解析了东亚人群ICP发病的遗传病因及其与欧美人群的差异。该研究使用了深圳两家妇幼保健院孕妇的低深度无创产前基因检测（NIPT）测序数据及妊娠期空腹总血清胆汁酸（TBA）水平测量数据，对98 269名中国孕妇进行了TBA及ICP的全基因组关联研究（GWAS）。研究团队在3个独立的中国人群队列中验证了GWAS结果，并与欧洲人群的研究结果进行了对比，同时通过表型组关联分析及时空进化分析探讨了ICP相关位点的功能和进化模式。研究共发现了8个与空腹TBA水平显著相关、4个与ICP显著相关的遗传位点，包括10个新基因座。其中，14q24.1的0.4 Mbp区域内鉴定了1个东亚特异性位点。该位点的风险等位基因每增加1个拷贝，TBA水平平均升高6.12μmol/L，且ICP风险增加16.56倍（95%CI:16.43～16.69,P=7.06×10-381）。全表型关联分析及时空演化分析表明，14q24.1中的SLC10A1基因位点中ICP风险等位基因可能通过免疫逃逸机制抵御HBV，并在过去3 000年间在东亚及东南亚地区显著扩散。
+{ISBN/ISSN}: 1001-5256
+{Notes}: 22-1108/R
+{URL}: https://kns.cnki.net/kcms2/article/abstract?v=lwcs1eIaudjK725-HD9iR2yvZMQOpl8iEYNhChowTNQpUv3FTknC_KW0OUjeOOocoZamzpd7HJ2m0EbdeY4laXVNt98NEqMeBb3XSeIpP5bX6kQH3ob9xA4VFRuCu4Cbw-6Oyo_RwTlMmoLLca5OKgpV1Aa7UoAAhatpY3CdWxE1pkt30F3MZLOmlm-t_kI09-EBv0mGre0=&uniplatform=NZKPT&language=CHS
+{Database Provider}: CNKI
+
+{Reference Type}: Journal Article
+{Title}: 基于基因组学技术分析内蒙古不同地区奶酒中的微生物多样性
+{Author}: 崔爽;孔凡军;乌力吉德力根
+{Author Address}: 赤峰学院化学与生命科学学院;巴林左旗鑫潼酒业有限公司;
+{Journal}: 上海轻工业
+{Year}: 2025
+{Volume}: 
+{Issue}: 01
+{Pages}: 64-66
+{Keywords}: 奶酒;微生物群落结构;地域差异;优势菌种;功能特性
+{Abstract}: 运用基因组学技术，系统分析内蒙古赤峰市、锡林郭勒盟、阿拉善盟等地奶酒的微生物多样性，通过高通量测序，获得逾十亿条高质量DNA序列，揭示奶酒中具有丰富的微生物种类，主要由乳酸菌（如乳链球菌、乳酸杆菌）和酵母菌（如酿酒酵母）主导，影响着奶酒的口感、质地与营养价值。不同地区奶酒样品中的微生物展现出显著的差异性，Shannon指数高，说明微生物群落越复杂，优势菌种相对丰度则因地而异，受地理环境、气候及传统发酵工艺影响。
+{ISBN/ISSN}: 1004-3772
+{Notes}: 31-1439/TS
+{URL}: https://kns.cnki.net/kcms2/article/abstract?v=lwcs1eIaudjixO7IFSn3YqMVK_b3QVGjbmknMnmLX_xeB1k5gWKqCHtQHLG9mt6F3YMyYwAGzFhVdXlN5JKQpunUpyr8XXRaSOvXf0kXJeaT2tCF8U_RJsGLYZ55B8UJfhtIZ8SA-Ww5GSgJ2S17bktQwZm1rt1KZBtmuuOEkkVOrCojnuTZF_YzqUqn62Zv8JyFeL9Z8WA=&uniplatform=NZKPT&language=CHS
+{Database Provider}: CNKI
+
+{Reference Type}: Journal Article
+{Title}: 近10年肠道菌群与2型糖尿病相关性研究的可视化分析
+{Author}: 牛雨楠;何娅娜;晋溶辰
+{Author Address}: 湖南中医药大学护理学院;湖南中医药大学第一附属医院;
+{Journal}: 循证护理
+{Year}: 2025
+{Volume}: 11
+{Issue}: 02
+{Pages}: 258-266
+{Keywords}: 肠道菌群;2型糖尿病;CiteSpace;文献计量学;护理
+{Abstract}: 目的：分析近10年肠道菌群与2型糖尿病相关性研究现状、热点与发展趋势，为相关研究人员了解该领域提供参考。方法：检索Web of Science(WOS)和中国知网（CNKI）中2013年1月1日—2024年5月1日收录的肠道菌群与2型糖尿病的相关文献；应用CiteSpace 6.3.R1软件对近10年肠道菌群与2型糖尿病相关性研究的发文量、发文国家、发文机构、发文作者及关键词进行分析。结果：最终WOS纳入文献1 533篇、CNKI纳入文献501篇。发文量总体呈上升趋势。该领域中作用机制、基因组学技术、二甲双胍、益生菌、中药治疗、粪菌移植等为研究热点。中医、16S rRNA基因测序为最新研究前沿。结论：2型糖尿病与肠道菌群相关性的作用机制、中医药及其他治疗方法、多组学方法为深入研究的趋势。
+{ISBN/ISSN}: 2095-8668
+{Notes}: 14-1377/R
+{URL}: https://kns.cnki.net/kcms2/article/abstract?v=lwcs1eIaudjpwxwo9OpbMAYXbZIvQNsPdKr9_J6tAktO94ej0lRLCnJ8Xpzs6ik_knPlkAgb62P4Crcm7SGSj6QdogRXb0fgmFAtDJySy1Rua-XNk7dTea0S0pHkmTzvPhYektNN2uYWluoIiEwG133e_N6JEnBBv3kYmAICBdnVblpHYw8a9T1J9Xma2oGINBHJ0qoZLI0=&uniplatform=NZKPT&language=CHS
+{Database Provider}: CNKI
+
+{Reference Type}: Journal Article
+{Title}: 头皮微生态与头皮健康的研究进展
+{Author}: 黎颖娴;张晔翔;亓丰伟;陈永录
+{Author Address}: 山东花物堂生物科技有限公司;
+{Journal}: 日用化学品科学
+{Year}: 2025
+{Volume}: 48
+{Issue}: 01
+{Pages}: 70-73+85
+{Keywords}: 头皮微生态;头皮健康;头皮微生态的检测方法;头皮微生态的解决思路
+{Abstract}: 综述了头皮微生态与头皮健康的研究进展，其中涵盖了皮肤微生态的概况，包括面部、躯干、腋下、手部、头皮的微生态差异，不同部位因水分含量、油脂含量的差异等，导致微生物分布的不同。头皮微生态对头皮健康的影响巨大，头皮微生态失衡会导致头屑和脂溢性皮炎、特应性皮炎、银屑病、脱发的问题产生。了解到目前使用的头皮微生物检测与分析方法有传统微生物学方法、生物化学分析法、16S rRNA基因测序技术、定量PCR分析、宏基因组学，宏基因组技术作为头皮微生态研究的重要工具，提供了对微生物群落组成和功能的全面了解。外部因素如使用不同的洗发产品也会对头皮微生态产生影响。概括了微生态平衡的解决方案，目前主流的有通过益生元、益生菌、后生元，调节头皮微生态，另外也有一些植物成分通过抗菌解决微生态失衡问题。
+{ISBN/ISSN}: 1006-7264
+{Notes}: 14-1210/TQ
+{URL}: https://kns.cnki.net/kcms2/article/abstract?v=lwcs1eIaudhxhKMHh4epIlBjoVi_DgTEWFVWsoPhBqOnpLvzQbB4qA4MGYYkXbWg8qyST0Cdn05oj2FF4hE5X2U1W6sGuPqmgNPLcDYp_tSiWAghGguFLJ-j8MSTDER4bWDj9eYmsEjtPomX7frzSQuN-WWFJw_LJdcziYeNp_FtG_olS4SXczsadaJAnq_qSfd2JvVoQv4=&uniplatform=NZKPT&language=CHS
+{Database Provider}: CNKI
+
+{Reference Type}: Journal Article
+{Title}: 基于宏基因组学与代谢组学探索完带汤治疗脾虚湿盛型外阴阴道假丝酵母菌病作用机制
+{Author}: 韩月;沈甦;傅捷;任青玲
+{Author Address}: 南京中医药大学附属医院妇科;南京中医药大学连云港附属医院妇科;
+{Journal}: 四川大学学报(医学版)
+{Year}: 2025
+{Volume}: 56
+{Issue}: 01
+{Pages}: 68-73
+{Keywords}: 完带汤;外阴阴道假丝酵母菌病;阴道菌群;宏基因组;代谢组学
+{Abstract}: 目的 基于宏基因组和代谢组学，探讨完带汤防治脾虚湿盛型外阴阴道假丝酵母菌病（vulvovaginal candidiasis, VVC）、恢复阴道菌群结构的机制及可能作用的代谢通路。方法 将符合纳入标准的20例VVC患者随机分为完带汤组和氟康唑组各10例，氟康唑组采用150 mg氟康唑口服一次；完带汤组采用完带汤口服14 d。治疗前后对两组患者进行VVC症状体征（vulvovaginal signs and symptoms, VSS）评分。收集治疗前后阴道分泌物，采用Ilumina测序和液相色谱-串联三重四极杆质谱（LC-MS/MS）平台技术，对阴道分泌物分别进行宏基因组检测和代谢组学检测，探索完带汤可能作用的代谢通路及其恢复阴道菌群结构的机制。结果 VSS评分结果显示，治疗后两组VSS评分均较治疗前降低（P<0.01），且治疗后两组VSS评分差异无统计学意义。宏基因组学结果显示：完带汤组治疗后阴道微生物群落为CSTⅡ、Ⅴ型（格氏乳杆菌、詹氏乳杆菌为主）；氟康唑组治疗后阴道微生物群落为Lactobacillus＿intestinalis和Streptococcus＿sp.＿oral＿taxon＿431。KEGG功能富集分析结果显示：在假丝酵母菌的细胞周期、减数分裂功能上，两组差异有统计学意义（P<0.05）。代谢组学结果显示：治疗后，完带汤组与氟康唑组组间的差异代谢物为120个；KEGG代谢通路富集分析结果显示：完带汤可能在改善阴道局部α亚麻酸、甘油磷脂代谢、戊糖和葡萄糖醛酸相互转化、花生四烯酸等代谢通路方面优于氟康唑。结论 完带汤可改善VVC患者阴道菌群；完带汤在细胞周期及减数分裂的信号通路方面优于氟康唑组；完带汤改善阴道菌群可能与影响阴道局部甘油磷脂代谢、戊糖和葡萄糖醛酸相互转化等代谢通路有关。
+{ISBN/ISSN}: 1672-173X
+{Notes}: 51-1644/R
+{URL}: https://kns.cnki.net/kcms2/article/abstract?v=lwcs1eIaudicv4Sirmx0JZ5QTmAJQR9pc6wcYmy6Wtcj3Dq47pR552ECWTyzU2_H5k1r3NSATXhCkvLyMQl4CeNjRacvRMqfTDde6n7Yo88YFWp-NxAHYpqRrKHgW87eJMQpu2e_XfZyOc49w2SIpUXSw0lm4Ts4JNLau7Cwmc0x0qeg-7-pWj98DzLZdo0mypkYMgYzLrw=&uniplatform=NZKPT&language=CHS
+{Database Provider}: CNKI
+
+{Reference Type}: Journal Article
+{Title}: 基于全基因组学的皮特不动杆菌JW535甲烷氧化代谢途径分析
+{Author}: 代宇菲;杨庆;赵彬;范玉婧;葛姗姗;高志岭;刘春敬;李响;耿仕呈
+{Author Address}: 河北农业大学资源与环境科学学院/河北省农田生态环境重点实验室;缔博国际设计有限公司;中国冶金地质总局地球物理勘查院;
+{Journal}: 江苏农业科学
+{Year}: 2025
+{Volume}: 53
+{Issue}: 02
+{Pages}: 229-239
+{Keywords}: 皮特不动杆菌;甲烷氧化;pmoA;全基因组学分析
+{Abstract}: 畜禽养殖和水稻种植是温室气体甲烷（CH4）的重要排放源。甲烷氧化菌是大气CH4的重要汇，从垃圾填埋场覆土中分离出1株甲烷氧化菌JW535,经生理生化、16S rRNA及平均核苷酸一致性分析，鉴定其为皮特不动杆菌（Acinetobacter pittii）。批式培养试验表明，与对照菌株Methylosinus trichosporium OB3b相比，培养120 h后，JW535的D600 nm和CH4氧化效率均显著高于对照（P<0.05）,分别为0.48和83%。采用三代PacBio结合二代Illumina全基因组测序解析了JW535的CH4氧化代谢通路，其基因组大小为8 012 886 bp,经直系同源蛋白数据库（COG）和基因组百科全书数据库（KEGG）注释到的基因分别为4 916、3 073个。JW535全基因组序列中注释到甲烷氧化单加氧酶、甲醇脱氢酶和甲酸脱氢酶的编码基因pmoA、mxaJ和fdoI,推测其具有相对完整的CH4异化代谢通路。JW535同化代谢与丝氨酸循环有关，且具有完整的三羧酸循环。基于JW535的pmoA基因序列构建系统发育树，分析出其pmoA为低CH4亲和力型，其pmoA蛋白含有AMO氨单加氧酶，在进化中相对保守。本研究解析了Acinetobacter pittii JW535的甲烷氧化代谢通路，可为进一步丰富和完善甲烷氧化菌种资源、减少农业CH4排放提供理论和数据支持。
+{ISBN/ISSN}: 1002-1302
+{Notes}: 32-1214/S
+{URL}: https://link.cnki.net/doi/10.15889/j.issn.1002-1302.2025.02.032
+{DOI}: 10.15889/j.issn.1002-1302.2025.02.032
+{Database Provider}: CNKI
+
+{Reference Type}: Journal Article
+{Title}: 基因组学在精神疾病护理中的应用进展
+{Author}: 庄琦;杨又
+{Author Address}: 绍兴文理学院医学院;绍兴文理学院心理健康教育中心;
+{Journal}: 上海护理
+{Year}: 2025
+{Volume}: 25
+{Issue}: 01
+{Pages}: 36-40
+{Keywords}: 基因组学;护理;精神疾病;进展;综述
+{Abstract}: 文章综述了基因组学对于精神疾病临床护理的意义、在精神科临床护理中的应用现状及挑战，并提出后续发展展望，旨在为促进我国精神科疾病的精准化、个体化护理发展提供思路和参考。
+{ISBN/ISSN}: 1009-8399
+{Notes}: 31-1846/R
+{URL}: https://kns.cnki.net/kcms2/article/abstract?v=lwcs1eIaudguc8xBw-XCRZ1T0gK_MbQww7rLci1AG4jBB1pZ7ag9fr04WRMIZ7eTgXFZ0Y7CBF7xfKWT_dB0R_CTnRMTqo3hcsDk8Ed1I1Pp9aQI4f5hDzfjDca5_x4U22w1eVsxgWblZDL94q_W2-eIjW5W7zUrw9hnmIn_J34gxZtLU2gQ5U4hYsGDOUyHd1GRxdgNFnI=&uniplatform=NZKPT&language=CHS
+{Database Provider}: CNKI
+
+{Reference Type}: Journal Article
+{Title}: 影像组学和影像基因组学在胶质瘤中的研究进展
+{Author}: 宁子睿;周蓉艳;白颖楠;李卓琳
+{Author Address}: 昆明医科大学第三附属医院(云南省肿瘤医院)放射科;
+{Journal}: 放射学实践
+{Year}: 2025
+{Volume}: 40
+{Issue}: 01
+{Pages}: 29-34
+{Keywords}: 胶质瘤;影像组学;影像基因组学;精准诊疗;预后评估;磁共振成像
+{Abstract}: 胶质瘤是成人中枢神经系统最常见的原发恶性肿瘤，多呈侵袭性生长。随着分子遗传学的不断发展和分子生物学技术的不断进步，越来越多的生物分子标志物被证实对脑胶质瘤的个体化诊断、治疗和预后评估具有重要的指导意义。近年来，影像组学和影像基因组学领域有了显著的发展，其通过先进的方法来挖掘医学影像背后的信息，将这些图像信息转化为与肿瘤管理中的临床事件相关的可挖掘的数据，其中大量的影像特征与肿瘤的分子遗传学特征相关，使它能够无创地预测胶质瘤的分级、基因分型、治疗反应和预后，其最终目的是对患者进行分层，为脑胶质瘤患者的个体化诊疗模式的临床应用提供科学依据，现已成为精准医疗领域的研究热点。本文回顾了近年来有关成人脑胶质瘤影像组学和影像基因组学的研究，对其在成人脑胶质瘤术前分级、基因分型、治疗和疗效评价、生存预测等方面的研究进展进行综述。
+{ISBN/ISSN}: 1000-0313
+{Notes}: 42-1208/R
+{URL}: https://link.cnki.net/doi/10.13609/j.cnki.1000-0313.2025.01.006
+{DOI}: 10.13609/j.cnki.1000-0313.2025.01.006
+{Database Provider}: CNKI
+
+{Reference Type}: Journal Article
+{Title}: 茅台酒股份公司科创成果获科学技术奖一等奖
+{Author}: 筱鹂
+{Journal}: 酿酒科技
+{Year}: 2025
+{Volume}: 
+{Issue}: 01
+{Pages}: 75
+{Abstract}: <正>本刊讯：12月16日，由中国食品工业协会主办，中国食品安全报社承办的第二十二届中国食品安全大会暨2024全国食品工业科技进步大会在北京举行，茅台酒股份公司《酱香型白酒酵母菌资源高质挖掘、功能解析及应用研究》项目荣获科学技术奖一等奖。此次获奖项目以酱香型白酒酿造全过程为研究对象，集成应用宏基因组学、转录组学等多组学技术及原位仿生培养技术，首次从酱香型白酒酿造过程全面获得41种酵母菌，从菌群结构-功能-代谢等多层次揭示了酱香型白酒多轮次产醇发酵机制及高温、高酸下酵母耐受机制，通过功能酵母选育及复配，
+{ISBN/ISSN}: 1001-9286
+{Notes}: 52-1051/TS
+{URL}: https://kns.cnki.net/kcms2/article/abstract?v=lwcs1eIaudhGDUISUuVZ8etUcTBjVjxN1GfaW2GqjxhFEJZBayaygWGeiMoHDftOmMlJEDVavv-q-rW_q1DCkeRTbfMcF1EAJKZpTvoUri-TVJ0oDLTrqk5N29UNIoxUOvZTGE8AZa5C5LNGFMJeM17odBTH3Zb3vnD5J0XCzUvgIIsSQHCgxs_bP48EiSPwb-ddLldqEtM=&uniplatform=NZKPT&language=CHS
+{Database Provider}: CNKI
+
+{Reference Type}: Journal Article
+{Title}: 组学技术在奶牛乳腺炎发病机制和诊断上应用研究进展
+{Author}: 范曼婷;黄若婷;佘远航;郭建超;刘建营;郭勇庆
+{Author Address}: 华南农业大学动物科学学院;广东省种畜禽质量检测中心;广东省农业技术推广中心;
+{Journal}: 畜牧兽医学报
+{Year}: 2025
+{Volume}: 56
+{Issue}: 03
+{Pages}: 1076-1088
+{Keywords}: 组学技术;奶牛;乳腺炎;发病机制;诊断
+{Abstract}: 乳腺炎是奶牛养殖中危害较大的疾病之一，严重影响奶牛健康和乳品安全，因此需要及时采取预防和控制措施。目前，奶牛乳腺炎存在诊断效率不高和发病机制解释不清晰等问题。随着高通量测序技术的快速发展，基因组学、表观基因组学、转录组学、蛋白质组学等组学技术已被逐步应用于奶牛乳腺炎相关研究上，推动了对该疾病的深入认知。本文综述了组学技术在奶牛乳腺炎发病机制和诊断上的应用现状及研究进展，旨在为科学认识和降低乳腺炎发病率提供参考。通过解析奶牛乳腺炎的多层面机制，揭示了关键调控通路、潜在生物标志物，如CHI3L1、LBP、GSN、GCLC、C4等蛋白质及乳酸、酪氨酸等代谢物，可为乳腺炎发病机制的解析提供指导，也为干预治疗提供了新的途径。但是，在生产中应用时，组学技术仍面临着成本和技术门槛高等挑战。随着多组学技术的深入整合和成本降低，将有助于发现更精确的生物标志物，深入了解特定信号通路，为奶牛乳腺炎的预防、诊断和治疗提供更为科学的依据。
+{ISBN/ISSN}: 0366-6964
+{Notes}: 11-1985/S
+{URL}: https://link.cnki.net/urlid/11.1985.S.20250115.1523.010
+{Database Provider}: CNKI
+
+{Reference Type}: Journal Article
+{Title}: 隐孢子虫基因组学研究进展
+{Author}: 陈远才;黄建营;秦慧凯;张龙现
+{Author Address}: 河南农业大学动物医学院;
+{Journal}: 畜牧兽医学报
+{Year}: 2025
+{Volume}: 56
+{Issue}: 03
+{Pages}: 1059-1064
+{Keywords}: 隐孢子虫;基因组学;人兽共患;研究进展
+{Abstract}: 隐孢子虫病是一种由隐孢子虫引起的人兽共患疾病。基因组学研究在解析隐孢子虫复杂生活史过程等分子生物学方面起到重要作用。隐孢子虫基因组重测序以及不同隐孢子虫虫种的基因组学比较可以揭示虫种间的遗传进化规律及多样性的形成机制。本文综述了隐孢子虫基因组学方面的研究进展，这对隐孢子虫的防控有着重要意义。
+{ISBN/ISSN}: 0366-6964
+{Notes}: 11-1985/S
+{URL}: https://link.cnki.net/urlid/11.1985.S.20250115.1518.008
+{Database Provider}: CNKI
+
+{Reference Type}: Journal Article
+{Title}: 研究揭示鱼类肠道菌群主要门类的功能特征
+{Journal}: 农家致富
+{Year}: 2025
+{Volume}: 
+{Issue}: 02
+{Pages}: 21
+{Abstract}: <正>日前，中国农业科学院饲料研究所水产微生物与饲料创新团队构建了首个草鱼肠道微生物基因目录，并解析了草鱼肠道微生物组的主要互作模式和功能特征，为鱼类肠道菌群调控提供了理论基础。共生微生物可调节养殖鱼类的生长和健康性状，目前对鱼类肠道微生物基因组的了解较少。该研究利用宏基因组学技术，构建了草鱼肠道微生物的非冗余基因目录（57.6万个基因），并对基因目录进行了系统的分类和功能注释。该项研究发现，草鱼肠道微生物存在两个功能群，二者在生态学上表现为互斥模式，并在与宿主互作方面存在显著差异。
+{ISBN/ISSN}: 1672-6456
+{Notes}: 32-1699/S
+{URL}: https://kns.cnki.net/kcms2/article/abstract?v=lwcs1eIaudhor7X2Jvwje_D7ndm7uUbU8WyTvrxMZ9aAc61y3u0S1feVDDjX2P1Yx6GqA1F5F2Ub-JCGyeyUa1uhpBj_4UuTOMQPWZIczLiTNzd-UeaBMRyQHoXQwIfTTyEAgEttBHYjeZ9HFNNEh6iyEB4nHa30pCLa1tidoHKkfZnt2uSVeKZoaA7D2hlKbWsVV_LReMs=&uniplatform=NZKPT&language=CHS
+{Database Provider}: CNKI
+
+{Reference Type}: Journal Article
+{Title}: 农业信息技术在小麦育种中的应用研究
+{Author}: 付艳军
+{Author Address}: 东明县长兴集乡人民政府;
+{Journal}: 种子科技
+{Year}: 2025
+{Volume}: 43
+{Issue}: 01
+{Pages}: 83-85
+{Keywords}: 农业信息技术;小麦育种;大数据分析;遥感技术;基因组学;育种效率
+{Abstract}: 随着信息技术的迅猛发展，农业信息技术在小麦育种中的应用逐渐成为提升育种效率和精确度的重要手段。概述了现代农业信息技术在小麦品种培育、遗传优化以及种质资产管理等方面的核心运用，研究显示，应用农业信息技术能显著提升小麦的育种速度，缩短育种周期，提升其抗病性与产出量，但在技术应用过程中会遇到数据处理的复杂性挑战，需克服技术集成程度限制。讨论了小麦育种实践未来发展路径，涵盖技术的集成与优化、人工智能的应用以及数据共享平台的建设。
+{ISBN/ISSN}: 1005-2690
+{Notes}: 14-1160/S
+{URL}: https://link.cnki.net/doi/10.19904/j.cnki.cn14-1160/s.2025.01.027
+{DOI}: 10.19904/j.cnki.cn14-1160/s.2025.01.027
+{Database Provider}: CNKI
+
+{Reference Type}: Journal Article
+{Title}: 谷子逆境相关功能基因组学研究进展
+{Author}: 秦家范;郭冰;李小艳;刘忠玲;褚莹莹;韩聚东;王自力;马小倩
+{Author Address}: 洛阳市农林科学院;河南科技大学农学院;
+{Journal}: 安徽农业科学
+{Year}: 2025
+{Volume}: 53
+{Issue}: 01
+{Pages}: 7-11
+{Keywords}: 谷子;逆境胁迫;基因;研究进展
+{Abstract}: 植物抗逆境胁迫研究是热点科学问题之一，随着极端天气频发，谷子作为一种典型的抗旱耐贫瘠作物在农作物种植业结构调整中发挥的作用越来越重要。阐述了谷子近些年来在分子水平研究、谷子逆境相关基因以及挖掘应用方面的进展，以及抗逆基因研究发展前景，为谷子抗逆遗传育种以及抗性机理的解析提供理论依据。
+{ISBN/ISSN}: 0517-6611
+{Notes}: 34-1076/S
+{URL}: https://kns.cnki.net/kcms2/article/abstract?v=lwcs1eIaudjhx8_XkLZtdiZOHQtJmlFxQf0gSCHvR-CJ6o7Xd6ofEXNH4g3-ZTkBQNGpR3-7v2PjHexroXEKWJFffoz2rOu3tXIiFeiGTWiHOsgHBfIHekINZVoAhuotDWH_L3GqTaIqUxqS18vWLR60HxlFnnsUD3x0LLQ4JRxt-G9bPH5YX0728PDwI7a5IOVZgNL7_jk=&uniplatform=NZKPT&language=CHS
+{Database Provider}: CNKI
+
+{Reference Type}: Journal Article
+{Title}: 生物的演化与适应：基因组时代的多维度探索
+{Author}: 张勇;施鹏;付巧妹;于黎
+{Author Address}: 中国科学院动物研究所,动物进化与系统学院重点实验室;中国科学院昆明动物研究所,遗传资源与进化国家重点实验室;中国科学院古脊椎动物与古人类研究所;云南大学省部共建云南生物资源保护与利用国家重点实验室,生命科学学院;
+{Journal}: 遗传
+{Year}: 2025
+{Volume}: 47
+{Issue}: 01
+{Pages}: 1-4
+{Abstract}: <正>自1859年达尔文《物种起源》发表以来，自然选择通过作用于可遗传的适应性突变推动生物的演化乃至新物种形成成为演化生物学的核心理论框架。进入21世纪，基因组学的迅猛发展使演化生物学迈入了新的发展阶段。通过高通量测序和多组学整合，研究者能够追踪包括人类在内的各种物种的演化历史，解析细胞乃至个体水平适应性演化的分子基础。
+{ISBN/ISSN}: 0253-9772
+{Notes}: 11-1913/R
+{URL}: https://link.cnki.net/doi/10.16288/j.yczz.25-003
+{DOI}: 10.16288/j.yczz.25-003
+{Database Provider}: CNKI
+
+{Reference Type}: Journal Article
+{Title}: 基于文献计量学分析近10年药用植物组织培养的研究趋势
+{Author}: 江宇慧;朱明玉;张景景;刘义飞;刘合刚;余坤;森林
+{Author Address}: 湖北中医药大学药学院;
+{Journal}: 世界科学技术-中医药现代化
+{Year}: 2025
+{Volume}: 27
+{Issue}: 01
+{Pages}: 98-109
+{Keywords}: 药用植物组织培养;文献计量学;研究热点;多组学技术
+{Abstract}: 目的 以图谱的形式直观对比近10年植物组织培养领域国内外的发文情况，并深入分析其发生的可能原因；同时在植物组织培养的大框架下重点聚焦在药用植物中的应用，指出其发展短板，为药用植物组织培养未来发展方向提供参考。方法 收集CNKI与WOS数据库近10年收录的植物组织培养领域文献，利用Bibliometrix、CiteSpace和VOSviewer软件对中英文文献的发文期刊、发文作者、发文机构与国家、高被引论文、关键词进行分析并绘制可视化图谱，同时以药用植物为检索词对结果进行二次检索并深入分析药用植物的组织培养研究。结果 共筛选出902篇中文文献与7658篇英文文献；发文最多的期刊关于药用植物组织培养的研究占比较高；中文发文最多的作者韦坤华专注药用植物研究，而英文发文最多的作者对药用植物也有涉猎；发文最多的机构在药用植物的组织培养中均主要研究组培体系的建立；我国产出在发文国家中居于首位；植物组织培养研究热点集中在代谢组学与基因组学的研究中，而药用植物多数研究仍停留在基础应用中。结论 植物组织培养领域国内的发展相对于国外存在一定的滞后性，应加强各单位间的合作交流；国内外虽然都关注到药用植物的组织培养，但其研究多数仍停留在基础应用中，可以通过与多组学技术结合研究促进发展。
+{ISBN/ISSN}: 1674-3849
+{Notes}: 11-5699/R
+{URL}: https://link.cnki.net/urlid/11.5699.R.20250114.1240.048
+{Database Provider}: CNKI
+
+{Reference Type}: Journal Article
+{Title}: 多组学整合技术在肠易激综合征中的研究进展
+{Author}: 姚承佼;蒲梦君;冯培民
+{Author Address}: 川北医学院附属医院老年科;成都中医药大学附属医院消化科;
+{Journal}: 中国中西医结合消化杂志
+{Year}: 2025
+{Volume}: 33
+{Issue}: 01
+{Pages}: 81-88
+{Keywords}: 基因组学;蛋白组学;微生物组学;代谢组学;多组学技术;肠易激综合征
+{Abstract}: 肠易激综合征(irritable bowel syndrome, IBS)的患病率在世界范围内逐年升高，居高的患病率加上IBS临床症状的反复多变性，导致IBS患者占用了大量的医疗资源，对国民经济造成巨大负担。深入探寻IBS的发病机制，寻找IBS典型生物标记物是目前亟待解决的临床关键问题。组学技术是一门以芯片为载体、以测序为手段、以高通量为特点、以生物信息学分析为基础，针对研究成分规模化挖掘和分析的技术。本研究以组学技术为切入点，针对IBS的发病机制、生物标记物、治疗靶点、疗效预测，利用基因组学、表观遗传学、蛋白组学、微生物组学、代谢组学的研究方法，并以多组学整合研究为工具，协同探讨组学整合研究在IBS中的研究进展。
+{ISBN/ISSN}: 1671-038X
+{Notes}: 42-1612/R
+{URL}: https://kns.cnki.net/kcms2/article/abstract?v=lwcs1eIaudjCakkHO_XkuCOOi0-UBjgoI2Fs94O_QZxuy8rOc9GmDBLoG36WHJJdtVaJAJUzbn275MeP0D58aYqySaQIxWl8elNHD3j8-geZJcBtGvxqOg1eQzNZQgCuUtMkCucIY0Lk7pHBX3ZbxgiGPx5L-F60uWq-5_4mU6A6XXkCwro-PM54q_h-wWGG3HIr674ONQU=&uniplatform=NZKPT&language=CHS
+{Database Provider}: CNKI
+
+{Reference Type}: Journal Article
+{Title}: 糖尿病视网膜病变相关生物标志物的研究进展
+{Author}: 孙晓慧;张雯晶
+{Author Address}: 山东省莱州市人民医院眼科;
+{Journal}: 中国医药指南
+{Year}: 2025
+{Volume}: 23
+{Issue}: 01
+{Pages}: 82-85
+{Keywords}: 糖尿病;视网膜病变;生物标志物;研究进展
+{Abstract}: 糖尿病视网膜病变是一种血管性并发症，属于不可逆性盲疾，该病的病理特征为视网膜血管渗漏、新生血管形成等。虽然目前关于糖尿病视网膜病变的治疗形式较为多样，但由于疾病的特殊性，该病的中晚期疗效难以达到预期。因此，围绕糖尿病视网膜病变的早期诊疗十分关键。近年来，随着医学技术的发展、进步，关于生物标志物的研究逐步深入，其在各类疾病的风险评估、早期诊疗中发挥了较好的效果。对于糖尿病视网膜病变，最典型的生物标志物即为糖化血红蛋白。而随着临床关于糖尿病视网膜病变研究的不断深入，各类新型生物标志物被发现，包括炎症类、血管生成类等，均与病情的发生、进展密切相关。此外，随着医疗技术水平的进步，新型医疗检测设备、诊断技术在临床中的应用，为新型生物标志物的检出提供了技术保障，而组学类标志物也逐渐成为当下的研究热点。本文结合已有研究成果，以糖尿病视网膜病变为基础，围绕疾病发生、进展中相关标志物的表达、测定项目成果进行综述，旨在为该病的科学防控提供新的参考。
+{ISBN/ISSN}: 1671-8194
+{Notes}: 11-4856/R
+{URL}: https://link.cnki.net/doi/10.15912/j.issn.1671-8194.2025.01.023
+{DOI}: 10.15912/j.issn.1671-8194.2025.01.023
+{Database Provider}: CNKI
+
+{Reference Type}: Journal Article
+{Title}: 基因组学在临床护理中的应用现状、困境和对策
+{Author}: 彭嘉欣;杨又
+{Author Address}: 绍兴文理学院;
+{Journal}: 循证护理
+{Year}: 2025
+{Volume}: 11
+{Issue}: 01
+{Pages}: 77-81
+{Keywords}: 基因组学;临床护理;疾病防护;个性化治疗;健康管理;困境;对策;综述
+{Abstract}: 综述了基因组学在遗传病的筛查和检测、健康管理、疾病预防、药物治疗和照护等方面的应用现状，提出了数据解读和分析的复杂性、研究成本较高、数据泄露、解读负面基因检测结果引发病人负面的心理反应等现存的问题以及对策与建议，以期为发展个性化医疗提供指导。
+{ISBN/ISSN}: 2095-8668
+{Notes}: 14-1377/R
+{URL}: https://kns.cnki.net/kcms2/article/abstract?v=lwcs1eIaudgwQs0PTmZdttmyK4ayo96BD_DWfPxswc_RJOxXGC8fRmk0CQRl9x8g_vTtCRXaqIyUmxD1N0jCTu79eFhdwZeSH38PG-anqxZiFiTQplpl2UIEN80Gmaso5Z26y5UgygSryO1naYQSAJIHP-jTmP1jvjjj1BUqjeMBNnvH066S85BCjKlPryhE-jA7QhrjMAQ=&uniplatform=NZKPT&language=CHS
+{Database Provider}: CNKI
+
+{Reference Type}: Journal Article
+{Title}: 基于宏基因组学与呼气末二氧化碳监测的重症肺炎患儿抗菌耐药预测模型构建
+{Author}: 凌萍;周麟永;陈烨;王莎;陈建丽
+{Author Address}: 贵阳市妇幼保健院儿童重症医学科;
+{Journal}: 中国病原生物学杂志
+{Year}: 2025
+{Volume}: 20
+{Issue}: 01
+{Pages}: 46-51
+{Keywords}: 宏基因组学测序;呼吸末二氧化碳;重症肺炎;抗菌药物耐药性;机械通气
+{Abstract}: 目的 评估宏基因组学测序（metagenomic next-generation sequencing technology, mNGS）技术在预测机械通气重症肺炎患儿抗菌药物耐药性中的表现，结合呼吸末二氧化碳（ETCO2）监测数据，探讨其临床应用价值。方法 纳入2022年7月至2024年4月在贵阳市儿童医院重症医学科的112名重症肺炎患儿，年龄在1个月至18岁之间，均需机械通气治疗。收集患儿的临床数据和支气管肺泡灌洗液（BALF）样本，使用mNGS技术进行病原微生物和耐药基因的检测。结合ETCO2监测数据，采用决策树算法构建耐药性预测模型，并通过混淆矩阵和受试者工作特征（ROC）曲线评估模型性能。结果 使用mNGS技术识别出的主要病原微生物包括肺炎链球菌、流感嗜血杆菌、金黄色葡萄球菌和呼吸道合胞病毒；主要耐药基因包括bla＿TEM、mecA、ermB和vanA。初始ETCO2和最高ETCO2水平与多种耐药基因呈显著正相关（P<0.05）。决策树模型的准确率为0.859,AUC值为0.896。结论 mNGS技术能够快速、准确地识别重症肺炎患儿的病原微生物及其耐药基因，结合ETCO2监测数据显著提高了耐药性预测的准确性。基于此构建的决策树模型性能良好，为重症肺炎的个体化治疗提供了新的思路和方法。
+{ISBN/ISSN}: 1673-5234
+{Notes}: 11-5457/R
+{URL}: https://link.cnki.net/doi/10.13350/j.cjpb.250109
+{DOI}: 10.13350/j.cjpb.250109
+{Database Provider}: CNKI
+
+{Reference Type}: Journal Article
+{Title}: 基于长期定位试验的不同施肥处理下旱地红壤微生物的宏基因组学分析
+{Author}: 余腾;李顺江;万子维;阙正扬;黄国勤;徐慧芳
+{Author Address}: 江西农业大学生态科学研究中心;
+{Journal}: 华中农业大学学报
+{Year}: 2025
+{Volume}: 44
+{Issue}: 01
+{Pages}: 148-155
+{Keywords}: 长期定位试验;宏基因组学;施肥制度;有机肥;旱地;红壤;土壤微生物群落
+{Abstract}: 为探究旱地红壤微生物群落与不同施肥制度之间的关系，采用宏基因组测序，比较分析长期定位试验地4种施肥处理：不施肥（CK）、施氮磷钾肥（NPK）、施有机肥（OM）、氮磷钾肥和有机肥混合施用（NPKOM）的土壤微生物群落组成及多样性。结果显示：相比对照，施用有机肥和氮磷钾肥和有机肥混合施用显著增加放线菌门（Actinobacteria）和变形菌门（Proteobacteria）的丰度，降低了绿弯菌门（Chloroflexi）的丰度；施肥显著改变微生物群落结构，施用无机肥降低土壤微生物数量，施用有机肥和无机有机混合施用则增加土壤微生物数量；土壤微生物群落在门水平与pH、全磷（TP）、土壤有机质（SOM）、碱解氮（AN）和有效磷（AP）含量显著相关，pH是影响土壤微生物群落结构的关键因素；不同施肥处理下微生物代谢功能差异显著。
+{ISBN/ISSN}: 1000-2421
+{Notes}: 42-1181/S
+{URL}: https://link.cnki.net/doi/10.13300/j.cnki.hnlkxb.2025.01.016
+{DOI}: 10.13300/j.cnki.hnlkxb.2025.01.016
+{Database Provider}: CNKI
+
+{Reference Type}: Journal Article
+{Title}: 基于宏基因组学的慢性心衰心气阴虚证大鼠肠道微生物改变的研究
+{Author}: 赵震宇;李琳;胡志希
+{Author Address}: 湖南中医药大学;
+{Journal}: 时珍国医国药
+{Year}: 2025
+{Volume}: 36
+{Issue}: 01
+{Pages}: 184-192
+{Keywords}: 心力衰竭;中医证型;肠道菌群;宏基因组学
+{Abstract}: 目的 应用宏基因组学技术探讨心气阴虚证心力衰竭对肠道微生物的特异性影响。方法 运用随机数字表法对18只大鼠(Dahl盐敏感大鼠12只，耐盐大鼠6只)编号，将Dahl盐敏感大鼠随机均分为对照组(CON,接受0.3%NaCl低盐饮食)和模型组(H-HF,接受8%NaCl高盐饮食),耐盐组(SR)大鼠同样接受高盐饮食，持续喂养20周。干预结束后，收集新鲜粪便，运用宏基因组学技术比较三组大鼠肠道微生物结构和基因功能差异。结果 Venn图结果显示，CON组与SR组共有的基因数目最多，其次是H-HF组与SR组，CON组和H-HF组共有的基因数目最少；PCoA图结果显示，CON组样本与SR组样本相对聚集，H-HF组样本与CON组、SR组样本相对离散；LEfSe结果显示，与CON组比较，H-HF组有益菌丰度显著降低，机会致病菌丰度显著升高；CAZy数据库、GO数据库、KEGG数据库注释结果表明，与碳水化合物代谢、脂类代谢、氨基酸代谢等相关的基因水平在H-HF组大鼠体内异常表达。结论 肠道微生物的特异性改变与心气阴虚证心力衰竭的病理过程密切相关。
+{ISBN/ISSN}: 1008-0805
+{Notes}: 42-1436/R
+{URL}: https://kns.cnki.net/kcms2/article/abstract?v=lwcs1eIaudhyYY1zCpoKGuSEb1qzgotH0KCRmVKRFVDYe0lYrXIyj50oPRGeFICJhN9mwDRVLy8AonEnu3AlOr-tVRH722iu6ItDXB5uYc5u1BCkKE2wG25dDyuVvwjGxMPil8BruYUtlWVDRFjk1nF0Vf_ab2TMJX7EPd-iUba2NDYI-ojc0N3wGQOTkri0MZOp8MOK3hk=&uniplatform=NZKPT&language=CHS
+{Database Provider}: CNKI
+
+{Reference Type}: Journal Article
+{Title}: 产气变质食醋中微生物组和优势微生物耐酸基因分析
+{Author}: 赵奎;周力;王兴洁;李建龙;赵宁;刘书亮
+{Author Address}: 四川农业大学食品学院;
+{Journal}: 中国食品学报
+{Year}: 2025
+{Volume}: 25
+{Issue}: 02
+{Pages}: 399-410
+{Keywords}: 食醋;产气;宏基因组学;金山醋酸乳杆菌;耐酸基因
+{Abstract}: 食醋产气变质问题严重困扰生产企业，造成一定的经济损失。本研究对产气食醋中微生物进行分离鉴定，同时结合宏基因组测序技术揭示引起产气变质食醋的主要微生物及其耐酸基因。从产气食醋中分离得到23株细菌，16S rDNA鉴定结果均为金山醋酸乳杆菌。宏基因组测序注释到微生物分别属于24个门、42个纲、94个目、149个科、233个属、450个种，其中金山醋酸乳杆菌在属、种水平相对丰度均大于98%，结合培养基平板分离鉴定结果表明该菌为产气变质食醋优势菌。在Egg-NOG数据库中注释到2 176个COG功能单元，在KEGG数据库中注释到46个KEGG通路，在CAZy数据库中注释到81个碳水化合物活性酶。通过CARD数据库及VFDB毒力因子数据注释可知，金山醋酸乳杆菌是1株不产毒素的安全菌株。结合测序结果和数据库分析共筛选出13个疑似金山醋酸乳杆菌耐酸基因，涉及氨基酸代谢（patA、metE、lysC等）、细胞膜脂肪酸组成（fadB、fadA、fadI）、H+-ATPase(capB)和双组分系统（luxS）。研究结果为阐明产气变质食醋微生物组及其防控提供了理论依据。
+{ISBN/ISSN}: 1009-7848
+{Notes}: 11-4528/TS
+{URL}: https://link.cnki.net/doi/10.16429/j.1009-7848.2025.02.035
+{DOI}: 10.16429/j.1009-7848.2025.02.035
+{Database Provider}: CNKI
+
+{Reference Type}: Journal Article
+{Title}: 单细胞多组学技术及其在脂肪沉积中应用
+{Author}: 刘怡晨;程明;蔡瑞
+{Author Address}: 西北农林科技大学动物科技学院,陕西省动物遗传育种与繁殖重点实验室;
+{Journal}: 中国生物化学与分子生物学报
+{Year}: 2025
+{Volume}: 41
+{Issue}: 02
+{Pages}: 201-209
+{Keywords}: 单细胞;多组学技术;脂肪沉积
+{Abstract}: 脂肪组织由多种亚细胞类群构成，其增殖潜力与分化命运均不同，并执行着不同的功能，因此，解析脂肪组织的亚细胞类型对阐明机体重要性状形成的分子机制具有重要意义。近年来，随着生命科学领域多组学技术的快速发展，针对脂肪生物学领域细胞异质性的问题，开展了大量的单细胞多组学技术应用工作，特别是单细胞基因组学、转录物组学、蛋白质组学和代谢组学等及各组学的联合应用，实现了能够在不同层面，在单细胞分辨率水平揭示脂肪细胞异质性，并发现新脂肪细胞亚型及探索脂肪细胞分化轨迹等生物学过程，在生命与医药领域取得了巨大突破性进展，成为许多生物学过程解析与疾病治疗的切入口，并加速了基因编辑与干细胞育种等关键新兴技术的发展。本文总结了单细胞多组学技术种类及其特点，综述了该技术在肌内、肌间、皮下及内脏脂肪沉积中的应用研究进展，并探讨了其前景与挑战，以期充分认识该技术在脂肪沉积研究中的重要作用，为性状形成机制解析与人类肥胖等代谢性疾病治疗提供理论依据。
+{ISBN/ISSN}: 1007-7626
+{Notes}: 11-3870/Q
+{URL}: https://link.cnki.net/doi/10.13865/j.cnki.cjbmb.2024.12.1177
+{DOI}: 10.13865/j.cnki.cjbmb.2024.12.1177
+{Database Provider}: CNKI
+
+{Reference Type}: Journal Article
+{Title}: 猪肺炎支原体强弱毒株的生物学特性及比较基因组学分析
+{Author}: 李真亚;刘洁;李允;王飞;孔嫄嫄;李泳;贾荣玲
+{Author Address}: 南阳农业职业学院;河南师范大学;南阳市动物疫病防控重点实验室;
+{Journal}: 畜牧兽医学报
+{Year}: 2025
+{Volume}: 56
+{Issue}: 02
+{Pages}: 851-859
+{Keywords}: 猪肺炎支原体;毒力;比较基因组学;生物被膜
+{Abstract}: 旨在为更好地理解猪肺炎支原体（Mycoplasma hyopneumoniae,Mhp）强弱毒株在物质代谢、毒力变化的差异，本研究基于Mhp强毒株ES-2株及其传代致弱株ES-2L株，开展二者的生长特性、黏附细胞能力、代谢产生过氧化氢水平、生物被膜形成能力等生物学特性及比较基因组学研究。在生长特性方面，ES-2L株的生长速度和滴度要高于ES-2株，其颜色改变单位（color change unit, CCU）为1.0×1010 CCU·mL-1,在培养基上具有更好的适应性。在与毒力变化相关的特性方面，ES-2和ES-2L株均可以形成生物被膜，但ES-2L株的生物被膜形成能力要弱于ES-2株。ES-2L株代谢甘油产生过氧化氢的水平要低于ES-2株，且其对支气管上皮细胞的黏附能力要弱于ES-2株。ES-2和ES-2L基因组共线性比对分析结果表明，二者的总体共线性良好，但ES-2L株存在几处基因的缺失、倒位现象，对ES-2L株中的缺失基因进行定位分析，共检测到9个大片段（>500 bp）的基因缺失，这9个片段共包含18个缺失基因。SNP（单核苷酸多态性）和Indel（插入与缺失突变）分析表明，共检测到348个SNVs（单核苷酸突变）,这些SNVs主要分布于99个基因上，并且有22个dels（缺失突变）主要分布于19个基因上。基因岛分析结果表明，ES-2L株在395～425 kb有一个基因岛编码序列，ES-2株在354～364、920～945 kb有两个基因岛编码序列。这些缺失或发生SNP的基因、基因岛的变化可能与ES-2L毒力下降及生长特性改变有关。综上，本研究阐明了Mhp强弱毒株在物质代谢、毒力变化的差异，并采用比较基因组学的方法，分析了二者在基因水平的变化，为进一步理解Mhp致病机制和毒力因子挖掘提供一种视角。
+{ISBN/ISSN}: 0366-6964
+{Notes}: 11-1985/S
+{URL}: https://link.cnki.net/urlid/11.1985.S.20241220.1728.008
+{Database Provider}: CNKI
+
+{Reference Type}: Journal Article
+{Title}: 一株贝莱斯芽孢杆菌鉴定、全基因组学分析及其抗病促生特性
+{Author}: 王春玲;黄钰婷;刘星;徐良雄;王艳君;肖海霞;朱柏诗;毛露甜
+{Author Address}: 惠州学院生命科学学院;
+{Journal}: 微生物学报
+{Year}: 2025
+{Volume}: 65
+{Issue}: 02
+{Pages}: 745-757
+{Keywords}: 贝莱斯芽孢杆菌;植物病原菌;全基因组学分析;抗病促生特性
+{Abstract}: 植物病原菌侵染引起的作物病害给全球农业带来了巨大危害，而生物防治因其有效性和环境友好性等特点，已成为防控植物病害的研究热点。【目的】从实验室保藏的菌种库中筛选拮抗植物病原菌的目标菌株，对其进行鉴定、全基因组学分析，并评价其抗病促生效果。【方法】采用平板对峙法筛选拮抗菌；利用形态学观察、16S rRNA基因测序、基因组系统发育分析、基因组平均核苷酸相似性(averagenucleotideidentity,ANI)和数字DNA杂交(digitalDNA-DNA hybridization, dDDH)值比较分析，以及生理生化特征等方法进行菌种分类学鉴定；对目标菌株进行全基因组序列分析，挖掘功能基因；通过测定溶磷、产铁载体、产蛋白酶和产纤维素酶活力来评价目标菌株的促生特性；采用二分隔培养皿检测目标菌株产生的挥发性气体对植物病原真菌抑制情况；通过盆栽试验探究目标菌株对番茄的促生防病效果。【结果】获得1株对茄科罗尔斯通氏菌(简称青枯菌)及3种植物病原真菌具有明显抑菌活性的菌株MB1019，经鉴定其为贝莱斯芽孢杆菌(Bacillus velezensis)。生理生化特征显示，菌株MB1019的耐受温度为15-50℃，最大耐受NaCl浓度为10.0%，耐受pH值为5.0-9.0。全基因组分析显示，菌株MB1019基因组大小为3.8 Mb,G+C含量为46.4%,antiSMASH预测显示，菌株MB1019基因组含有17个次级代谢产物基因簇。dbCAN2预测显示，菌株MB1019含有52种、共108个CAZy家族基因，其中糖苷水解酶(glycoside hydrolases, GHs)家族种类和数量最多。菌株MB1019产生的挥发性气体能够显著抑制植物病原真菌的生长。盆栽试验结果显示，菌株MB1019对番茄具有明显促生防病效果。【结论】贝莱斯芽孢杆菌MB1019具有拮抗青枯菌和植物病原真菌的能力，展现出耐高温、耐盐碱以及促生功能，其基因组中含有大量抑菌基因，并能产生挥发性气体有效抑制病原真菌的生长，MB1019菌液对番茄具有促生防病效果。综上所述，菌株MB1019作为微生物肥料和农药研发的优良菌种资源，展现出良好的开发和应用潜力。
+{ISBN/ISSN}: 0001-6209
+{Notes}: 11-1995/Q
+{URL}: https://link.cnki.net/doi/10.13343/j.cnki.wsxb.20240546
+{DOI}: 10.13343/j.cnki.wsxb.20240546
+{Database Provider}: CNKI
+
+{Reference Type}: Journal Article
+{Title}: 生物特征识别技术在人类健康领域的研究进展
+{Author}: 邢雅玲;张争;褚宗棠;李晓菊;张景翔;王晨辉;赵瑾
+{Author Address}: 军事科学院军事医学研究院;
+{Journal}: 军事医学
+{Year}: 2025
+{Volume}: 49
+{Issue}: 01
+{Pages}: 47-53
+{Keywords}: 生物特征识别;疾病诊断;心理健康;生理功能
+{Abstract}: 生物特征识别技术快速发展并与临床检验诊断、表型组学、基因组学、大数据分析等技术高度融合，不仅能够实现人员身份识别，也在健康维护领域，特别是军队人员的健康维护方面展现出良好的应用潜力。近年，国内外学者对此展开广泛研究，旨在探索生物特征与人类疾病、心理和生理功能等健康因素的内在关联，揭示其在健康管理中的应用价值。该文重点介绍了生物识别技术在人类健康和军事医学领域的研究进展及应用现状，以期为生物识别技术的创新研究、应用拓展及整体健康管理水平提升提供参考。
+{ISBN/ISSN}: 1674-9960
+{Notes}: 11-5950/R
+{URL}: https://link.cnki.net/urlid/11.5950.r.20241203.1624.004
+{Database Provider}: CNKI
+
+{Reference Type}: Journal Article
+{Title}: 疏肝方治疗肝癌并发抑郁症的生物信息学分析
+{Author}: 黄依婷;磨宁芳;李妞妞;秦秋云;夏猛;姚春
+{Author Address}: 广西中医药大学基础医学院;广西中医肝脾藏象重点研究室;广西中医药大学第一附属医院内科学教研室;广西中医药通阳散结法重点研究室;
+{Journal}: 亚太传统医药
+{Year}: 2025
+{Volume}: 21
+{Issue}: 02
+{Pages}: 115-123
+{Keywords}: 疏肝方;肝癌;抑郁症;生物信息学;网络药理学;分子对接;TP53;色氨酸代谢
+{Abstract}: 目的:利用生物信息学方法，探讨疏肝方治疗肝癌并发抑郁症的作用机制。方法:通过TCMSP、BATMAN-TCM等获取疏肝方核心成分和靶蛋白，构建PPI和核心蛋白网络，进行KEGG和GO富集分析、分子对接、基因组学验证。结果:得到疏肝方的多种核心成分作用于TNF、IL-6、TP53等多种核心靶点，并通过调控细胞凋亡、衰老，抗氧化应激、调节免疫、抗炎症反应等信号通路抑制肝癌细胞增殖、促进凋亡并改善抑郁症状。分子对接显示，有效成分与靶蛋白间具有良好的亲和力。基因组学提示，TP53对于缩短肝癌患者总生存周期及色氨酸代谢通路的相关性均具有显著的统计学意义。结论:疏肝方可通过多成分、多靶点、多通路治疗肝癌并发抑郁症的症状，并初步推断疏肝方可能通过TP53靶向色氨酸代谢通路抑制肝癌的发生发展，并改善抑郁症状。
+{ISBN/ISSN}: 1673-2197
+{Notes}: 42-1727/R
+{URL}: https://link.cnki.net/urlid/42.1727.R.20241106.1324.026
+{Database Provider}: CNKI
+
+{Reference Type}: Journal Article
+{Title}: 北京雨燕心脏、肺脏、肌肉和血液转录组比较分析
+{Author}: 马春湘;张昌盛;刘燕;田恒玖;洪锦旋;董玉兰
+{Author Address}: 中国农业大学动物医学院;国家自然博物馆;北京动物园管理处,圈养野生动物技术北京市重点实验室;北京市野生动物救护中心;
+{Journal}: 野生动物学报
+{Year}: 2025
+{Volume}: 46
+{Issue}: 01
+{Pages}: 143-152
+{Keywords}: 北京雨燕;心脏;肺脏;肌肉;转录组;飞行能量代谢;基因组学
+{Abstract}: 为进一步丰富北京雨燕（Apus apus pekinensis）基因组数据，采用Illumina NovaSeq6000测序平台对其肌肉、肺脏、心脏及血液转录组进行测序。结果显示：经质控后得到32.80 Gb的clean data数据，通过Trinity组装后，运用生物信息学方法与相关数据库比对，得到15295个（71.3%）有功能注释的unigenes。使用StringTie软件对mapped reads进行拼接后与参考基因组比对，共发掘6 700个新基因。共13 869条unigenes在GO数据库中获得注释，分类到3大类45个功能；有10 451条unigenes被归纳到KOG数据库25个直系同源功能类型；有13 339条unigenes在KEGG得到6大类50小类代谢通路注释。各个组织间差异基因分析显示，肺脏基因表达量数目最多，血液和肌肉差异表达基因数目最多，达5 281个，肺脏和血液差异表达基因数目最少，仅249个，分析结果有助于进一步了解雨燕在飞行中的器官功能和代谢调控。研究结果为进一步挖掘雨燕功能基因、分析群体遗传多样性以及探究雨燕能量代谢等方面研究提供参考资料。
+{ISBN/ISSN}: 2310-1490
+{Notes}: 23-1587/S
+{URL}: https://link.cnki.net/urlid/23.1587.S.20241029.1744.002
+{Database Provider}: CNKI
+
+{Reference Type}: Journal Article
+{Title}: 基因组时代的物种形成研究
+{Author}: 王则夫;刘建全
+{Author Address}: 南京林业大学生态与环境学院,林木遗传育种全国重点实验室,南方现代林业协同创新中心;兰州大学生态学院,草种创新与草地农业生态系统全国重点实验室;
+{Journal}: 遗传
+{Year}: 2025
+{Volume}: 47
+{Issue}: 01
+{Pages}: 71-100
+{Keywords}: 物种形成;基因组学;研究方法;研究进展;未来展望
+{Abstract}: 自达尔文时代起，物种形成便是演化生物学研究领域的核心科学问题之一。物种形成研究有助于人们深入理解生物多样性的形成过程，为其保护提供坚实基础。由于很多物种的演化历程十分复杂，使得物种形成研究充满了各种挑战。近年来，随着基因组测序与分析等技术的不断发展，物种形成研究领域进展迅速。本文综述了基因组时代的物种形成研究，从物种界定、二歧式物种分化、杂交物种形成、多倍化物种形成、生殖隔离基因、物种形成基因等方面，重点对相关概念进行了区分，并回顾了相关研究方法、对其特点与局限性等进行了探讨；最后，对物种形成研究的未来发展趋势与挑战进行了展望。
+{ISBN/ISSN}: 0253-9772
+{Notes}: 11-1913/R
+{URL}: https://link.cnki.net/doi/10.16288/j.yczz.24-218
+{DOI}: 10.16288/j.yczz.24-218
+{Database Provider}: CNKI
+
+{Reference Type}: Journal Article
+{Title}: 基因重复驱动的演化：基因组学时代的回顾与展望
+{Author}: 沈洁宇;苏天晗;余大奇;谭生军;张勇
+{Author Address}: 中国科学院动物研究所,动物进化与系统学院重点实验室;中国科学院大学;北京星辰集因科技有限责任公司;
+{Journal}: 遗传
+{Year}: 2025
+{Volume}: 47
+{Issue}: 02
+{Pages}: 147-171
+{Keywords}: 基因重复;全基因组重复;逆转录转座;功能冗余;新功能化;亚功能化
+{Abstract}: 基因重复指基因组中一个基因通过多样化的分子机制从一个基因拷贝形成两个或多个重复拷贝的过程，是新基因起源的重要途径之一，对真核生物基因组贡献了约为一半的基因，也推动了物种的适应性演化。在过去50年中，特别是近20年进入组学时代以来，演化遗传学领域对于重复基因的产生机制、演化历程与演化动力展开了广泛而深入的讨论。一方面，重复基因的序列相似性带来的功能冗余使机体具有更强的稳健性；另一方面，重复基因的功能分歧带来了新功能与可演化性的提升。本文全面介绍了上述基因重复的机制、重复基因的命运及演化模型，最后展望了三代测序技术、基因编辑等各种高通量技术将进一步推动重复基因在遗传-发育-演化网络中角色的解析。
+{ISBN/ISSN}: 0253-9772
+{Notes}: 11-1913/R
+{URL}: https://link.cnki.net/doi/10.16288/j.yczz.24-215
+{DOI}: 10.16288/j.yczz.24-215
+{Database Provider}: CNKI
+
+{Reference Type}: Journal Article
+{Title}: 植物乳植杆菌J50产抗菌肽的分离纯化及基因组学分析
+{Author}: 周恺颉;王辰汇;李崎;钮成拓;郑飞云;刘春凤
+{Author Address}: 江南大学生物工程学院酿酒科学与工程研究室;江南大学生物工程学院;
+{Journal}: 微生物学通报
+{Year}: 2025
+{Volume}: 52
+{Issue}: 03
+{Pages}: 1219-1233
+{Keywords}: 乳酸菌;抗菌肽;分离纯化;最低抑制浓度;基因组学分析
+{Abstract}: 【背景】食品腐败的主要原因是食源性致病菌的污染。乳酸菌产生抗菌肽能够有效抑制食源性致病菌的生长。【目的】对一株具有广谱抑菌能力的植物乳植杆菌（Lactiplantibacillus plantarum）J50展开研究，分离纯化其产生的抑菌物质并开展其基因组学分析。【方法】通过多种酶处理判断抑菌物质种类，通过有机溶剂萃取、凝胶过滤层析和半制备高效液相色谱对其分离纯化，使用液质联用表征，人工合成后测定其稳定性和最低抑制浓度，并对菌株开展基因组学分析。【结果】通过酶敏感性试验判断其产生的抑菌有效物质为抗菌肽，分离纯化得到抗菌肽纯品，表征出肽段序列为：SGAGY （N→C），相对分子质量为453.44 Da。其在pH≤5.5时能保持有效抑菌能力，具有较强的热稳定性和紫外线照射稳定性，对实验的G+和G–食源性致病菌的最低抑制浓度在0.7-1.6g/L。基因组学分析显示抗菌肽SGAGY是非核糖体肽，并且菌株J50具有双肽细菌素plantaricin EF合成相关基因。【结论】菌株J50至少能够产生2种高效抗菌肽，抑菌谱系较广，具有应用于食品工业的潜在价值。
+{ISBN/ISSN}: 0253-2654
+{Notes}: 11-1996/Q
+{URL}: https://link.cnki.net/doi/10.13344/j.microbiol.china.240383
+{DOI}: 10.13344/j.microbiol.china.240383
+{Database Provider}: CNKI
+
+{Reference Type}: Journal Article
+{Title}: 国际数字医学的研究热点与前沿进展
+{Author}: 孙莹
+{Journal}: 中国组织工程研究
+{Year}: 2025
+{Volume}: 29
+{Issue}: 14
+{Pages}: 2859
+{Abstract}: <正>数字医学是一门计算机科学、信息学、电子学等与医学相互交叉的学科，研究的是将数字技术、信息技术、计算机技术、通信技术、人工智能技术、虚拟现实等技术作为工具应用于人类健康状况诊断、干预以及监控等医学领域中。随着社会的不断进步和现代科学技术的快速发展，人们进入了数字化时代。与此同时，数字医学的概念也渐渐为人熟知，相关数字医疗产品和数字化技术也日益广泛地应用于医疗保健和医学实践当中。尤其是近几年COVID-19疫情暴发期间，医疗大数据、远程医疗、人工智能辅助诊疗等数字医疗技术在病毒筛查、病情分析、患者治疗以及疫苗研发等方面发挥了重要作用。将数字技术应用于医学领域是二十一世纪医学发展的基础，是目前医学发展的主流方向，许多前沿的医学技术都与基于数字产业的最先进的软件和设备相关联。
+{ISBN/ISSN}: 2095-4344
+{Notes}: 21-1581/R
+{URL}: https://kns.cnki.net/kcms2/article/abstract?v=lwcs1eIaudjiNvUOduyaL1UvGjXUYuGFvQDfpNfA6EzIgYxVhDLIWmwR0ztjaYjjaOl6FyuG2tchisNXBne1xBfLAqoLSEhOpVpntURiGYfJCDgThHHEK7Et8vcL7PMWVNLdYsuhSxq50tu4QYLN7ESf_ArTYDcdyT2yigN8TjGRN_A-JWfYpi6jA97kwxWstrDL2pGbbAY=&uniplatform=NZKPT&language=CHS
+{Database Provider}: CNKI
+
+{Reference Type}: Journal Article
+{Title}: 新疆喀什地区人体肠道共栖菌瘤胃联合乳杆菌菌株的遗传差异及益生特性比较分析
+{Author}: 尹彤;安美玲;梁智璇;卢严砖;孙海龙;倪永清
+{Author Address}: 石河子大学食品学院;新疆生产建设兵团乳制品产业创新研究院;
+{Journal}: 食品科学
+{Year}: 2025
+{Volume}: 46
+{Issue}: 03
+{Pages}: 11-19
+{Keywords}: 瘤胃联合乳杆菌;比较基因组学;基因型;益生特性
+{Abstract}: 本研究以从健康家庭人体粪便样品中分离出的16株瘤胃联合乳杆菌（Ligilactobacillus ruminis）菌株为研究对象，在分析其基因组、系统发育特征的基础上，对菌株的体外益生特性进行比较分析。基因组分析表明，L. ruminis菌株的平均基因组大小、基因数量和GC含量分别为1.4 Mb、1 374个、43.55%，尤其菌株间特有基因数量差异显著，在3～886个之间（菌株K646-58L的特有基因数量明显高于其他菌株）；系统进化分析结果显示，同一家族个体来源的菌株在进化树上并没有形成以家族为更相近的聚类；碳源利用实验表明L. ruminis菌株能利用大豆低聚糖、棉子糖无水物和麦芽糊精，不能利用山梨醇和木糖醇，碳水化合物活性酶数据库注释到大量参与聚糖底物代谢的基因，如糖苷水解酶（glycoside hydrolase,GH）1和GH13基因家族；L. ruminis菌株对氨基糖苷类抗生素耐药，对四环素类抗生素和氯霉素敏感，与抗性基因预测存在不匹配的情况；L. ruminis菌株普遍具有高度的自凝聚能力（>50%）和较好的疏水性（>20%）。L. ruminis菌株基因型特征结合表型特征的研究说明其具有优良的益生特性，尤其是菌株K227-6L和K645-5L，本研究结果可为潜在益生菌菌株的开发与应用奠定理论基础。
+{ISBN/ISSN}: 1002-6630
+{Notes}: 11-2206/TS
+{URL}: https://link.cnki.net/urlid/11.2206.ts.20240914.1712.012
+{Database Provider}: CNKI
+
+{Reference Type}: Journal Article
+{Title}: 国际数字医学的研究热点与前沿进展
+{Journal}: 中国组织工程研究
+{Year}: 2025
+{Volume}: 29
+{Issue}: 15
+{Pages}: 3079
+{Abstract}: <正>数字医学是一门计算机科学、信息学、电子学等与医学相互交叉的学科，研究的是将数字技术、信息技术、计算机技术、通信技术、人工智能技术、虚拟现实等技术作为工具应用于人类健康状况诊断、干预以及监控等医学领域中。随着社会的不断进步和现代科学技术的快速发展，人们进入了数字化时代。与此同时，数字医学的概念也渐渐为人熟知，相关数字医疗产品和数字化技术也日益广泛地应用于医疗保健和医学实践当中。尤其是近几年COVID-19疫情暴发期间，医疗大数据、远程医疗、人工智能辅助诊疗等数字医疗技术在病毒筛查、病情分析、患者治疗以及疫苗研发等方面发挥了重要作用。将数字技术应用于医学领域是二十一世纪医学发展的基础，是目前医学发展的主流方向，许多前沿的医学技术都与基于数字产业的最先进的软件和设备相关联。
+{ISBN/ISSN}: 2095-4344
+{Notes}: 21-1581/R
+{URL}: https://kns.cnki.net/kcms2/article/abstract?v=lwcs1eIaudhgauw-oG3t_Zcud2iPEokiidWZQnZwIXd-ug7xjDWw7nXyMayseVKHq2FvoDp1s9YVSR4T5PE95TQ2WGudkSgEf46FfAHUOysg1-_jTnVDUYMwclkYaGDVKvJkRVAO__mnEiPcuvMQzWRKGzHyFGTYlcBteO9jLac3dCBdqV4wpoggDu0DNuok1AfkwwAb8uE=&uniplatform=NZKPT&language=CHS
+{Database Provider}: CNKI
+
+{Reference Type}: Journal Article
+{Title}: 上皮性卵巢癌患者淋巴结转移预测模型的构建：基于18F-氟代脱氧葡萄糖正电子发射计算机体层摄影-CT影像组学技术
+{Author}: 袁晓瑞;谭延林;符淳
+{Author Address}: 中南大学湘雅二医院妇科;中南大学湘雅二医院PET/CT中心;
+{Journal}: 中国全科医学
+{Year}: 2025
+{Volume}: 28
+{Issue}: 12
+{Pages}: 1465-1472
+{Keywords}: 卵巢肿瘤;卵巢上皮癌;上皮性卵巢癌;淋巴结;氟脱氧葡萄糖F18;正电子发射断层显像计算机体层摄影术;影像基因组学
+{Abstract}: 背景 术前准确评估上皮性卵巢癌患者淋巴结转移情况对于制订治疗方案、评估预后等具有重要意义，影像组学技术已被作为多种癌症术前预测淋巴结转移情况的无创手段，但关于其在妇科癌症领域应用效果的研究报道较少。目的 采用基于18F-氟代脱氧葡萄糖正电子发射计算机体层摄影-CT(18F-FDG PET/CT)的影像组学技术构建上皮性卵巢癌患者淋巴结转移预测模型。方法 选取2020年9月—2022年12月在中南大学湘雅二医院妇科住院的上皮性卵巢癌患者98例，根据其淋巴结转移情况分为淋巴结转移组65例与非淋巴结转移组33例，同时按照7∶3比例进行随机抽样后分为训练集68例与验证集30例。分析所有患者临床特征，以淋巴结转移情况作为结果标签进行模型构建。结果 本研究上皮性卵巢癌患者淋巴结转移率为66.3%（65/98）。淋巴结转移组与非淋巴结转移组患者人附睾蛋白4（HE4）水平、原发灶位置比较，差异有统计学意义（P<0.05）。多因素Logistic回归分析结果显示，HE4水平、原发灶位置、影像组学评分（Radscore）是上皮性卵巢癌患者淋巴结转移的预测因素（P<0.05）。以HE4水平、原发灶位置构建临床预测模型，以HE4水平、原发灶位置、Radscore构建联合预测模型。Delong's检验结果显示，联合预测模型预测训练集中上皮性卵巢癌患者淋巴结转移受试者工作特征曲线下面积（AUC）为0.80（95%CI=0.70～0.90），高于临床预测模型的0.73（95%CI=0.61～0.85,P=0.042）；校准曲线显示，联合预测模型通过校准度检验（P=0.990），具有良好的区分能力；决策曲线（DCA）分析结果显示，临床预测模型、联合预测模型的预测效能良好，但联合预测模型的净效益较高。结论 采用基于18F-FDG PET/CT的影像组学技术成功构建了上皮性卵巢癌患者淋巴结转移的联合预测模型，且模型稳健性较高、区分能力良好、净效益较高，可为临床医生制订患者个体化治疗方案、评估患者预后等提供参考。
+{ISBN/ISSN}: 1007-9572
+{Notes}: 13-1222/R
+{URL}: https://link.cnki.net/urlid/13.1222.r.20240902.1718.007
+{Database Provider}: CNKI
+
+{Reference Type}: Journal Article
+{Title}: 基于山西老陈醋传统工艺固态发酵体系时空异质性分析解析主要风味物质形成规律
+{Author}: 申瑾;周景丽;郎繁繁;闫裕峰;王利;夏瑶瑶;李杰;张峰;王晨苑;郑宇
+{Author Address}: 食醋发酵科学与工程山西省重点实验室;山西紫林醋业股份有限公司;天津市微生物代谢与发酵过程控制技术工程中心;天津科技大学生物工程学院;
+{Journal}: 食品科学
+{Year}: 2025
+{Volume}: 46
+{Issue}: 02
+{Pages}: 164-170
+{Keywords}: 醋醅;宏基因组学;微生物;理化因子;挥发性风味;相关性分析
+{Abstract}: 以山西老陈醋固态发酵过程为研究对象，采用宏基因组学和顶空固相微萃取-气相色谱-质谱联用技术，分别对不同空间发酵过程的醋醅理化特征、风味物质和微生物群落组成进行分析。结果表明：不同空间位置醋醅的水分、温度均具有显著性差异，发酵过程共检测到93种挥发性风味物质，总挥发性物质含量依次为上层>中层>下层。上、中、下层总酸均与Proteus、Salinicoccus、Staphylococcus、Klebsiella显著负相关（P<0.05），从而影响微生物生长代谢，下层水分显著影响Proteus、Salinicoccus、Saccharomyces、Staphylococcus、Klebsiella生长代谢（P<0.05）。Proteus、Saccharomyce、Staphylococcus、Klebsiella与发酵过程理化指标密切相关，上层醋醅中Proteus、Salinicoccus、Saccharomyce、Staphylococcus、Klebsiella微生物生长代谢促进了亚油酸乙酯、油酸乙酯等酯类化合物的生成，中、下层的发酵条件则抑制了部分酯类物质的生成。本研究从时空异质的角度解析了山西老陈醋发酵特性，阐明了风味物质形成规律，有助于全面阐明山西老陈醋酿造机理。
+{ISBN/ISSN}: 1002-6630
+{Notes}: 11-2206/TS
+{URL}: https://link.cnki.net/urlid/11.2206.TS.20240821.1348.012
+{Database Provider}: CNKI
+
+{Reference Type}: Journal Article
+{Title}: 国际数字医学的研究热点与前沿进展
+{Author}: 孙莹
+{Journal}: 中国组织工程研究
+{Year}: 2025
+{Volume}: 29
+{Issue}: 13
+{Pages}: 2639
+{Abstract}: <正>数字医学是一门计算机科学、信息学、电子学等与医学相互交叉的学科，研究的是将数字技术、信息技术、计算机技术、通信技术、人工智能技术、虚拟现实等技术作为工具应用于人类健康状况诊断、干预以及监控等医学领域中。随着社会的不断进步和现代科学技术的快速发展，人们进入了数字化时代。与此同时，数字医学的概念也渐渐为人熟知，相关数字医疗产品和数字化技术也日益广泛地应用于医疗保健和医学实践当中。尤其是近几年新冠肺炎疫情暴发期间，医疗大数据、
+{ISBN/ISSN}: 2095-4344
+{Notes}: 21-1581/R
+{URL}: https://kns.cnki.net/kcms2/article/abstract?v=lwcs1eIaudhaJR8Bf4yiiLZ_Oey-FOVBuTLfIMNLQrjwU5nZGSQikA5Iqk3mMSWiQBNm8qXg9e2g0bCIEwsFEgkRw1VK6CgUIac3qHdUetOxBMnEQrR39ovZq0fHOFtdwq3M44CxlftXrGfDiDKu5VyAl2CHF0xzJOAqejFphnniravCKZ7QCkBQ8EPMhObIzJnpYzLo3lI=&uniplatform=NZKPT&language=CHS
+{Database Provider}: CNKI
+
+{Reference Type}: Journal Article
+{Title}: 药食同源植物有效化学成分合成途径基因的组学研究进展
+{Author}: 蔡允璋;贾巧君
+{Author Address}: 浙江理工大学生命科学与医药学院;
+{Journal}: 天然产物研究与开发
+{Year}: 2025
+{Volume}: 37
+{Issue}: 01
+{Pages}: 182-193
+{Keywords}: 药食同源植物;有效化学成分;基因组学;转录组学;蛋白组学
+{Abstract}: 药食同源植物包含多糖、酚类、萜类等数种有效化学成分，因其保健、医疗等价值而备受关注。本文整理了已公布的药食同源植物基因组的相关研究，从转录组学、蛋白组学、代谢组学及联合分析等不同方面综述了药食同源植物中酚类、萜类、多糖、生物碱、脂质等有效化学成分的合成调控途径，总结了其细胞器基因组学的研究进展，并发现在药食同源植物中，有效化学成分合成途径的候选基因可通过模式植物转化体系进行功能验证；基因组学整合功能组学将有助于解析有效成分合成途径及其调控网络。文章旨在推动药食同源植物有效化学成分合成途径基因的组学研究进展，并为挖掘药食同源植物的药用价值提供借鉴。
+{ISBN/ISSN}: 1001-6880
+{Notes}: 51-1335/Q
+{URL}: https://link.cnki.net/doi/10.16333/j.1001-6880.2025.1.019
+{DOI}: 10.16333/j.1001-6880.2025.1.019
+{Database Provider}: CNKI
+
+{Reference Type}: Journal Article
+{Title}: 阿旺绵羊肠道噬菌体多样性
+{Author}: 普布扎西;王新平;赵思越;王宇皓;斯郎江措;巴桑次仁;次仁普赤;唐鸿杰;李娜;柴立旭
+{Author Address}: 西藏昌都市畜牧总站;四川农业大学;西藏昌都市贡觉县农牧科技推广服务中心;昌都市科学技术局;
+{Journal}: 应用与环境生物学报
+{Year}: 2025
+{Volume}: 31
+{Issue}: 01
+{Pages}: 131-142
+{Keywords}: 阿旺绵羊;宏基因组学;噬菌体;肠道微生物
+{Abstract}: 噬菌体在维持宿主肠道微环境中发挥着重要作用.基于宏基因组学方法全面研究阿旺绵羊肠道噬菌体.共注释到1 050种噬菌体，主要来自10个门、11个科、225个属和1 050个种.大多数噬菌体主要来自长尾病毒科Siphoviridae、短尾噬菌体科Podoviridae和肌尾噬菌体科Myoviridae，所占比例分别为29.9%、12.8%和9.1%.其中未分类到科的噬菌体占34.4%. 225个属主要为塞昆克病毒属Cequinquevirus(2.8%)、痘苗病毒属Vaccinivirus(2.8%)、副痘病毒属Parapoxvirus(1.8%)和弗鲁纳病毒属Friunavirus(1.1%)等.在种水平上，1050个噬菌体注释到的种包括有尾噬菌体Caudovirales＿phage(9.4%)、克拉斯噬菌体CrAss＿phage(3.4%)和蛭弧菌噬菌体Bdellovibrio＿phage(1.3%)等.此外，不同养殖方式之间，噬菌体群落结构存在显著差异（科水平：R=0.853,P <0.01；属水平：R=0.832,P <0.01；种水平：R=0.840,P <0.01）.在α多样性指数方面，不同养殖方式的Chao1指数与Shannon指数存在着显著差异.本研究揭示了阿旺绵羊肠道噬菌体的群落结构特征以及养殖方式对肠道噬菌体群落结构的重要影响，为利用肠道噬菌体进行疾病防控提供了新的视角，也为保障阿旺绵羊肠道健康提供了重要的理论依据.（图17表1参24）
+{ISBN/ISSN}: 1006-687X
+{Notes}: 51-1482/Q
+{URL}: https://link.cnki.net/doi/10.19675/j.cnki.1006-687x.2024.01003
+{DOI}: 10.19675/j.cnki.1006-687x.2024.01003
+{Database Provider}: CNKI
+
+{Reference Type}: Journal Article
+{Title}: 白酒大曲的酶系研究手段及功能酶研究进展
+{Author}: 严骋;张立强;冉茂芳;黄张君;曾运航;石碧
+{Author Address}: 四川大学轻工科学与工程学院;泸州品创科技有限公司,国家固态酿造工程技术研究中心;泸州老窖股份有限公司;
+{Journal}: 食品与发酵工业
+{Year}: 2025
+{Volume}: 51
+{Issue}: 03
+{Pages}: 368-375
+{Keywords}: 大曲;酶系;功能酶;组学技术;宏蛋白质组学
+{Abstract}: 大曲的酶系是影响大曲和白酒质量的关键因素之一，认识大曲的酶系对优化大曲工艺和解析白酒发酵机理具有重要意义。该文介绍了研究大曲酶系的先进技术手段及其优缺点，并总结了典型大曲中已知的功能酶组成。高通量测序和宏蛋白质组学技术可以从基因组、转录组和蛋白组等角度对大曲的酶系组成和功能进行解析。现有研究利用上述技术较清晰地认识了低温大曲、中温大曲和高温大曲中参与糖化和乙醇发酵途径的关键功能酶。但是，由于上述技术对低丰度酶检测困难，导致目前尚无法全面解析大曲中的生香功能酶，亟需升级相关分析检测技术，以推动大曲酶系的研究进程。
+{ISBN/ISSN}: 0253-990X
+{Notes}: 11-1802/TS
+{URL}: https://link.cnki.net/doi/10.13995/j.cnki.11-1802/ts.039448
+{DOI}: 10.13995/j.cnki.11-1802/ts.039448
+{Database Provider}: CNKI
+
+{Reference Type}: Journal Article
+{Title}: 基于宏基因组学分析西藏青稞酒发酵过程中微生物多样性与风味形成的关系
+{Author}: 张金萍;于佳俊;贾福晨;马文瑞;靳玉龙;朱子健;郭琪;张海鹏;张玉红;薛洁
+{Author Address}: 新疆农业大学食品科学与药学学院;中国食品发酵工业研究院有限公司;国家酒类品质与安全国际联合研究中心;西藏自治区农牧科学院农产品开发与食品科学研究所;
+{Journal}: 食品与发酵工业
+{Year}: 2025
+{Volume}: 51
+{Issue}: 05
+{Pages}: 310-321
+{Keywords}: 青稞酒;宏基因组测序;风味物质;微生物组成;贡献度
+{Abstract}: 利用宏基因组测序技术与固相微萃取气质联用色谱法分析青稞酒发酵过程中微生物多样性、风味物质变化特征及优势微生物属及其对关键代谢通路的贡献度。结果显示，在青稞酒样品中，乳酸杆菌属、根霉属、威克汉姆酵母属、发酵毕赤酵母属为发酵过程中主要优势菌；检测出13个酯类、15个醇类、4个醛类、2个酮类、2个酚类和1个吡嗪类共37种风味物质。宏基因组测序总共获得去冗长的基因823 072个，物种注释得到5个门微生物进行KEGG基因功能注释，全局和概述图谱、碳水化合物代谢、信号传导、能量代谢和氨基酸代谢的相对丰度处于高水平。同时得出不同微生物参与底物的代谢网络和风味形成存在分布差异，预测乳酸杆菌属、片球菌属、根霉属、酵母菌属和毕赤酵母属5个属微生物与风味形成的贡献度更相关。该研究有助于阐明青稞酒发酵过程中不同种类微生物在风味形成中的代谢作用。
+{ISBN/ISSN}: 0253-990X
+{Notes}: 11-1802/TS
+{URL}: https://link.cnki.net/doi/10.13995/j.cnki.11-1802/ts.039101
+{DOI}: 10.13995/j.cnki.11-1802/ts.039101
+{Database Provider}: CNKI
+
+{Reference Type}: Journal Article
+{Title}: 长期咸水滴灌对棉田土壤磷循环微生物群落结构及功能基因的影响
+{Author}: 叶扬;郭晓雯;杨茂琪;闵伟;郭慧娟
+{Author Address}: 石河子大学农学院,新疆生产建设兵团绿洲生态农业重点实验室;
+{Journal}: 环境科学
+{Year}: 2025
+{Volume}: 46
+{Issue}: 02
+{Pages}: 1225-1235
+{Keywords}: 咸水滴灌;宏基因组学;棉田土壤;磷循环;微生物
+{Abstract}: 干旱地区淡水资源匮乏，合理利用咸水资源可以缓解当地淡水短缺的问题，但长期咸水滴灌会增加土壤盐渍化风险，继而影响土壤养分的转化和微生物多样性.土壤的磷素供应对作物的生长至关重要，然而长期咸水滴灌如何影响土壤磷转化的过程还不清晰.因此，为探究长期咸水滴灌对棉田土壤磷转化微生物及其功能基因的影响，试验设置淡水(0.35 dS·m-1,FW)和咸水（8.04 dS·m-1,SW）两种灌溉水盐度.结果表明，长期咸水滴灌显著降低棉花干物质重、磷素吸收、产量以及土壤pH、Ca2-P和Ca10-P含量，但显著增加棉花含磷率和土壤含水量、电导率、速效磷、Ca8-P、Al-P、Fe-P和O-P含量.各处理在门水平上优势物种为变形菌门、放线菌门、酸杆菌门、芽单胞菌门和绿弯菌门；在纲水平上优势物种为α-变形菌纲、放线菌纲、β-变形菌纲、嗜热油菌纲和γ-变形菌纲.长期咸水滴灌显著降低放线菌门、酸杆菌门和硝化螺旋菌门的相对丰度，但显著增加变形菌门、芽单胞菌门和拟杆菌门的相对丰度；显著降低有机磷矿化基因phnA、转运基因pit以及多聚磷酸盐合成基因ppaC的表达量，但显著增加多聚磷酸盐降解基因HDDC3，有机磷矿化基因phnG、phoA、phnH、phnL、phnM、phnN、phnP和phnW，转运基因phnK、phnE、phnC和phnD以及调控基因phoB的表达量.相关性分析表明土壤磷循环微生物和功能基因与土壤理化性质以及土壤无机磷组分含量紧密相关.因此，长期咸水滴灌通过影响土壤理化性质和无机磷组分含量来改变土壤中磷循环微生物群落组成，进而驱动磷循环相关功能基因进行表达来调控和适应盐胁迫.
+{ISBN/ISSN}: 0250-3301
+{Notes}: 11-1895/X
+{URL}: https://link.cnki.net/doi/10.13227/j.hjkx.202402036
+{DOI}: 10.13227/j.hjkx.202402036
+{Database Provider}: CNKI
+
+{Reference Type}: Journal Article
+{Title}: 基于比较基因组学解析两歧双歧杆菌B1628遗传背景及潜在益生基因
+{Author}: 田桂铭;周润芝;吴琼;赵飞燕;李伟程;于洁
+{Author Address}: 内蒙古农业大学乳品生物技术与工程教育部重点实验室;
+{Journal}: 食品与发酵工业
+{Year}: 2025
+{Volume}: 51
+{Issue}: 03
+{Pages}: 72-80
+{Keywords}: 两歧双歧杆菌;比较基因组学;遗传背景;潜在益生基因
+{Abstract}: 该研究团队前期从健康婴儿粪便分离得到有较好耐酸耐胆盐能力的两歧双歧杆菌(Bifidobacterium bifidum)B1628,其灭活菌体可以缓解炎症性肠病(inflammatory bowel disease, IBD)小鼠结肠炎症性水肿，具有潜在应用价值。该研究基于生物信息学分析探究B.bifidum B1628的遗传背景和潜在益生基因，为其开发应用提供理论指导。对B.bifidum B1628进行Illumina与Oxford Nanopore结合的全基因组测序，结合NCBI Refseq数据库中119株B.bifidum基因组进行比较基因组学分析。B.bifidum B1628基因组仅有1条2 234 414 bp的环状染色体且不含质粒，GC含量为62.4%,包含1 769个蛋白质编码区。120株B.bifidum共包含6 554个泛基因，呈开放型。基于987个核心基因构建系统发育树，120株B.bifidum聚为8个不同的分支，呈地区聚集性，B.bifidum B1628属于分支1,该分支菌株均分离自中国。功能分析发现B.bifidum B1628包含叶酸、色氨酸、乳酸合成基因，耐酸、耐胆盐、氧化应激等与环境压力相关基因以及CRISPR-Cas适应性免疫系统。该研究揭示了B.bifidum B1628全基因组特征，发现多个潜在益生基因，为该菌株开发利用及产业化提供数据参考。
+{ISBN/ISSN}: 0253-990X
+{Notes}: 11-1802/TS
+{URL}: https://link.cnki.net/doi/10.13995/j.cnki.11-1802/ts.038536
+{DOI}: 10.13995/j.cnki.11-1802/ts.038536
+{Database Provider}: CNKI
+
+{Reference Type}: Journal Article
+{Title}: 基于宏基因组学分析不同膳食结构非酒精性脂肪肝患者的肠道菌群特点
+{Author}: 肖瑞;郭建锋;王琳琳;田培郡;金星;赵建新;陈卫;王刚
+{Author Address}: 江南大学食品学院;宜兴市人民医院;
+{Journal}: 食品与发酵工业
+{Year}: 2025
+{Volume}: 51
+{Issue}: 04
+{Pages}: 123-130
+{Keywords}: 宏基因组;非酒精性脂肪肝;肠道菌群;膳食结构
+{Abstract}: 非酒精性脂肪肝病是世界范围内的主要代谢类疾病之一，其与肠道菌群联系紧密。由于大量关于非酒精性脂肪肝病肠道标志物研究结果的不均一性，因此需要考虑是否是饮食差异所导致的。该研究纳入30名不同饮食结构的非酒精性脂肪肝病患者，分为15名高脂肪膳食摄入患者和15名高碳水膳食摄入患者，基于宏基因组学测序方法研究患者的肠道菌群。结果发现，2种膳食模式下的非酒精性脂肪肝病患者肠道菌群存在显著差异，在种水平上，长期高碳水摄入的患者肠道菌群以梭菌为主，长期高水平脂肪摄入者的肠道优势菌群则主要是普拉梭杆菌(Feacalibacterium prausnitzii);在功能上，高脂肪摄入患者富集在胆酸代谢通路上，而高碳水摄入患者富集在棕榈酸酯合成通路上。这一研究对未来的非酒精性脂肪肝动物特异性造模和进一步科学合理地指导非酒精性脂肪肝患者合理膳食有一定意义。
+{ISBN/ISSN}: 0253-990X
+{Notes}: 11-1802/TS
+{URL}: https://link.cnki.net/doi/10.13995/j.cnki.11-1802/ts.038975
+{DOI}: 10.13995/j.cnki.11-1802/ts.038975
+{Database Provider}: CNKI
+
+ 
