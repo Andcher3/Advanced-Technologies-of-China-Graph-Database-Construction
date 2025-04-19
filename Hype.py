@@ -1,4 +1,9 @@
-
+# --- 合并后词汇映射表 ---
+MERGED_SAVED_PATH = {
+    "Keywords": "data/merged_keywords.json",
+    'Author Address': "data/merged_address.json",
+    'Publisher': "data/merged_publisher.json"
+}
 
 # --- 关联节点的配置 ---
 

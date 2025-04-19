@@ -52,7 +52,7 @@ __pycache__/
 *.sql
 
 # 忽略 data 目录
-/data/
+/data/src_data
 /.cache/
 
 # HaMmer

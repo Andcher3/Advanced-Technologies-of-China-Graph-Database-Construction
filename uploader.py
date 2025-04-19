@@ -3,7 +3,7 @@ from neo4j import GraphDatabase
 import re
 
 # 请根据你的实际情况修改下面的连接信息
-uri = "neo4j://10.9.116.11:7687"  # Neo4j Bolt 协议地址
+uri = "neo4j+s://10.9.116.110:7474"  # Neo4j Bolt 协议地址
 username = "neo4j"  # 数据库用户名
 password = "123456788"
 
@@ -14,16 +14,27 @@ if __name__ == "__main__":
     from cleaner import cleaner_all
     from keyword_merger import keyword_merging
     from extractor import generate_neo4j_graph_queries
+    from Hype import MERGED_SAVED_PATH
+
+    try:
+        driver.verify_connectivity()
+    except Exception as e:
+        print(f"Connection error:\n{e}")
+        exit(1)
 
     all_data = cleaner_all("data/src_data")
 
     # --- 关键词合并 (使用更新后的 merger) ---
     print("运行关键词合并...")
     # 合并 Keywords
-    merged_data = keyword_merging(all_data, key_names=['Keywords'], similarity_threshold=0.9)
+    merged_data = keyword_merging(all_data, key_names=['Keywords'], similarity_threshold=0.95,
+                                  mapping_file_path=MERGED_SAVED_PATH["Keywords"], force_recompute=False)
     # 合并 Publishers 和 Places Published
-    merged_data = keyword_merging(merged_data, key_names=['Author Address'], similarity_threshold=0.95)
-    merged_data = keyword_merging(merged_data, key_names=['Place Published', 'Publisher'], similarity_threshold=0.9)
+    merged_data = keyword_merging(merged_data, key_names=['Author Address'], similarity_threshold=0.95,
+                                  mapping_file_path=MERGED_SAVED_PATH["Author Address"], force_recompute=False)
+
+    merged_data = keyword_merging(merged_data, key_names=['Place Published', 'Publisher'], similarity_threshold=0.96,
+                                  mapping_file_path=MERGED_SAVED_PATH["Publisher"], force_recompute=False)
     print(f"数据准备完毕，共 {len(merged_data)} 条记录用于提取 Cypher 查询。")
 
     # --- Cypher 生成 (使用本文件中的 extractor) ---
