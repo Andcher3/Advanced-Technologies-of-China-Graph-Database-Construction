@@ -221,7 +221,9 @@ if __name__ == "__main__":
     data = cleaner_all()
     # with open("cleaned_data.json", "w", encoding="utf-8") as f:
     #     json.dump(data, f, ensure_ascii=False, indent=4)
-    print(data[1]['Keywords'])
+    for sample in data:
+        if sample["Reference Type"] == "Book":
+            print(sample)
     # with open("address.json", "w", encoding="utf-8") as f:
     #     json.dump(list(sample["Author Address"] if "Author Address" in sample.keys() else None for sample in data), f, ensure_ascii=False, indent=4)
     # ========================= 检查各个类型的文献的属性==========================
