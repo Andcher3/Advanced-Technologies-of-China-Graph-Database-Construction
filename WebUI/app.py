@@ -29,8 +29,8 @@ def call_backend_api(user_input: str, history: list, use_neo4j: bool, chat_id: s
     payload = {
         "query": user_input,
         "history": history, # 完整的历史对话
-        "use_neo4j": use_neo4j,
-        "chat_id": chat_id # 传递当前对话ID
+        "neo4j_enabled": use_neo4j,
+        "session_id": chat_id # 传递当前对话ID
     }
     print(f"发送给后端的负载: {json.dumps(payload, ensure_ascii=False)}") # 调试输出
     
@@ -39,7 +39,7 @@ def call_backend_api(user_input: str, history: list, use_neo4j: bool, chat_id: s
 
     # --- 在这里替换为真实的API调用 ---
     try:
-        response = requests.post(BACKEND_API_URL, json=payload, timeout=30)
+        response = requests.post(BACKEND_API_URL, json=payload, timeout=120)
         print(f"后端响应: {response}") # 调试输出
         response.raise_for_status() # 如果HTTP错误 (4xx or 5xx) 则抛出异常
         backend_response = response.json()
