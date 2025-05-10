@@ -13,7 +13,7 @@ st.set_page_config(page_title="中国先进知识问答系统", layout="wide", i
 BACKEND_API_URL = "http://10.15.80.180:8000/answer" # 您的后端API地址
 
 # --- 数据库配置 ---
-DB_NAME = "chat_history.db"
+DB_NAME = "HaMmer_chat_history.db"
 
 # --- 数据库初始化和操作函数 (与您之前版本基本一致，确保 ON DELETE CASCADE 和 check_same_thread=False) ---
 def init_db():
@@ -170,7 +170,7 @@ def call_backend_api(user_input: str, history: list, use_neo4j: bool, chat_id: s
 
 # 侧边栏
 with st.sidebar:
-    st.image("https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.svg", width=150)
+    st.image("./WebUI_Front/assets/logo.png", width=150)
     st.title("问答系统控制面板")
     st.markdown("---")
 
