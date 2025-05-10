@@ -7,7 +7,7 @@ from neo4j import GraphDatabase,  Record
 
 # --- Neo4j 连接信息 (需要根据你的实际情况修改) ---
 # 建议从配置文件或环境变量读取
-NEO4J_URI = "bolt://10.5.132.251:7687"
+NEO4J_URI = "bolt://1.92.129.26:2223"
 NEO4J_USER = "neo4j"
 NEO4J_PASSWORD = "123456788"
 
