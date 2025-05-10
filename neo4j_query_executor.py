@@ -1,5 +1,6 @@
 import json
 import os
+import re
 from typing import List, Tuple, Optional, Any, Dict
 
 from neo4j.graph import Node, Relationship, Path
@@ -7,7 +8,7 @@ from neo4j import GraphDatabase,  Record
 
 # --- Neo4j 连接信息 (需要根据你的实际情况修改) ---
 # 建议从配置文件或环境变量读取
-NEO4J_URI = "bolt://10.9.116.110:7687"
+NEO4J_URI = "bolt://10.5.132.251:7687"
 NEO4J_USER = "neo4j"
 NEO4J_PASSWORD = "123456788"
 
@@ -153,6 +154,45 @@ def execute_cypher_query(query_string: str) -> Tuple[Optional[List[Record]], Opt
         return None, error_message
 
 
+def extract_search_terms_from_cypher(cypher_string: str) -> List[str]:
+    """
+    尝试从 Cypher 查询字符串中提取用于匹配 Keyword, Topic 或 Title 属性的值。
+    这个函数使用简化的正则表达式，可能无法处理所有复杂的Cypher语法。
+
+    参数:
+      cypher_string: LLM 生成的 Cypher 查询字符串。
+
+    返回:
+      提取到的潜在搜索词列表。
+    """
+    # 这个正则表达式尝试匹配以下模式中的单引号或双引号括起来的字符串：
+    # name: "..." 或 name: '...' (用于 Keyword, Topic, Author, Org 等)
+    # title = "..." 或 title = '...'
+    # title CONTAINS "..." 或 title CONTAINS '...'
+    # title =~ "..." 或 title =~ '...' (以及 abstract =~)
+    # abstract CONTAINS "..." 或 abstract CONTAINS '...'
+    # abstract =~ "..." 或 abstract =~ '...'
+    # ([^"']+) 捕获引号内的内容，但不处理转义引号（简化的体现）
+    # 使用非贪婪匹配 .*? 以防止跨越多个匹配项
+    pattern = r"(?:name|title)\s*[:=~]?=?(?:\s*CONTAINS)?\s*[\"'](.*?)[\"']"
+
+    search_terms = []
+    # 查找所有匹配项
+    matches = re.findall(pattern, cypher_string, re.IGNORECASE | re.DOTALL)  # 忽略大小写，让 '.' 匹配换行
+
+    # 过滤掉可能是属性名本身或其他非搜索词的情况（简单过滤短词）
+    for term in matches:
+        term = term.strip()
+        if term and len(term) > 1:  # 过滤掉空字符串和过短的词
+            search_terms.append(term)
+
+    # 移除重复项
+    search_terms = list(dict.fromkeys(search_terms))
+
+    print(f"从 Cypher 中提取的潜在搜索词: {search_terms}")
+    return search_terms
+
+
 # --- 与大模型交互的集成示例 (概念性代码) ---
 
 # 假设你已经有了大模型的客户端初始化代码
@@ -223,7 +263,7 @@ def query_knowledge_graph_with_llm(user_question: str, llm_client: Any) -> str:
     5.  **限制结果数量:** 通常在 RETURN 语句后加上 `LIMIT 10`，除非用户明确要求返回所有结果。
     
     请严格按照上述Schema和规则生成Cypher查询语句，只输出查询本身，不要包含任何额外文字或解释。
-    用户的输入可能会带有错别字，请谨慎的判别是否有错别字并替换为正确的短语。
+    用户的输入可能会带有错别字，请谨慎的判别是否有错别字并替换为正确的短语，若用户要查询的内容中带有其他语言，请翻译成中文查询。
     
     示例1 (处理关键词别名和年份过滤):
     用户问题: 2022年关于肺癌的论文有哪些？
@@ -257,7 +297,8 @@ def query_knowledge_graph_with_llm(user_question: str, llm_client: Any) -> str:
 
     messages_for_cypher = [
         {"role": "system", "content": cypher_generation_prompt},
-        {"role": "user", "content": user_question}  # 也可以把问题放在用户消息里
+        {"role": "user", "content": user_question}  # 也可以把问题放在用户消息里,
+
     ]
 
     try:
@@ -268,7 +309,11 @@ def query_knowledge_graph_with_llm(user_question: str, llm_client: Any) -> str:
             temperature=0,  # 生成 Cypher 需要确定性
             max_tokens=500  # 根据预期 Cypher 长度调整
         )
+
         generated_cypher = response_cypher.choices[0].message.content.strip()
+        # 从生成的 Cypher 中提取搜索词
+        potential_search_terms = extract_search_terms_from_cypher(generated_cypher)
+
         print(f"LLM 生成的 Cypher 查询:\n{generated_cypher}")
 
     except Exception as e:
@@ -292,13 +337,21 @@ def query_knowledge_graph_with_llm(user_question: str, llm_client: Any) -> str:
 
         # 如果结果为空，直接返回提示
         if "查询没有返回任何结果" in formatted_results_text:
-            return "抱歉，未能找到相关信息。"
+            # 调用回退搜索函数
+            fallback_answer = fallback_abstract_search(user_question, llm_client, potential_search_terms)
+            # 如果回退搜索找到了结果，返回回退结果；否则返回“未能找到信息”的提示
+            return fallback_answer if fallback_answer is not None else "抱歉，未能找到相关信息。"
 
         print("阶段 3: 请求 LLM 根据结果生成自然语言答案...")
-
         answer_generation_prompt = f"""
-        你是一个知识图谱问答助手。根据提供的查询结果，用自然语言简洁地回答用户的问题。
+        你是一个知识图谱问答助手。根据提供的查询结果，用自然语言回答用户的问题，回答要尽可能专业、逻辑清晰。
         只使用提供的查询结果中的信息。如果结果无法回答问题，请说明。
+
+        **特别注意：如果查询结果中包含了文献的 'abstract' (摘要) 属性，并且用户的问题与文献内容相关，请在回答时充分利用这些摘要信息。具体处理方法可以参考下面的内容。**
+        - 如果问题是直接索取摘要（例如：“请给我XX论文的摘要”），你的回答应该清晰地呈现该摘要。
+        - 如果问题是关于文献内容、主要观点、科研方法、主要贡献等，请基于摘要进行总结和回答。
+        - 如果问题非常具体，请根据问题进行回答，问题可能是：研究问题、方法论、主要发现、创新点、局限性、结论等。
+        - 如果摘要内容较长，可以进行适当的概括，但要忠于原文。
 
         用户问题: {user_question}
 
@@ -328,6 +381,131 @@ def query_knowledge_graph_with_llm(user_question: str, llm_client: Any) -> str:
         except Exception as e:
             print(f"LLM 生成最终答案失败: {e}")
             return f"抱歉，处理查询结果时遇到问题 ({e})"
+
+
+# --- 回退机制：摘要文本搜索 ---
+
+def fallback_abstract_search(user_question: str, llm_client: Any, search_terms: List[str], max_results: int = 100) -> Optional[str]:
+    """
+    当图谱查询无结果时，作为回退机制在文献摘要中进行文本搜索（使用 Cypher 正则），
+    并将匹配到的摘要交给大模型进行判断和总结。
+
+    参数:
+      user_question: 用户的原始问题。
+      llm_client: 大模型 API 客户端。
+      search_terms: 从用户问题中提取的用于文本搜索的关键词/短语列表。
+      max_results: 从数据库获取的最大匹配结果数量。
+
+    返回:
+      LLM 基于匹配摘要生成的答案，或 None 表示未能找到相关信息。
+    """
+    if not search_terms:
+        print("回退搜索：未提取到搜索关键词。")
+        return None
+
+    print(f"回退搜索：图谱查询无结果，尝试在摘要中进行 Cypher 正则文本匹配。搜索词: {search_terms}")
+
+    # 1. 构建 Cypher 查询
+    # Condition 1: Abstract matches ALL search terms
+    if not search_terms:
+        # Cannot match all terms if search_terms is empty, so this condition is false
+        abstract_regex_condition = "false"
+    else:
+        # Build regex for matching ALL terms
+        escaped_search_terms = [re.escape(term) for term in search_terms]
+        # Pattern: (?i)(?=.*term1)(?=.*term2)...*
+        abstract_regex_pattern = "(?i)" + "".join(f"(?=.*{term})" for term in escaped_search_terms) + ".*"
+        abstract_regex_condition = f"p.abstract IS NOT NULL AND p.abstract =~ '{abstract_regex_pattern}'"
+
+
+    # Condition 2: Related Topic matches ANY search term
+    if not search_terms:
+        # Cannot match any topic if search_terms is empty, so this condition is false
+        topic_condition = "false"
+    else:
+        # Build list literal for IN clause
+        quoted_terms = [f"{term}" for term in search_terms]
+        topic_terms_list = "|".join(quoted_terms)
+        # Use OPTIONAL MATCH and check if topic exists AND its name is in the list
+        topic_condition = f"topic IN topics WHERE topic.name IS NOT NULL AND topic.name =~ '(?i).*({topic_terms_list})'"
+
+
+    # Combine the two conditions with OR
+    # We need to structure the query to allow OPTIONAL MATCH for topic while filtering papers
+    # Approach: Filter papers by abstract condition first (if applicable), then OPTIONAL MATCH topic, then filter by topic condition
+    # Or, apply both conditions in the final WHERE after OPTIONAL MATCH
+    # Let's use the latter for simplicity, assuming the abstract IS NOT NULL check is sufficient before regex
+
+    fallback_query = f"""
+    MATCH (p)
+    WHERE (p:Patent OR p:Journal_Article OR p:Conference_Proceedings OR p:Thesis OR p:Other_Article OR p:Newspaper_Article OR p:Book)
+    OPTIONAL MATCH (p)-[:HAS_TOPIC]->(t:Topic) // Optional match for Topic node
+    WITH p, collect(t) AS topics
+    WHERE ({abstract_regex_condition}) OR any({topic_condition}) // Apply the combined condition
+    RETURN p // Return the node itself
+    LIMIT {max_results} // Limit the number of results
+    """
+
+    print(f"回退搜索：执行 Cypher 联合查询:\n{fallback_query}")
+
+    # 2. 执行 Cypher 联合查询
+    abstract_records, error = execute_cypher_query(fallback_query)
+
+    if error:
+        print(f"回退搜索：执行 Cypher 联合查询失败: {error}")
+        return None
+
+    if not abstract_records:
+        print("回退搜索：Cypher 联合查询没有匹配到任何结果。")
+        return None
+
+    print(f"回退搜索：Cypher 联合查询匹配到 {len(abstract_records)} 条结果:")
+    print(abstract_records)
+    # 3. 将匹配到的结果格式化并发送给 LLM 进行判断和总结
+    # 使用 format_neo4j_results_for_llm 格式化结果
+    returned_keys = abstract_records[0].keys() if abstract_records else []
+    formatted_abstract_results_text = format_neo4j_results_for_llm(abstract_records, returned_keys)
+
+    print("回退搜索：将匹配结果发送给 LLM 进行判断和总结。")
+
+    abstract_summary_prompt = f"""
+    根据以下提供的文献信息（标题、摘要等）中与用户问题相关的内容，回答用户的原始问题。
+    只使用提供的信息进行回答。如果提供的信息都与问题不相关，请直接返回”查询没有返回任何结果“。
+    用自然语言回答，简洁明了。
+
+    用户原始问题: {user_question}
+
+    提供的文献信息：
+    {formatted_abstract_results_text}
+
+    请根据以上信息，回答用户的问题：
+    """
+
+    messages_for_summary = [
+        {"role": "system", "content": abstract_summary_prompt},
+        {"role": "user", "content": f"总结与问题 '{user_question}' 相关的文献信息。"}
+    ]
+
+    try:
+        # 调用大模型 API
+        summary_response = llm_client.chat.completions.create(
+            model=DEEPSEEK_MODEL, # 使用与生成Cypher相同的模型，或根据需要选择
+            messages=messages_for_summary,
+            temperature=0.7, # 总结可以稍微灵活
+            max_tokens=1000 # 总结长度，根据结果数量调整
+        )
+        summary_answer = summary_response.choices[0].message.content.strip()
+        print(f"回退搜索：LLM 总结的结果:\n{summary_answer}")
+
+        # 简单的判断 LLM 是否认为结果相关（可能需要更健壮的判断逻辑）
+        if "查询没有返回任何结果" in summary_answer:
+             return None # LLM 认为结果不相关或无法总结
+
+        return summary_answer # 返回 LLM 总结的内容
+
+    except Exception as e:
+        print(f"回退搜索：LLM 总结失败: {e}")
+        return None # LLM 调用失败
 
 
 # --- 主函数示例 (需要实际运行环境和 API Key) ---
@@ -365,7 +543,7 @@ if __name__ == "__main__":
 
     # 确保你的数据库中有能匹配的节点和关系，以及对应的摘要等属性
     # 这里的示例问题需要LLM能够理解并转换为Cypher
-    example_question = "2022年带有唐尿病关键词的论文有哪些？"
+    example_question = "'生成式人工智能技术对教育领域的影响——关于ChatGPT的专访'这一篇文献的主要内容是什么？"
     # 假设 LLM 可能会生成类似这样的 Cypher:
     # MATCH (p:Paper)-[:HAS_KEYWORD]->(k:Keyword) WHERE k.name = '人工智能' RETURN p.title LIMIT 10
 
