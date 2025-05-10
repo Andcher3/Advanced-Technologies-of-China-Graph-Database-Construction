@@ -271,21 +271,20 @@ if __name__ == '__main__':
     from cleaner import cleaner, cleaner_all
     from Hype import *
 
-    save_path = "data/merged_address.json"
     deduped_records = cleaner_all(main_dir='data/src_data/')
     print(deduped_records[1]['Keywords'])
 
-    merged_data = keyword_merging(deduped_records, key_names=['Place Published', 'Publisher'], similarity_threshold=0.96,
-                                  mapping_file_path=MERGED_SAVED_PATH["Publisher"], force_recompute=False)
-    print(merged_data[1]['Keywords'])
+    # merged_data = keyword_merging(deduped_records, key_names=['Place Published', 'Publisher'], similarity_threshold=0.95,
+    #                               mapping_file_path=MERGED_SAVED_PATH["Publisher"], force_recompute=True)
+    # print(merged_data[1]['Keywords'])
 
-    merged_data = keyword_merging(merged_data, key_names=['Keywords'], similarity_threshold=0.95,
-                                  mapping_file_path=MERGED_SAVED_PATH["Keywords"], force_recompute=False)
-    print(merged_data[1]['Keywords'])
+    # merged_data = keyword_merging(deduped_records, key_names=['Keywords'], similarity_threshold=1,
+    #                               mapping_file_path=MERGED_SAVED_PATH["Keywords"], force_recompute=False)
+    # print(merged_data[1]['Keywords'])
     # 合并 Publishers 和 Places Published
     # 此处暂不启用（效果不佳）
-    # merged_data = keyword_merging(merged_data, key_names=['Author Address'], similarity_threshold=0.95,
-    #                               mapping_file_path=MERGED_SAVED_PATH["Author Address"], force_recompute=False)
+    merged_data = keyword_merging(deduped_records, key_names=['Author Address'], similarity_threshold=0.95,
+                                  mapping_file_path=MERGED_SAVED_PATH["Author Address"], force_recompute=True)
     #
 
 
