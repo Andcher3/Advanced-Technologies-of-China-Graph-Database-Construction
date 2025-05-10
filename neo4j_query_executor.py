@@ -429,6 +429,16 @@ def fallback_abstract_search(user_question: str, search_terms: List[str], max_re
         # Use OPTIONAL MATCH and check if topic exists AND its name is in the list
         topic_condition = f"topic IN topics WHERE topic.name IS NOT NULL AND topic.name =~ '(?i).*({topic_terms_list})'"
 
+    if not search_terms:
+        # Cannot match any topic if search_terms is empty, so this condition is false
+        address_condition = "false"
+    else:
+        # Build list literal for IN clause
+        quoted_terms = [f"{term}" for term in search_terms]
+        address_terms_list = "|".join(quoted_terms)
+        # Use OPTIONAL MATCH and check if topic exists AND its name is in the list
+        address_condition = f"address IN addresses WHERE address.name IS NOT NULL AND address.name =~ '(?i).*({address_terms_list})'"
+
 
     # Combine the two conditions with OR
     # We need to structure the query to allow OPTIONAL MATCH for topic while filtering papers
@@ -440,8 +450,9 @@ def fallback_abstract_search(user_question: str, search_terms: List[str], max_re
     MATCH (p)
     WHERE (p:Patent OR p:Journal_Article OR p:Conference_Proceedings OR p:Thesis OR p:Other_Article OR p:Newspaper_Article OR p:Book)
     OPTIONAL MATCH (p)-[:HAS_TOPIC]->(t:Topic) // Optional match for Topic node
-    WITH p, collect(t) AS topics
-    WHERE ({abstract_regex_condition}) OR any({topic_condition}) // Apply the combined condition
+    OPTIONAL MATCH(p) - [: AUTHOR_ADDRESS]->(addr:Author_Address)
+    WITH p, collect(t) AS topics, collect(addr) AS addresses
+    WHERE ({abstract_regex_condition}) OR any({topic_condition}) OR any({address_condition}) // Apply the combined condition
     RETURN p // Return the node itself
     LIMIT {max_results} // Limit the number of results
     """
