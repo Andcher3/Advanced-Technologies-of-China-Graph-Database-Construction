@@ -1,4 +1,3 @@
-import json
 import os
 import re
 from typing import List, Tuple, Optional, Any, Dict
@@ -14,7 +13,8 @@ NEO4J_PASSWORD = "123456788"
 
 # 全局 Driver 实例
 neo4j_driver: Optional[GraphDatabase.driver] = None
-
+# 全局 LLM 客户端实例
+llm_client_instance: Optional[Any] = None # 使用 Any 类型，因为具体类型取决于导入的库
 
 def get_neo4j_driver():
     """获取或初始化 Neo4j Driver 实例"""
@@ -200,7 +200,7 @@ from openai import OpenAI
 DEEPSEEK_API_KEY = "sk-5d02bdfb0c9a4c67a4ea6bf27ecb0792"  # 你的 API Key
 DEEPSEEK_BASE_URL = "https://api.deepseek.com"
 DEEPSEEK_MODEL = "deepseek-chat"  # 或者 "deepseek-chat" 如果你觉得它更适合处理结构化文本
-llm_client = OpenAI(api_key=DEEPSEEK_API_KEY, base_url=DEEPSEEK_BASE_URL)
+
 
 # 假设你的图谱 Schema 可以用文本描述（需要根据你的实际 Schema 编写）
 # 可以是节点标签、属性、关系类型及其方向的列表或结构化描述
@@ -237,7 +237,7 @@ GRAPH_SCHEMA_DESCRIPTION = """
 """
 
 
-def query_knowledge_graph_with_llm(user_question: str, llm_client: Any) -> str:
+def query_knowledge_graph_with_llm(user_question: str) -> str:
     """
     使用大模型回答关于知识图谱的问题。
     这是一个简化的两阶段过程：用户问题 -> LLM生成Cypher -> 执行Cypher -> LLM根据结果生成答案。
@@ -303,7 +303,7 @@ def query_knowledge_graph_with_llm(user_question: str, llm_client: Any) -> str:
 
     try:
         # 调用大模型 API
-        response_cypher = llm_client.chat.completions.create(
+        response_cypher = llm_client_instance.chat.completions.create(
             model=DEEPSEEK_MODEL,
             messages=messages_for_cypher,
             temperature=0,  # 生成 Cypher 需要确定性
@@ -338,7 +338,7 @@ def query_knowledge_graph_with_llm(user_question: str, llm_client: Any) -> str:
         # 如果结果为空，直接返回提示
         if "查询没有返回任何结果" in formatted_results_text:
             # 调用回退搜索函数
-            fallback_answer = fallback_abstract_search(user_question, llm_client, potential_search_terms)
+            fallback_answer = fallback_abstract_search(user_question, potential_search_terms)
             # 如果回退搜索找到了结果，返回回退结果；否则返回“未能找到信息”的提示
             return fallback_answer if fallback_answer is not None else "抱歉，未能找到相关信息。"
 
@@ -368,7 +368,7 @@ def query_knowledge_graph_with_llm(user_question: str, llm_client: Any) -> str:
 
         try:
             # 调用大模型 API 生成答案
-            response_answer = llm_client.chat.completions.create(
+            response_answer = llm_client_instance.chat.completions.create(
                 model=DEEPSEEK_MODEL,
                 messages=messages_for_answer,
                 temperature=0.5,  # 生成答案可以稍微灵活
@@ -385,7 +385,7 @@ def query_knowledge_graph_with_llm(user_question: str, llm_client: Any) -> str:
 
 # --- 回退机制：摘要文本搜索 ---
 
-def fallback_abstract_search(user_question: str, llm_client: Any, search_terms: List[str], max_results: int = 100) -> Optional[str]:
+def fallback_abstract_search(user_question: str, search_terms: List[str], max_results: int = 100) -> Optional[str]:
     """
     当图谱查询无结果时，作为回退机制在文献摘要中进行文本搜索（使用 Cypher 正则），
     并将匹配到的摘要交给大模型进行判断和总结。
@@ -488,7 +488,7 @@ def fallback_abstract_search(user_question: str, llm_client: Any, search_terms: 
 
     try:
         # 调用大模型 API
-        summary_response = llm_client.chat.completions.create(
+        summary_response = llm_client_instance.chat.completions.create(
             model=DEEPSEEK_MODEL, # 使用与生成Cypher相同的模型，或根据需要选择
             messages=messages_for_summary,
             temperature=0.7, # 总结可以稍微灵活
@@ -508,8 +508,8 @@ def fallback_abstract_search(user_question: str, llm_client: Any, search_terms: 
         return None # LLM 调用失败
 
 
-# --- 主函数示例 (需要实际运行环境和 API Key) ---
-if __name__ == "__main__":
+
+def init():
     # 初始化 Neo4j Driver
     neo4j_driver = get_neo4j_driver()
     if neo4j_driver is None:
@@ -526,9 +526,11 @@ if __name__ == "__main__":
             print("错误：请设置 DEEPSEEK_API_KEY 环境变量或在代码中提供。")
             exit(1)
 
-        llm_client = OpenAI(api_key=DEEPSEEK_API_KEY, base_url=DEEPSEEK_BASE_URL)
+        global llm_client_instance
+        llm_client_instance = OpenAI(api_key=DEEPSEEK_API_KEY, base_url=DEEPSEEK_BASE_URL)
+
         # 可以再次验证 LLM API 连接
-        # llm_client.models.list()
+        # llm_client_instance.models.list()
         print("大模型客户端初始化成功。")
 
     except ImportError:
@@ -538,26 +540,26 @@ if __name__ == "__main__":
         print(f"大模型客户端初始化失败: {e}")
         exit(1)
 
+
+
+def shutdown_resources():
+    """关闭资源"""
+    close_neo4j_driver()
+
+
+# --- 主函数示例 (需要实际运行环境和 API Key) ---
+if __name__ == "__main__":
+    llm_client_instance = init()
+
     # --- 示例问答流程 ---
     print("\n--- 开始示例问答 ---")
 
     # 确保你的数据库中有能匹配的节点和关系，以及对应的摘要等属性
     # 这里的示例问题需要LLM能够理解并转换为Cypher
     example_question = "'生成式人工智能技术对教育领域的影响——关于ChatGPT的专访'这一篇文献的主要内容是什么？"
-    # 假设 LLM 可能会生成类似这样的 Cypher:
-    # MATCH (p:Paper)-[:HAS_KEYWORD]->(k:Keyword) WHERE k.name = '人工智能' RETURN p.title LIMIT 10
 
-    # 如果你有 Topic 节点
-    # example_question = "关于量子计算的主题有哪些论文？"
-    # 假设 LLM 可能会生成类似这样的 Cypher:
-    # MATCH (p:Paper)-[:HAS_TOPIC]->(t:Topic {name: '量子计算'}) RETURN p.title LIMIT 10
+    final_answer = query_knowledge_graph_with_llm(example_question)
 
-    # 询问特定文献内容
-    # example_question = "介绍一下标题为'一种新的量子密钥分发协议'的论文内容。"
-    # 假设 LLM 可能生成 Cypher 来获取摘要:
-    # MATCH (p:Paper {title: '一种新的量子密钥分发协议'}) RETURN p.abstract LIMIT 1
-
-    final_answer = query_knowledge_graph_with_llm(example_question, llm_client)
     print(f"\n问答系统最终回答:\n{final_answer}")
 
     print("\n--- 示例问答结束 ---")
