@@ -53,6 +53,7 @@ __pycache__/
 
 # 忽略 data 目录
 /data/src_data
+/data/
 /.cache/
 
 # HaMmer
