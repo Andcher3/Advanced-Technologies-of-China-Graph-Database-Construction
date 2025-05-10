@@ -1,0 +1,41 @@
+分类规则与示例问题：
+类型一：通过 A 类节点查询 B 类节点 (A Node -> B Node)
+Document -> Author: 查找某篇文献的作者。
+示例问题：请问论文《深度学习在医学影像诊断中的应用》的作者是谁？
+Document -> Keyword: 查找某篇文献的关键词。
+示例问题：论文《一种新型量子计算架构》的关键词是什么？
+Document -> Organization: 查找某篇文献的出版或发表机构。
+示例问题：请问论文《5G技术发展趋势》的出版机构是哪个？
+Document -> AuthorAddress: 查找某篇文献作者的地址信息。
+示例问题：查找论文《高性能碳纤维材料的制备》的作者地址。
+Document -> Topic: 查找某篇文献的主题。 (假设已构建 Topic 节点和关系)
+示例问题：关于论文《基因编辑技术伦理探讨》的主题是什么？
+类型二：通过 A 类节点查询 Document 节点 (A Node -> Document Node)
+Author -> Document: 查找某位作者发表的文献。
+示例问题：张伟发表了哪些关于人工智能的论文？
+Keyword -> Document: 查找关于某个关键词的文献。
+示例问题：关于‘区块链’这个关键词的论文有哪些？
+Organization -> Document: 查找某个机构发表的文献。
+示例问题：中国科学院计算技术研究所发表了哪些专利？
+AuthorAddress -> Document: 查找与某个作者地址相关的文献。
+示例问题：地址为‘北京市海淀区中关村’相关的论文有哪些？
+Topic -> Document: 查找关于某个主题的文献。 (假设已构建 Topic 节点和关系)
+示例问题：关于‘脑机接口’这个主题的论文有哪些？
+类型三：通过 A 类节点查询不同于 A 类的 B 类节点 (A Node -> B Node, A != B)
+Author -> Organization (via Document): 查找某位作者所属或关联的机构。
+示例问题：请问作者李华主要在哪些机构工作或发表论文？
+Author -> Author (Collaboration via Document): 查找与某位作者合作发表过文献的其他作者。
+示例问题：与作者王芳合作发表过论文的其他作者有哪些？
+Keyword -> Keyword (Related via Document): 查找与某个关键词经常一同出现在文献中的其他关键词。
+示例问题：在关于‘机器学习’的论文中，还经常出现哪些其他关键词？
+Keyword -> Keyword (Alias): 查找某个关键词的别名或相似词。
+示例问题：‘AI’这个关键词的别名或相似词有哪些？ (同样适用于 Organization 和 AuthorAddress)
+类型四：通过节点查询其不同类属性 (Node -> Property)
+Document -> Specific Property: 查找某篇文献的某个特定属性（年份、摘要、DOI、URL 等）。
+示例问题：请问论文《新冠疫苗研发进展》的发表年份和摘要是什么？
+示例问题：查找专利《一种数据处理方法》的专利号（假设 ISBN/ISSN 在专利中作为专利号使用）。
+类型五：通过两类节点查询它们之间的关系 (A Node, B Node -> Relationship)
+Author, Document -> Relationship (AUTHORED/TERTIARY_AUTHORED): 判断某位作者是否是某篇文献的作者，或他们之间的关系类型。
+示例问题：张勇是否发表过标题为‘高性能计算方法研究’的论文？
+Document, Keyword -> Relationship (HAS_KEYWORD): 判断某篇文献是否包含某个关键词。
+示例问题：论文《基于大数据的医疗健康管理》是否包含关键词‘健康管理’？
