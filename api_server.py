@@ -13,9 +13,8 @@ from neo4j_query_executor import (
     init,
     shutdown_resources
 )
-from neo4j_query_executor import llm_client_instance
 
-
+init()
 # --- Pydantic Models for Request/Response ---
 
 class QueryInput(BaseModel):
@@ -50,8 +49,7 @@ async def startup_event():
     print("FastAPI startup event: Initializing resources...")
     try:
         # Initialize resources using the function from your script
-        global llm_client_instance
-        llm_client_instance = init()
+        pass
         print("Resources initialized successfully.")
     except Exception as e:
         print(f"Error during startup initialization: {e}")
@@ -78,9 +76,6 @@ async def get_answer(query_input: QueryInput):
     print(f"Received query for session {query_input.session_id}: {query_input.query}")
 
     # Check if LLM client was successfully initialized at startup
-    if llm_client_instance is None:
-        print("LLM client not initialized.")
-        raise HTTPException(status_code=500, detail="LLM client not available.")
 
     # Check if Neo4j driver was successfully initialized at startup
     # (query_knowledge_graph_with_llm will check for the driver internally,
