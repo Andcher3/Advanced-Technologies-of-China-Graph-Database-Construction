@@ -35,28 +35,31 @@ Document -> Specific Property: 查找某篇文献的某个特定属性（年份�
 
 10.带有"区块链"关键词的论文各年发表的数量是多少？
 
-11.你能查询哪些信息？
-
 
 类型四：通过两类节点查询它们之间的关系 (A Node, B Node -> Relationship)
 
-12.Author, Document -> (AUTHORED/TERTIARY_AUTHORED): 判断某位作者是否是某篇文献的作者，或他们之间的关系类型。
-示例问题：
+11.Author, Document -> (AUTHORED/TERTIARY_AUTHORED): 判断某位作者是否是某篇文献的作者，或他们之间的关系类型。
+示例问题：张勇健发表了“有机硫化合物的电化学转化”还是“钢铁行业尾气制备乙醇及其工业化应用技术论述”？
 
-13.
+
+12.Document, keyword ->关系  判断某篇论文是否有某关键词
+示例问题：“面向领域知识图谱构建的关键技术研究”是否带有关键词“多头选择机制”
+
 
 类型五：多跳问题 (A Node -> B Node -> C Node)
 
-14.Author->Document->Author:查找与某个作者联合发表过文献的作者。
+13.Author->Document->Author:查找与某个作者联合发表过文献的作者。
 示例问题：哪些作者与王芳合作发表过文献？
 
-15.Keyword -> Document -> Keyword: 查找与某个关键词经常一同出现在文献中的其他关键词。
+14.Keyword -> Document -> Keyword: 查找与某个关键词经常一同出现在文献中的其他关键词。
 示例问题：在关于‘机器学习’的论文中，还经常出现哪些其他关键词？
 
-16.Organization -> Paper -> Topic/Keyword: 查找某个机构发表文献的所属领域。
+15.Organization -> Paper -> Topic/Keyword: 查找某个机构发表文献的所属领域。
 示例问题：大连理工大学发表过哪些领域的文献？
 
 
 类型六：综合复杂问题(A Node -> Relationship -> B Node -> C Node.Property)
-17.Author->Document->Author->Document->Topic => Document.abstract
+16.Author->Document->Author->Document->Topic => Document.abstract
 与王芳合作过的作者都发表过哪些领域的文献？这些文献的内容都是什么？
+
+17.你能查询哪些信息？
