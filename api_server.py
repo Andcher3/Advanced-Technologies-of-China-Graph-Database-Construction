@@ -92,7 +92,7 @@ async def get_answer(query_input: QueryInput):
     # We need to modify neo4j_query_executor.py to use the global instance instead.
     try:
         # Call the main QA logic function
-        final_answer = query_knowledge_graph_with_llm(query_input.query)
+        final_answer = query_knowledge_graph_with_llm(query_input.query+"\n"+str(query_input.history))
         print(f"Generated answer for session {query_input.session_id}: {final_answer}")
         return AnswerOutput(answer=final_answer)
 
