@@ -254,6 +254,7 @@ def query_knowledge_graph_with_llm(user_question: str) -> str:
     重要说明：
     - **别名关系**: `(Keyword)-[:ALIAS_OF]->(Keyword)`, `(Organization)-[:ALIAS_OF]->(Organization)`, `(AuthorAddress)-[:ALIAS_OF]->(AuthorAddress)`. 并非所有 Keyword/Organization/AuthorAddress 节点都有别名关系。
     - **部分节点属性可能缺失**: 例如，某些文献可能没有 year, abstract, url, doi 等属性。
+    - **地址关系**: 在用户查询文献的发布机构时，应当将该文献连接的Author_Adress节点一并考虑在查询范围内。
     
     生成Cypher查询的规则：
     1.  **处理可选关系 (如别名关系):** 当你需要查询一个节点及其别名或相关联的可选节点时，请使用 `OPTIONAL MATCH`。例如，要查找一个Keyword及其别名，使用 `MATCH (k:Keyword {{name: "某个词"}}) OPTIONAL MATCH (k)-[:ALIAS_OF]->(alias)`。之后在 WHERE 子句中可以使用 `WHERE relatedNode = k OR relatedNode = alias` 来匹配原始节点或其别名。
@@ -567,7 +568,7 @@ if __name__ == "__main__":
 
     # 确保你的数据库中有能匹配的节点和关系，以及对应的摘要等属性
     # 这里的示例问题需要LLM能够理解并转换为Cypher
-    example_question = "'生成式人工智能技术对教育领域的影响——关于ChatGPT的专访'这一篇文献的主要内容是什么？"
+    example_question = "'你能查询哪些信息？"
 
     final_answer = query_knowledge_graph_with_llm(example_question)
 
